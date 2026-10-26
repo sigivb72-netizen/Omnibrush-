@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "omnibrush"
+version = "0.1.0"
+description = "Convert Clip Studio Paint brushes (.sut) into Photoshop .abr, GIMP .gbr and PNG tips for use in other apps"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy", "Pillow"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.scripts]
+omnibrush = "omnibrush.cli:main"
+
+[tool.setuptools]
+packages = ["omnibrush"]
