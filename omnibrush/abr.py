@@ -70,9 +70,14 @@ def _fit(img: np.ndarray, limit: int = MAX_TIP) -> np.ndarray:
 def _sample(sid: str, img: np.ndarray) -> bytes:
     img = np.ascontiguousarray(_fit(img), dtype=np.uint8)
     h, w = img.shape
-    body = bytes([len(sid)]) + sid.encode("ascii") + b"\x00" * 264
-    body += struct.pack(">4iHB", 0, 0, h, w, 8, 1) + _rle(img)
-    return struct.pack(">I", len(body)) + _pad4(body)
+    # Virtual memory array, laid out exactly as Photoshop writes it: 56 declared
+    # channels, 55 empty slots, the 8-bit opacity channel, then 2 empty slots.
+    chan = struct.pack(">I4iHB", 8, 0, 0, h, w, 8, 1) + _rle(img)
+    vm = struct.pack(">4iI", 0, 0, h, w, 56) + b"\x00" * (55 * 4)
+    vm += struct.pack(">II", 1, len(chan)) + chan + b"\x00" * 8
+    body = bytes([len(sid)]) + sid.encode("ascii")
+    body = _pad4(body + struct.pack(">HHII", 1, 0, 3, len(vm)) + vm)
+    return struct.pack(">I", len(body)) + body
 
 
 def _pattern(pid: str, name: str, gray: np.ndarray) -> bytes:
@@ -89,8 +94,8 @@ def _pattern(pid: str, name: str, gray: np.ndarray) -> bytes:
     nm = name.encode("utf-16-be")
     rec = struct.pack(">IIhh", 1, 3, h, w) + struct.pack(">I", len(nm) // 2) + nm
     rec += bytes([len(pid)]) + pid.encode("ascii")
-    rec += struct.pack(">II", 3, len(vm)) + vm
-    return struct.pack(">I", len(rec)) + _pad4(rec)
+    rec = _pad4(rec + struct.pack(">II", 3, len(vm)) + vm)
+    return struct.pack(">I", len(rec)) + rec
 
 
 def _dyn(d: Dynamics | None) -> Obj:
@@ -208,12 +213,12 @@ def _preset(b: Brush, sample_id: str | None, pattern: tuple[str, str] | None) ->
     return Obj("brushPreset", items)
 
 
-def write_abr(brushes: list[Brush]) -> bytes:
+def write_abr(brushes: list[Brush], textures: bool = True) -> bytes:
     samples, patterns, presets = b"", b"", []
     for b in brushes:
         tips = b.tips or [None]
         pattern = None
-        if b.texture is not None:
+        if textures and b.texture is not None:
             pid = str(uuid.uuid4())
             pattern = (pid, b.texture.name)
             img = 255 - b.texture.image if b.texture.invert else b.texture.image
@@ -222,14 +227,13 @@ def write_abr(brushes: list[Brush]) -> bytes:
         for i, tip in enumerate(tips):
             sid = None
             if tip is not None:
-                sid = "$" + str(uuid.uuid4())
+                sid = str(uuid.uuid4())
                 samples += _sample(sid, tip)
             preset_brush = b if i == 0 else _renamed(b, f"{b.name} (tip {i + 1})")
             presets.append(_preset(preset_brush, sid, pattern))
     out = struct.pack(">HH", 6, 2)
     out += _section("samp", samples)
-    if patterns:
-        out += _section("patt", patterns)
+    out += _section("patt", patterns)  # Photoshop always writes this section, even when empty
     out += _section("desc", encode(Obj("null", [("Brsh", presets)])))
     return out
 

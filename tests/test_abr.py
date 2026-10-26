@@ -68,3 +68,24 @@ def test_real_sut(tmp_path):
     assert b["tips"], "tip image should be decoded"
     r = read_abr((tmp_path / rep["files"][0]).read_bytes())
     assert len(r["samples"]) == len(b["tips"])
+
+
+def test_sample_layout_matches_photoshop():
+    """Byte layout of a samp entry as written by Photoshop (checked against a real CS5+ file)."""
+    import struct
+    tip = np.full((10, 7), 255, np.uint8)
+    data = write_abr([Brush(name="x", tips=[tip])])
+    n = struct.unpack(">I", data[16:20])[0]
+    assert n % 4 == 0
+    e = data[20:20 + n]
+    assert e[0] == 36 and b"$" not in e[1:37]  # bare 36-char UUID
+    m = e[37:]
+    one, zero, ver, vmlen = struct.unpack(">HHII", m[:12])
+    assert (one, zero, ver) == (1, 0, 3)
+    assert struct.unpack(">4iI", m[12:32]) == (0, 0, 10, 7, 56)
+    assert m[32:252] == b"\x00" * 220
+    written, slot_len, depth = struct.unpack(">III", m[252:264])
+    assert (written, depth) == (1, 8)
+    assert struct.unpack(">4iHB", m[264:283]) == (0, 0, 10, 7, 8, 1)
+    assert m[264 - 4 + slot_len:264 - 4 + slot_len + 8] == b"\x00" * 8
+    assert 12 + vmlen <= len(m)

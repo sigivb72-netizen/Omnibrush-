@@ -81,6 +81,11 @@ def convert(inputs: list[Path], out_dir: Path, pack_name: str | None = None) -> 
     abr_path = out_dir / f"{pack}.abr"
     abr_path.write_bytes(write_abr(brushes))
     report["files"].append(abr_path.name)
+    if any(b.texture is not None for b in brushes):
+        # Same brushes without the texture pattern, for importers that reject patterns.
+        plain = out_dir / f"{pack} (no texture).abr"
+        plain.write_bytes(write_abr(brushes, textures=False))
+        report["files"].append(plain.name)
 
     for b in brushes:
         bdir = out_dir / _safe(b.name)
