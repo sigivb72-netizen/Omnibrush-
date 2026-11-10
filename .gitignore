@@ -9,3 +9,4 @@ ios/build/
 node_modules/
 *.keystore
 *.p12
+ios/OmniMirror/Info.plist

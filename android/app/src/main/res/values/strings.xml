@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OmniMirror</string>
+    <string name="start">Start mirroring</string>
+    <string name="stop">Stop mirroring</string>
+    <string name="idle_hint">Share this phone\'s screen with an iPad on the same Wi-Fi.</string>
+    <string name="section_connect">On your iPad</string>
+    <string name="section_receivers">Receivers nearby</string>
+    <string name="section_manual">Manual pairing</string>
+    <string name="section_settings">Quality</string>
+    <string name="searching">Searching for iPads running OmniMirror…</string>
+    <string name="hint_ip">iPad IP address (optional)</string>
+    <string name="hint_code">Code shown on the iPad</string>
+    <string name="connect">Connect</string>
+    <string name="resolution">Resolution</string>
+    <string name="frame_rate">Frame rate</string>
+    <string name="bitrate">Maximum bitrate</string>
+    <string name="adaptive">Lower quality automatically when Wi-Fi struggles</string>
+    <string name="new_code">New code</string>
+    <string name="manual_hint">Leave the address empty to find the iPad by its code.</string>
+    <string name="channel_name">Screen mirroring</string>
+</resources>
