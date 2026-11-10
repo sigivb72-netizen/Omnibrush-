@@ -1,4 +1,11 @@
-__pycache__/
-*.egg-info/
-converted/
-.pytest_cache/
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+ios/*.xcodeproj
+ios/build/
+node_modules/
+*.keystore
+*.p12
