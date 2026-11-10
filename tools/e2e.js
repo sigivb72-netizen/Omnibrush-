@@ -4,6 +4,8 @@
 // Prints what the receiver measured each second and fails if no video was rendered.
 //
 //   node tools/e2e.js [--mode webcodecs|mse] [--size 1920x1080] [--fps 60] [--bitrate 8000] [--seconds 12] [--https]
+//                    [--rotate 5]     swap width/height every 5 s (orientation change)
+//                    [--restart 6]    kill and restart the sender after 6 s (reconnection)
 //
 // Build the simulator first: (cd android && ./gradlew :simulator:installDist)
 const { spawn, execFileSync } = require('child_process');
@@ -34,13 +36,17 @@ const sim = path.join(__dirname, '../android/simulator/build/install/simulator/b
       '-validity', '30', '-storetype', 'PKCS12', '-keystore', ks, '-storepass', 'omnimirror', '-keypass', 'omnimirror'], { stdio: 'ignore' });
     simArgs.push('--keystore', ks);
   }
-  const proc = spawn(sim, simArgs, { stdio: ['ignore', 'pipe', 'inherit'] });
+  if (args.rotate) simArgs.push('--rotate', String(args.rotate));
   const simLog = [];
-  await new Promise((resolve, reject) => {
+  let proc;
+  const startSimulator = () => new Promise((resolve, reject) => {
+    proc = spawn(sim, simArgs, { stdio: ['ignore', 'pipe', 'inherit'] });
+    const mine = proc;
     proc.stdout.on('data', (d) => { simLog.push(String(d)); if (String(d).includes('serving')) resolve(); });
-    proc.on('exit', () => reject(new Error('simulator exited')));
+    proc.on('exit', () => { if (proc === mine && !mine.expected) reject(new Error('simulator exited')); });
     setTimeout(() => reject(new Error('simulator did not start')), 20000);
   });
+  await startSimulator();
 
   const browser = await chromium.launch({ args: ['--autoplay-policy=no-user-gesture-required'] });
   const context = await browser.newContext({ ignoreHTTPSErrors: true, viewport: { width: 1180, height: 820 } });
@@ -54,6 +60,12 @@ const sim = path.join(__dirname, '../android/simulator/build/install/simulator/b
   const rows = [];
   for (let s = 1; s <= seconds; s++) {
     await page.waitForTimeout(1000);
+    if (Number(args.restart) === s) {
+      console.log('  -- sender killed; restarting it in 2 s --');
+      proc.expected = true;
+      proc.kill('SIGKILL');
+      setTimeout(() => startSimulator().catch(() => {}), 2000);
+    }
     const st = await page.evaluate(() => window.__omm.stats);
     rows.push(st);
     console.log(`  ${String(s).padStart(3)}   ${st.state.padEnd(10)} ${String(st.fps).padStart(4)}  ${st.latencyMs.toFixed(1).padStart(10)}  ` +
@@ -61,6 +73,7 @@ const sim = path.join(__dirname, '../android/simulator/build/install/simulator/b
   }
   if (args.screenshot) await page.screenshot({ path: args.screenshot });
   await browser.close();
+  proc.expected = true;
   proc.kill();
 
   const steady = rows.slice(3).filter((r) => r.fps > 0);

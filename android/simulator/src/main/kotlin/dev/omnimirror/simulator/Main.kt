@@ -29,8 +29,7 @@ fun main(args: Array<String>) {
     val port = (opt["port"] ?: "47800").toInt()
     val pin = opt["pin"] ?: "123456"
 
-    lateinit var hub: SenderHub
-    hub = SenderHub("Simulator", { pin }, object : SenderHub.Listener {
+    val hub = SenderHub("Simulator", { pin }, object : SenderHub.Listener {
         override fun onReceiversChanged(count: Int) = println("receivers: $count")
         override fun onLog(message: String) = println(message)
     })
@@ -49,6 +48,21 @@ fun main(args: Array<String>) {
         }
     }
 
+    // --rotate N swaps width and height every N seconds, like turning the phone.
+    val rotateEvery = (opt["rotate"] ?: "0").toLong()
+    var w = width
+    var h = height
+    while (true) {
+        stream(hub, w, h, fps, kbps, if (rotateEvery > 0) System.nanoTime() + rotateEvery * 1_000_000_000 else Long.MAX_VALUE)
+        if (rotateEvery <= 0) break
+        w = h.also { h = w }
+        println("rotating to ${w}x$h")
+    }
+    println("ffmpeg exited")
+}
+
+/** Encodes and publishes a test pattern until ffmpeg exits or [untilNs] passes. */
+private fun stream(hub: SenderHub, width: Int, height: Int, fps: Int, kbps: Int, untilNs: Long) {
     val ffmpeg = ProcessBuilder(
         "ffmpeg", "-hide_banner", "-loglevel", "error", "-re",
         "-f", "lavfi", "-i", "testsrc2=size=${width}x$height:rate=$fps",
@@ -57,7 +71,8 @@ fun main(args: Array<String>) {
         "-g", (fps * 2).toString(), "-x264-params", "aud=1:repeat-headers=1",
         "-flush_packets", "1", "-f", "h264", "-",
     ).redirectError(ProcessBuilder.Redirect.INHERIT).start()
-    Runtime.getRuntime().addShutdownHook(Thread { ffmpeg.destroy() })
+    val killer = Thread { ffmpeg.destroy() }
+    Runtime.getRuntime().addShutdownHook(killer)
 
     // Access units are delimited by AUD NALs (aud=1), so splitting the byte stream is trivial.
     val input = ffmpeg.inputStream
@@ -67,14 +82,15 @@ fun main(args: Array<String>) {
     fun emit(unit: ByteArray) {
         if (unit.isEmpty()) return
         val ptsUs = System.nanoTime() / 1000
+        val key = H264.containsIdr(unit)
         if (!announced) {
             val sets = H264.parameterSets(unit) ?: return
             hub.setStreamInfo(StreamInfo(width, height, fps, kbps * 1000, sets.first, sets.second))
             announced = true
         }
-        hub.publishFrame(videoPayload(unit, 0, unit.size, ptsUs, H264.containsIdr(unit)), H264.containsIdr(unit))
+        hub.publishFrame(videoPayload(unit, 0, unit.size, ptsUs, key), key)
     }
-    while (true) {
+    while (System.nanoTime() < untilNs) {
         val n = input.read(chunk)
         if (n < 0) break
         val before = pending.size()
@@ -96,7 +112,9 @@ fun main(args: Array<String>) {
             pending.write(buf, unitStart, buf.size - unitStart)
         }
     }
-    println("ffmpeg exited")
+    ffmpeg.destroy()
+    ffmpeg.waitFor()
+    runCatching { Runtime.getRuntime().removeShutdownHook(killer) }
 }
 
 private fun sslContext(file: File): SSLContext {

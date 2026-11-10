@@ -313,6 +313,7 @@ class MseRenderer {
 
   watchFrames() {
     if (this.video.requestVideoFrameCallback) this.video.requestVideoFrameCallback(this.onVideoFrame);
+    this.watching = true;
   }
 
   configure(info) {
@@ -337,7 +338,7 @@ class MseRenderer {
     });
     this.video.disableRemotePlayback = true;
     this.video.src = URL.createObjectURL(this.source);
-    this.watchFrames();
+    if (!this.watching) this.watchFrames(); // one callback chain, however often the stream restarts
     this.video.play().catch(() => {});
   }
 
@@ -382,8 +383,8 @@ class MseRenderer {
     if (!b || !v.buffered.length) return;
     const end = v.buffered.end(v.buffered.length - 1);
     const behind = end - v.currentTime;
-    if (behind > 0.3 || behind < 0) v.currentTime = Math.max(0, end - 0.04);
-    else v.playbackRate = behind > 0.12 ? 1.15 : 1;
+    if (behind > 0.25 || behind < 0) v.currentTime = Math.max(0, end - 0.03);
+    else v.playbackRate = behind > 0.05 ? 1.1 : 1; // drift back to the live edge without a visible jump
     if (v.paused) v.play().catch(() => {});
     const start = v.buffered.start(0);
     if (!b.updating && v.currentTime - start > 8) { try { b.remove(start, v.currentTime - 2); } catch (e) { /* retried next tick */ } }
@@ -511,6 +512,8 @@ function connect() {
     if (session.ws !== ws) return;
     stopTimers();
     session.ws = null;
+    session.stats.fps = 0;
+    session.stats.mbps = 0;
     if (!session.wanted) return;
     setState('connecting', 'Reconnecting…');
     if (ui.panel.style.display !== 'none') ui.message.textContent = 'Cannot reach the phone. Retrying…';
