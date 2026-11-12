@@ -1,0 +1,2 @@
+# Safe XML parsing for untrusted RSS feeds. Everything else is the standard library.
+defusedxml==0.7.1

@@ -1,0 +1,29 @@
+{
+  "_comment": "RSS/Atom feeds the scraper reads. Each was checked by hand on 2026-11-12 (see 'note'). The scraper re-checks robots.txt on every run and skips a source whenever it is disallowed, unreachable or not a real feed. Set enabled=false to switch one off.",
+  "feeds": [
+    {"id": "pocketgamer", "name": "Pocket Gamer", "url": "https://www.pocketgamer.com/rss/", "lang": "en", "enabled": true,
+     "note": "RSS 2.0 feed; robots.txt allows all."},
+    {"id": "gematsu", "name": "Gematsu", "url": "https://www.gematsu.com/feed", "lang": "en", "enabled": true,
+     "note": "RSS 2.0 feed; robots.txt allows /feed (Crawl-delay 10, one request per run)."},
+    {"id": "qooapp", "name": "QooApp News", "url": "https://news.qoo-app.com/feed/", "lang": "zh", "enabled": true,
+     "note": "RSS 2.0 feed (Chinese edition; the /en/feed/ URL returns an empty body). robots.txt only blocks named AI/SEO bots."},
+    {"id": "4gamer", "name": "4Gamer (Smartphone)", "url": "https://www.4gamer.net/rss/smartphone/smartphone_index.xml", "lang": "ja", "enabled": true,
+     "note": "RSS 1.0 (RDF) feed; robots.txt disallows nothing."},
+    {"id": "ruliweb", "name": "Ruliweb News", "url": "https://bbs.ruliweb.com/news/rss", "lang": "ko", "enabled": true,
+     "note": "RSS 2.0 feed; /news/rss is not in the robots.txt disallow list."},
+    {"id": "inven", "name": "Inven", "url": "https://webzine.inven.co.kr/news/rss.php", "lang": "ko", "enabled": true,
+     "note": "RSS 2.0 feed; path is not disallowed by robots.txt."},
+    {"id": "gamerbraves", "name": "GamerBraves", "url": "https://gamerbraves.com/feed/", "lang": "en", "enabled": true,
+     "note": "WordPress feed exists, but the site answered robots.txt and the feed with a Cloudflare 403 challenge when checked. Left enabled: the scraper skips it automatically while robots.txt is unreadable."},
+    {"id": "famitsu-app", "name": "Famitsu App", "url": "https://app.famitsu.com/feed/", "lang": "ja", "enabled": false,
+     "note": "No feed: the URL returns the HTML homepage. Disabled (HTML scraping is out of scope)."},
+    {"id": "gamewith", "name": "GameWith", "url": "https://gamewith.jp/feed", "lang": "ja", "enabled": false,
+     "note": "No feed found (404 on /feed and /rss). Disabled."},
+    {"id": "taptap", "name": "TapTap", "url": "https://www.taptap.io/rss", "lang": "en", "enabled": false,
+     "note": "No RSS feed (URL returns the HTML app shell). Disabled."}
+  ],
+  "stores": {
+    "googlePlay": {"enabled": true, "note": "play.google.com/robots.txt allows /store/apps/details. Checked per region with the gl= parameter."},
+    "appStore": {"enabled": true, "note": "apps.apple.com/robots.txt allows /{country}/app/ pages. Only used for games that have an appStore link."}
+  }
+}
