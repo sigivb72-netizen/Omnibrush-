@@ -7,12 +7,13 @@ import app.mygachalist.data.db.AppDatabase
 import app.mygachalist.data.remote.GachaApi
 import app.mygachalist.work.Notifier
 import app.mygachalist.work.RefreshWorker
+import androidx.work.Configuration
 import coil.ImageLoader
 import coil.ImageLoaderFactory
 import coil.disk.DiskCache
 import coil.memory.MemoryCache
 
-class MyGachaListApp : Application(), ImageLoaderFactory {
+class MyGachaListApp : Application(), ImageLoaderFactory, Configuration.Provider {
     val repository: Repository by lazy {
         Repository(this, AppDatabase.create(this), GachaApi.create(this), Prefs(this))
     }
@@ -20,8 +21,12 @@ class MyGachaListApp : Application(), ImageLoaderFactory {
     override fun onCreate() {
         super.onCreate()
         Notifier.createChannels(this)
-        RefreshWorker.schedule(this)
+        // Background refresh is a nice-to-have: never let a scheduling problem stop the app from opening.
+        runCatching { RefreshWorker.schedule(this) }
     }
+
+    override val workManagerConfiguration: Configuration
+        get() = Configuration.Builder().build()
 
     /** Small caches and RGB_565 bitmaps: covers are thumbnails, and the target phone has 4 GB RAM. */
     override fun newImageLoader(): ImageLoader = ImageLoader.Builder(this)

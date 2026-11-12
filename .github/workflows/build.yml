@@ -45,9 +45,9 @@ jobs:
         run: |
           if [ -f scraper/validate.py ]; then python scraper/validate.py; fi
 
-      - name: Unit tests and debug APK
+      - name: Build debug APK
         run: >
-          ./gradlew --no-daemon testDebugUnitTest assembleDebug
+          ./gradlew --no-daemon assembleDebug
           -PdataRepo=${{ github.repository }}
           -PdataBranch=${{ github.head_ref || github.ref_name }}
           -PbuildNumber=${{ github.run_number }}
@@ -57,9 +57,26 @@ jobs:
           mkdir -p out
           cp app/build/outputs/apk/debug/app-debug.apk out/MyGachaList-debug-${{ github.run_number }}.apk
 
+      # Uploaded before the tests run, so an APK is available even when a test fails.
       - uses: actions/upload-artifact@v4
         with:
           name: MyGachaList-debug-apk
           path: out/*.apk
           if-no-files-found: error
           retention-days: 30
+
+      - name: Unit tests and app walkthrough
+        run: >
+          ./gradlew --no-daemon testDebugUnitTest
+          -PdataRepo=${{ github.repository }}
+          -PdataBranch=${{ github.head_ref || github.ref_name }}
+          -PbuildNumber=${{ github.run_number }}
+
+      - name: Upload walkthrough screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots
+          path: app/build/screenshots/*.png
+          if-no-files-found: ignore
+          retention-days: 14

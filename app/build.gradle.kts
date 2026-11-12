@@ -71,6 +71,16 @@ android {
     sourceSets["main"].assets.srcDir(seedAssets)
     packaging { resources.excludes += "/META-INF/{AL2.0,LGPL2.1}" }
     lint { abortOnError = false; checkReleaseBuilds = false }
+    testOptions {
+        unitTests {
+            isIncludeAndroidResources = true
+            all {
+                it.systemProperty("robolectric.pixelCopyRenderMode", "hardware")
+                it.systemProperty("screenshotDir", layout.buildDirectory.dir("screenshots").get().asFile.path)
+                it.maxHeapSize = "1536m"
+            }
+        }
+    }
 }
 
 tasks.named("preBuild") { dependsOn(copySeed) }
@@ -100,4 +110,10 @@ dependencies {
     implementation(libs.work.runtime.ktx)
     implementation(libs.datastore.preferences)
     testImplementation(libs.junit)
+    testImplementation(libs.robolectric)
+    testImplementation(libs.androidx.test.core)
+    testImplementation(platform(libs.compose.bom))
+    testImplementation(libs.compose.ui.test.junit4)
+    testImplementation(libs.work.testing)
+    debugImplementation(libs.compose.ui.test.manifest)
 }
