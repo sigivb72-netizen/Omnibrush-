@@ -1,0 +1,5 @@
+{
+  "_readme": "Review queue written by the scraper. To ACCEPT an item: fill in its 'game' object (same fields as games.json; 'id' or 'title' required) and set 'approved' to true. Accepted items only add new games or fill empty/TBA fields; they never change existing values. To DISMISS an item set 'rejected' to true. To change an existing value, edit games.json directly or add it to overrides.json.",
+  "dismissed": [],
+  "items": []
+}

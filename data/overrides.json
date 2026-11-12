@@ -1,0 +1,3 @@
+{
+  "_readme": "Corrections that must always win. Keyed by game id. Any field written here replaces the value in games.json on every scraper run, e.g. {\"genshin-impact\": {\"cover\": \"https://...\"}}. Use {\"some-id\": {\"_delete\": true}} to remove a game."
+}
