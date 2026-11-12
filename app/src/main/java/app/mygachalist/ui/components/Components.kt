@@ -104,7 +104,7 @@ fun CoverImage(game: Game, revealed: Boolean, modifier: Modifier = Modifier) {
         val canBlur = Build.VERSION.SDK_INT >= 31
         if (game.cover.isNotBlank() && (!hide || canBlur)) {
             AsyncImage(
-                model = ImageRequest.Builder(LocalContext.current).data(game.cover).build(),
+                model = ImageRequest.Builder(LocalContext.current).data(thumbUrl(game.cover)).build(),
                 contentDescription = null,
                 contentScale = ContentScale.Crop,
                 modifier = Modifier.matchParentSize().then(if (hide) Modifier.blur(24.dp) else Modifier),
@@ -117,6 +117,13 @@ fun CoverImage(game: Game, revealed: Boolean, modifier: Modifier = Modifier) {
         }
     }
 }
+
+/**
+ * Google Play serves icons at full size unless asked otherwise. A 256 px WebP is plenty for a
+ * thumbnail and is a fraction of the download and decode cost.
+ */
+fun thumbUrl(url: String): String =
+    if ("googleusercontent.com" in url) url.substringBefore('=') + "=s256-rw" else url
 
 private fun initials(title: String): String =
     title.split(' ', ':', '-').filter { it.isNotBlank() }.take(2).joinToString("") { it.first().uppercase() }
@@ -133,7 +140,7 @@ fun GameRow(
     showRegion: Boolean = false,
 ) {
     Row(
-        modifier.fillMaxWidth().clickable(onClick = onClick).height(IntrinsicSize.Min),
+        modifier.fillMaxWidth().clickable(onClick = onClick).height(74.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         Box(Modifier.width(5.dp).fillMaxHeight().background(entry?.listStatus?.color() ?: Color.Transparent))

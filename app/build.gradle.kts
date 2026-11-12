@@ -46,8 +46,11 @@ android {
 
     buildTypes {
         debug { signingConfig = signingConfigs.getByName("debug") }
+        // The build you install: not debuggable, so Android can optimise it and Compose runs at
+        // full speed. Signed with the same committed key, so it installs over older builds.
         release {
             isMinifyEnabled = false
+            isDebuggable = false
             signingConfig = signingConfigs.getByName("debug")
         }
     }

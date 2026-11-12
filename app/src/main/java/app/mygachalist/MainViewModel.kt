@@ -21,7 +21,15 @@ import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.flow.update
+import app.mygachalist.ui.components.thumbUrl
+import coil.imageLoader
+import coil.request.CachePolicy
+import coil.request.ImageRequest
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.sync.Semaphore
+import kotlinx.coroutines.sync.withPermit
 
 /** One shared ViewModel: the whole data set is a few hundred small objects, so screens filter it in memory. */
 class MainViewModel(app: Application) : AndroidViewModel(app) {
@@ -68,6 +76,35 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
             repo.seedIfEmpty()
             _loading.value = false
             refresh(announce = false)
+        }
+        // Whenever the visible game list changes, make sure every cover is on disk.
+        viewModelScope.launch { games.collect { prefetchCovers(it) } }
+    }
+
+    private var prefetchJob: Job? = null
+    private val prefetched = HashSet<String>()
+
+    /**
+     * Downloads covers into the disk cache ahead of time so lists show images immediately while
+     * scrolling. Three at a time, decoded at a tiny size, so it stays cheap on a low-end phone.
+     */
+    private fun prefetchCovers(list: List<Game>) {
+        val app = getApplication<Application>()
+        val urls = list.asSequence().map { it.cover }.filter { it.isNotBlank() }.map(::thumbUrl).filter { it !in prefetched }.toList()
+        if (urls.isEmpty()) return
+        prefetchJob?.cancel()
+        prefetchJob = viewModelScope.launch(Dispatchers.IO) {
+            val gate = Semaphore(3)
+            urls.forEach { url ->
+                launch {
+                    gate.withPermit {
+                        val request = ImageRequest.Builder(app).data(url).size(16)
+                            .memoryCachePolicy(CachePolicy.DISABLED).build()
+                        val result = runCatching { app.imageLoader.execute(request) }.getOrNull()
+                        if (result?.drawable != null) synchronized(prefetched) { prefetched += url }
+                    }
+                }
+            }
         }
     }
 

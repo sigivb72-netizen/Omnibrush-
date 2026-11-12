@@ -154,10 +154,13 @@
         "PC",
         "PS5"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/VV52RLZ43ZGnMvBL0KVrpgSCb-n5hWEamMmBMLVd3VCK1VwGQCPGQe7XxdM_srQclSxdUVRC4sQKBzXZwch5Yg=s0-br30",
       "description": "Urban open-world RPG formerly known as Project Mugen. Swing, drive and fight through Nova Inception Urbs and a second city, Chongxiao. Date announced at Gamescom 2026.",
       "officialSite": "https://www.anantagame.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.netease.anantana",
+        "steam": "https://store.steampowered.com/app/4814120"
+      },
       "status": "pre-registration",
       "releases": {
         "global": {
@@ -346,10 +349,12 @@
         "PC",
         "PS5"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/a84104b5ffa357982d188cab0be5d6cfde8a6398/header.jpg",
       "description": "3D real-time strategy RPG set on Talos-II. Mixes four-character action combat with factory-line base building.",
       "officialSite": "https://endfield.gryphline.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/4732690"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -535,10 +540,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/RxmRIKj3k64O7OP37cj0yNI6rKJuxuxomEok5vmOit8Te61BxSEqYCik8ZqK06OgGxlPRPvfesniIJllX_7Q=s0-br30",
       "description": "Fantasy open-world RPG from the Azur Lane developers. Explore with Kibo companions that fight, farm and serve as mounts. The English version is targeting an open beta in summer 2027.",
       "officialSite": "https://azurpromilia.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP"
+      },
       "status": "pre-registration",
       "releases": {
         "global": {
@@ -1289,10 +1296,12 @@
         "Android",
         "iOS"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/qdDvJfQ6E5-lKffUPoohxst-P9GJ8ghGQlhWATQXVt3IkVh6NAbS4YIM3D0OgPRK_m6gpqh9cCI0X9lfppFKgA=s0-br30",
       "description": "Rhythm game about the male idol units of Ensemble Square, with 3D live performances and a long-running story.",
       "officialSite": "",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.happyelements.es2.en.gp"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -1415,10 +1424,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/library_600x900.jpg",
       "description": "Turn-based hero collector in a virtual metropolis, built around gear builds and real-time arena PvP.",
       "officialSite": "https://etheria.xd.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/2084970"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -2810,10 +2821,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/wLsarVh8SzjFRyaJQLO-LspghFofkwqNFjXsFSy-tLay4HB-IOtVeAhqQbBSj5JeWjot581oFkdawPRtbDnp=s0-br30",
       "description": "Monster-taming action RPG and successor to Monster Taming. Tag between three characters and collect Monsterlings. Console versions are planned for later.",
       "officialSite": "",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.netmarble.monster2"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -2872,10 +2885,12 @@
         "Android",
         "iOS"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/B4uYewhDjtnfuwQShUr2EMiptP5GlTOFk6tlWtVMXucGz9GBWboePEzEVVHm_lM16BZLIpi9cRbhZikcrxjmQQ=s0-br30",
       "description": "Open-world Monster Hunter for mobile with named Adventurer characters and four-player hunts. A separate mainland China version is planned for 2027 or later.",
       "officialSite": "",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.tencent.mhadv"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -3000,10 +3015,12 @@
         "PC",
         "PS5"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/0a349b617ad41d2569419e62bc3d3f8192fe6a31/header.jpg",
       "description": "Supernatural urban open-world RPG set in the city of Hethereau. Drive, run a shop and hunt Anomalies between story chapters.",
       "officialSite": "https://nte.perfectworld.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/4508340"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -3184,10 +3201,12 @@
         "Android",
         "iOS"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/EUFkM97sKPux30ZXkddWeNqqryOMTVLfyYRcAfcfwPv_m9dowjPjT3OYRa-MwbyE5U2ym7reCowUgBjwkrPPWw=s0-br30",
       "description": "HD-2D prequel to Octopath Traveler with eight-character parties and three long story routes: Wealth, Power and Fame.",
       "officialSite": "",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.netease.octopath.sea"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -3309,10 +3328,12 @@
         "Android",
         "iOS"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/ZnYy6QxhRiX01XfsTcoyJwbc-XQhWu13VegUWKSuUPnwH2XJPsZRbNIgYeqna6ERLxupgQlbCrtVonJ5Rc-h6vU=s0-br30",
       "description": "Real-time tower-defense RPG. As Chief of the MBCC, shackle and command super-powered Sinners in a noir city.",
       "officialSite": "https://ptn.aisnogames.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.zy.wqmt.global"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -3371,10 +3392,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/library_600x900.jpg",
       "description": "Free-to-play Persona 5 spin-off with a new cast of Phantom Thieves, dungeon crawling and daily-life social sim in Tokyo.",
       "officialSite": "https://persona5x.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/3061570"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -3433,10 +3456,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/9FI3Ynto6pCldvXRHps-U_IcrKaVUlUZ6H-OsLANOr7-pshvIeN6DdmgMMXyStbE3wQl5qE57EhVDiii9YseHQ=s0-br30",
       "description": "HoYoverse's cosmic life sim. Grow your own planet, befriend animal Neighbors and visit other players across the galaxy. A Switch 2 version is slated for 2027.",
       "officialSite": "https://planet.hoyoverse.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.HoYoverse.Planet"
+      },
       "status": "pre-registration",
       "releases": {
         "global": {
@@ -4066,10 +4091,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://play-lh.googleusercontent.com/MtgEUppacG78tdQOmd8BfkKCNmK0XsMjO1BNU-cD4hfbbBU1vnfK0Iqieblr8n6eHoG4Ipmls4pUrL1_rQFxYw=s0-br30",
       "description": "Victorian-style detective action RPG set in the city of Silvernia, with real-time team combat and case investigation.",
       "officialSite": "",
-      "storeLinks": {},
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.elementagames.silverpalace.google"
+      },
       "status": "pre-registration",
       "releases": {
         "global": {
@@ -4129,10 +4156,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/library_600x900.jpg",
       "description": "Third-person sci-fi shooter RPG. Fight Titans as the Adjutant alongside a squad of Manifestation operatives.",
       "officialSite": "https://snowbreak.amazingseasun.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/2668080"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -4448,10 +4477,12 @@
         "iOS",
         "PC"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/library_600x900.jpg",
       "description": "Pixel-art tactical RPG with a roguelite single-player campaign (Spiral of Destinies) alongside its gacha mode.",
       "officialSite": "https://soc.xd.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/2526380"
+      },
       "status": "released",
       "releases": {
         "global": {
@@ -4702,10 +4733,12 @@
         "PC",
         "PS5"
       ],
-      "cover": "",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/86b4734355e3e43b8323426e69d127ce79bab888/header.jpg",
       "description": "Open-world action RPG set in Britannia with an original multiverse story starring Tristan. Launched on PS5 and Steam on March 16, 2026, a week before mobile.",
       "officialSite": "https://7origin.netmarble.com",
-      "storeLinks": {},
+      "storeLinks": {
+        "steam": "https://store.steampowered.com/app/3679080"
+      },
       "status": "released",
       "releases": {
         "global": {

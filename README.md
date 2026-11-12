@@ -19,10 +19,10 @@ build files).
 1. Open this repository in your phone's browser and tap **Actions**.
    If you only see the mobile layout, open the browser menu and choose **Desktop site**.
 2. Tap the **Build APK** workflow, then the newest run with a green check mark.
-3. Scroll to **Artifacts** at the bottom of the run page and tap **MyGachaList-debug-apk**.
+3. Scroll to **Artifacts** at the bottom of the run page and tap **MyGachaList-apk**.
    A `.zip` file downloads.
 4. Open the **My Files** app, go to **Downloads**, tap the zip and choose **Extract** (Unzip).
-5. Tap the extracted `MyGachaList-debug-….apk`.
+5. Tap the extracted `MyGachaList-….apk`.
 6. Android asks whether My Files may install apps: tap **Settings**, switch on
    **Allow from this source**, go back and tap **Install**.
    If Play Protect shows a warning, choose **More details → Install anyway**. The app is not
@@ -197,7 +197,7 @@ Tests run in the build workflow: the JSON parser and date logic, the scraper's m
 a validator for the data files, and a walkthrough that drives the real app through every
 screen (its screenshots are attached to each run as the `screenshots` artifact).
 
-To build locally: `./gradlew assembleDebug`. To run the scraper: `pip install -r
+To build locally: `./gradlew assembleRelease`. To run the scraper: `pip install -r
 scraper/requirements.txt && python scraper/scrape.py`.
 
 Release information is maintained by hand and by an automated scraper and can be wrong.
