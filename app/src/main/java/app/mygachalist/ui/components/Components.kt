@@ -95,10 +95,12 @@ fun StatusBadge(status: GameStatus, modifier: Modifier = Modifier) {
 fun CoverImage(game: Game, revealed: Boolean, modifier: Modifier = Modifier) {
     val hide = game.adult && !revealed
     Box(modifier.clip(RoundedCornerShape(4.dp)).background(MaterialTheme.colorScheme.surfaceContainerHighest), contentAlignment = Alignment.Center) {
-        Text(
-            initials(game.title), color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.7f),
-            fontWeight = FontWeight.Bold, fontSize = 16.sp, textAlign = TextAlign.Center,
-        )
+        if (!hide) {
+            Text(
+                initials(game.title), color = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.7f),
+                fontWeight = FontWeight.Bold, fontSize = 16.sp, textAlign = TextAlign.Center,
+            )
+        }
         val canBlur = Build.VERSION.SDK_INT >= 31
         if (game.cover.isNotBlank() && (!hide || canBlur)) {
             AsyncImage(

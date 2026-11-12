@@ -66,7 +66,7 @@ fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: 
             Row(Modifier.fillMaxWidth().padding(12.dp)) {
                 CoverImage(
                     game, revealed,
-                    Modifier.size(width = 112.dp, height = 150.dp).clickable(enabled = game.adult && !revealed) { vm.reveal(game.id) },
+                    Modifier.size(width = 112.dp, height = 150.dp).clickable(enabled = game.adult && !revealed, onClickLabel = "Show cover") { vm.reveal(game.id) },
                 )
                 Column(Modifier.weight(1f).padding(start = 12.dp)) {
                     Text(game.title, fontWeight = FontWeight.Bold, fontSize = 18.sp, lineHeight = 22.sp)
@@ -85,7 +85,7 @@ fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: 
                     }
                     Spacer(Modifier.height(8.dp))
                     Countdown(game, region, today)
-                    if (game.adult && !revealed) {
+                    if (game.adult && !revealed && game.cover.isNotBlank()) {
                         Text("Tap the cover to show it.", fontSize = 11.sp, color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(top = 4.dp))
                     }
                 }

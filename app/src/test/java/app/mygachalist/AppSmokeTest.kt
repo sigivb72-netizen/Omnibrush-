@@ -103,5 +103,23 @@ class AppSmokeTest {
         rule.onNodeWithText("Home").performClick()
         waitForText("Releasing soon")
         shot("10-home-dark")
+
+        // 18+ titles: invisible until the toggle is on, then findable with a hidden cover.
+        val adult = GamesParser.parse(seed.readText()).games.firstOrNull { it.adult }?.title ?: return
+        val isAdultResult = hasText(adult) and !hasSetTextAction()
+        rule.onNodeWithText("Search").performClick()
+        rule.onNodeWithContentDescription("Clear").performClick()
+        rule.onNode(hasSetTextAction()).performTextInput(adult)
+        waitForText("No matches")
+        rule.onNodeWithText("Profile").performClick()
+        rule.onNodeWithContentDescription("Settings").performClick()
+        rule.onNodeWithText("Show 18+ games").performScrollTo().performClick()
+        rule.onNodeWithText("I am 18 or older").performClick()
+        rule.onNodeWithContentDescription("Back").performClick()
+        rule.onNodeWithText("Search").performClick()
+        rule.waitUntil(15_000) { rule.onAllNodes(isAdultResult).fetchSemanticsNodes().isNotEmpty() }
+        rule.onAllNodes(isAdultResult).onFirst().performClick()
+        waitForText("Release dates")
+        shot("11-adult-detail")
     }
 }

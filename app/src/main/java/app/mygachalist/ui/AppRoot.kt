@@ -5,6 +5,7 @@ import androidx.compose.animation.ExitTransition
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.List
@@ -65,6 +66,8 @@ fun AppRoot(vm: MainViewModel, openGameId: String?, onOpenGameConsumed: () -> Un
     val backStack by nav.currentBackStackEntryAsState()
     val route = backStack?.destination?.route
 
+    val showTabs = route == null || TABS.any { it.route == route }
+
     LaunchedEffect(Unit) { vm.messages.collect { snackbar.showSnackbar(it) } }
     // Opened from a notification.
     LaunchedEffect(openGameId) {
@@ -78,7 +81,7 @@ fun AppRoot(vm: MainViewModel, openGameId: String?, onOpenGameConsumed: () -> Un
         contentWindowInsets = WindowInsets(0, 0, 0, 0),
         snackbarHost = { SnackbarHost(snackbar) },
         bottomBar = {
-            if (route == null || TABS.any { it.route == route }) {
+            if (showTabs) {
                 NavigationBar {
                     TABS.forEach { tab ->
                         NavigationBarItem(
@@ -92,7 +95,9 @@ fun AppRoot(vm: MainViewModel, openGameId: String?, onOpenGameConsumed: () -> Un
             }
         },
     ) { padding ->
-        Box(Modifier.fillMaxSize().padding(padding)) {
+        // Screens without the bottom bar must keep clear of the system navigation buttons themselves.
+        val systemBarPadding = if (showTabs) Modifier else Modifier.navigationBarsPadding()
+        Box(Modifier.fillMaxSize().padding(padding).then(systemBarPadding)) {
             val openGame = { id: String -> nav.navigate("game/$id") { launchSingleTop = true } }
             val editEntry = { id: String -> nav.navigate("entry/$id") { launchSingleTop = true } }
             val openSettings = { nav.navigate("settings") { launchSingleTop = true } }
