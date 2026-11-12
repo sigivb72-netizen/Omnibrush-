@@ -1,0 +1,5195 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-12",
+  "games": [
+    {
+      "id": "afk-arena",
+      "title": "AFK Arena",
+      "altTitles": {
+        "jp": "AFKアリーナ",
+        "cn": "剑与远征",
+        "kr": "AFK 아레나"
+      },
+      "developer": "Lilith Games",
+      "publisher": "Lilith Games",
+      "genres": [
+        "Idle RPG"
+      ],
+      "tags": [
+        "fantasy",
+        "auto-battler"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/_E2cukTKbej49Gm0T39kpFDoOfxA1wfGkyaC3prHTqPPqWCzwy4YuakXB4imhDIcCHxEh68LMQkeUVGDTodClDc=s0-br30",
+      "description": "Idle RPG where heroes keep earning rewards while you are away. Stylised art and faction-based team building.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.lilithgame.hgame.gp"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2019",
+          "precision": "year",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 70,
+      "adult": false
+    },
+    {
+      "id": "afk-journey",
+      "title": "AFK Journey",
+      "altTitles": {
+        "jp": "AFK：ジャーニー",
+        "cn": "剑与远征：启程",
+        "kr": "AFK: 새로운 여정"
+      },
+      "developer": "Farlight Games",
+      "publisher": "Farlight Games / Lilith Games",
+      "genres": [
+        "Idle RPG",
+        "Open World"
+      ],
+      "tags": [
+        "fantasy",
+        "storybook art"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/i9HvbrmveT5ZtIKc0Hlyc4ZLfMtjj7QohOSq_HLnSH2MwTUKejJAMefICADQHKwK6KRsP7zEAo8wANSKA-0-gA=s0-br30",
+      "description": "Follow-up to AFK Arena with a seamless explorable world, hex-based auto battles and a storybook look.",
+      "officialSite": "https://afkjourney.farlightgames.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.farlightgames.igame.gp"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-03-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2024",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 77,
+      "adult": false
+    },
+    {
+      "id": "ananta",
+      "title": "Ananta",
+      "altTitles": {
+        "jp": "アナンタ",
+        "cn": "无限大",
+        "kr": "아난타"
+      },
+      "developer": "Naked Rain",
+      "publisher": "NetEase Games",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "urban",
+        "driving",
+        "web-swinging"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "",
+      "description": "Urban open-world RPG formerly known as Project Mugen. Swing, drive and fight through Nova Inception Urbs and a second city, Chongxiao. Date announced at Gamescom 2026.",
+      "officialSite": "https://www.anantagame.com",
+      "storeLinks": {},
+      "status": "pre-registration",
+      "releases": {
+        "global": {
+          "date": "2027-01-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2027-01-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2027-01-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2027-01-15",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.rpgsite.net/news/21186-ananta-launches-on-january-15-2027-for-ps5-pc-mobile",
+      "lastVerified": "2026-11-12",
+      "added": "2026-08-25",
+      "popularity": 95,
+      "adult": false
+    },
+    {
+      "id": "another-eden",
+      "title": "Another Eden: The Cat Beyond Time and Space",
+      "altTitles": {
+        "jp": "アナザーエデン 時空を超える猫",
+        "cn": "另一个伊甸：超越时空的猫",
+        "kr": ""
+      },
+      "developer": "Wright Flyer Studios",
+      "publisher": "Wright Flyer Studios",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "JRPG",
+        "single-player",
+        "time travel"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/_q5R0oxmlIDJlIsS4Fy1vpb0SrG6ZByuI3ZHspjW1BXL5yKG6CbGPyyuaHKlH-frK4E-zuS8ymZTaDVX4npqTw=s0-br30",
+      "description": "Single-player-style JRPG written by Chrono Trigger's Masato Kato. No stamina system and a full-length story across past, present and future.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=games.wfs.anothereden"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2019",
+          "precision": "year",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2017-04-12",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 70,
+      "adult": false
+    },
+    {
+      "id": "arknights",
+      "title": "Arknights",
+      "altTitles": {
+        "jp": "アークナイツ",
+        "cn": "明日方舟",
+        "kr": "명일방주"
+      },
+      "developer": "Hypergryph",
+      "publisher": "Yostar",
+      "genres": [
+        "Tower Defense",
+        "Strategy"
+      ],
+      "tags": [
+        "anime",
+        "dystopia",
+        "operators"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/pBNlu-ZHQlVdfXhzI7TGIjqt_00sAeYFFK6AqTygfF3rwQfoPIkfIz-zROY31POTDKtxqcMDMPaDLJVlwCdc=s0-br30",
+      "description": "Tower-defense strategy RPG. Deploy Operators on grid maps as the Doctor of Rhodes Island in a world ravaged by Originium.",
+      "officialSite": "https://www.arknights.global",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2020-01-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2020-01-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2020-01-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2019-05-01",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2020",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 90,
+      "adult": false
+    },
+    {
+      "id": "arknights-endfield",
+      "title": "Arknights: Endfield",
+      "altTitles": {
+        "jp": "アークナイツ：エンドフィールド",
+        "cn": "明日方舟：终末地",
+        "kr": "명일방주: 엔드필드"
+      },
+      "developer": "Hypergryph",
+      "publisher": "GRYPHLINE",
+      "genres": [
+        "Action RPG",
+        "Base Building"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "factory automation"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "",
+      "description": "3D real-time strategy RPG set on Talos-II. Mixes four-character action combat with factory-line base building.",
+      "officialSite": "https://endfield.gryphline.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2026-01-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2026-01-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2026-01-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2026-01-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2026-01-22",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.rpgsite.net/news/19171-arknights-endfield-launches-on-january-22-2026-for-playstation-5-pc-mobile",
+      "lastVerified": "2026-11-12",
+      "added": "2026-01-22",
+      "popularity": 92,
+      "adult": false
+    },
+    {
+      "id": "ash-echoes",
+      "title": "Ash Echoes",
+      "altTitles": {
+        "jp": "白荊回廊",
+        "cn": "白荆回廊",
+        "kr": ""
+      },
+      "developer": "Aurogon Shanghai",
+      "publisher": "Neocraft",
+      "genres": [
+        "Tactical RPG"
+      ],
+      "tags": [
+        "anime",
+        "real-time tactics",
+        "multiverse"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Real-time tactical RPG with elemental terrain reactions and a roguelite Echoing Nexus mode. The Global version ended service on June 18, 2026.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "end-of-service",
+      "releases": {
+        "global": {
+          "date": "2024-11-13",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2024",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "2026-06-18",
+      "sourceUrl": "https://www.notebookcheck.net/Ash-Echoes-shuts-down-June-18.1291282.0.html",
+      "lastVerified": "2026-11-12",
+      "added": "",
+      "popularity": 48,
+      "adult": false
+    },
+    {
+      "id": "azur-lane",
+      "title": "Azur Lane",
+      "altTitles": {
+        "jp": "アズールレーン",
+        "cn": "碧蓝航线",
+        "kr": "벽람항로"
+      },
+      "developer": "Manjuu / Yongshi",
+      "publisher": "Yostar",
+      "genres": [
+        "Shoot 'em up",
+        "RPG"
+      ],
+      "tags": [
+        "anime",
+        "shipgirls",
+        "naval"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/3Yg8H1F9bsSTJI4-DQhJJYYokT3kEUaNG5h2JBP4Qxbzter1Q9iu3nsvepVZzMpX-VpSEgZc-UbS34TwBybQsWg=s0-br30",
+      "description": "Side-scrolling naval shooter with collectible shipgirls. Known for a generous construction (gacha) system and a huge roster.",
+      "officialSite": "https://azurlane.yo-star.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.YoStarEN.AzurLane"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-08-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2017-09-14",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2018-03-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2017-05-25",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 84,
+      "adult": false
+    },
+    {
+      "id": "azur-promilia",
+      "title": "Azur Promilia",
+      "altTitles": {
+        "jp": "アズールプロミリア",
+        "cn": "蓝色星原：旅谣",
+        "kr": ""
+      },
+      "developer": "Manjuu",
+      "publisher": "Manjuu",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "fantasy",
+        "creature companions"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Fantasy open-world RPG from the Azur Lane developers. Explore with Kibo companions that fight, farm and serve as mounts. The English version is targeting an open beta in summer 2027.",
+      "officialSite": "https://azurpromilia.com",
+      "storeLinks": {},
+      "status": "pre-registration",
+      "releases": {
+        "global": {
+          "date": "2027-Q3",
+          "precision": "quarter",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "2026-11-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2026-11-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2026-11-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2026-11-26",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.gematsu.com/2026/10/azur-promilia-launches-november-26-in-japan-south-korea-taiwan-and-china",
+      "lastVerified": "2026-11-12",
+      "added": "2026-10-15",
+      "popularity": 89,
+      "adult": false
+    },
+    {
+      "id": "bang-dream-girls-band-party",
+      "title": "BanG Dream! Girls Band Party!",
+      "altTitles": {
+        "jp": "バンドリ！ ガールズバンドパーティ！",
+        "cn": "BanG Dream! 少女乐团派对!",
+        "kr": "뱅드림! 걸즈 밴드 파티!"
+      },
+      "developer": "Craft Egg",
+      "publisher": "Bushiroad",
+      "genres": [
+        "Rhythm"
+      ],
+      "tags": [
+        "anime",
+        "bands",
+        "music"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/GUV6wGAf1F-i438jyNNF1j_L6Aj8gEiZ_2es3H3CcEhtGFpBgjR2zvNTB-I00kLKFO9PIamSa2HYE9IE8QXwCA=s0-br30",
+      "description": "Rhythm game featuring the BanG Dream! girl bands, with original songs and a large library of anime and J-pop covers.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.bushiroad.en.bangdreamgbp"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-04-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2017-03-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2018",
+          "precision": "year",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2019",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 70,
+      "adult": false
+    },
+    {
+      "id": "blue-archive",
+      "title": "Blue Archive",
+      "altTitles": {
+        "jp": "ブルーアーカイブ",
+        "cn": "蔚蓝档案",
+        "kr": "블루 아카이브"
+      },
+      "developer": "Nexon Games",
+      "publisher": "Nexon / Yostar",
+      "genres": [
+        "Tactical RPG"
+      ],
+      "tags": [
+        "anime",
+        "school",
+        "chibi"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/GnRkc6gDw7cPYrK1AvQNy7S_R4B7Atq6ncuJGf14CGaG0K8j_ayp0jrkIzuIfMHjP2Mb6ku5yeph3hHA6MLt7b0=s0-br30",
+      "description": "Squad-based RPG set in the academy city of Kivotos. As Sensei, guide students through semi-automatic battles and a light-hearted story.",
+      "officialSite": "https://bluearchive.nexon.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2021-11-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2021-02-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2021-11-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2023-08-03",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2021-11-08",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 91,
+      "adult": false
+    },
+    {
+      "id": "brown-dust-2",
+      "title": "Brown Dust 2",
+      "altTitles": {
+        "jp": "ブラウンダスト2",
+        "cn": "棕色尘埃2",
+        "kr": "브라운더스트2"
+      },
+      "developer": "Gamfs N",
+      "publisher": "Neowiz",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "tactics",
+        "console-style"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/frPGVrz_hwSOyNm3y9RoVkfxD5I5ibKv0C5RD9Ub1188PJtv3BXa7KkfSyzr_-9SeNk50AVt3P2XvS_jtzTa=s0-br30",
+      "description": "Tactical turn-based RPG presented as a shelf of game cartridges, each a separate story pack. Aimed at a mature audience.",
+      "officialSite": "https://www.browndust2.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.neowizgames.game.browndust2"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2023-06-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2023-06-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2023-06-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2023-06-22",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 78,
+      "adult": false
+    },
+    {
+      "id": "chaos-zero-nightmare",
+      "title": "Chaos Zero Nightmare",
+      "altTitles": {
+        "jp": "カオスゼロナイトメア",
+        "cn": "卡厄思梦境",
+        "kr": "카오스 제로 나이트메어"
+      },
+      "developer": "Super Creative",
+      "publisher": "Smilegate",
+      "genres": [
+        "Roguelite",
+        "Deckbuilder RPG"
+      ],
+      "tags": [
+        "anime",
+        "dark sci-fi",
+        "card combat"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/zSANiqdzop4Rf5--2B_dc1LiAbpmK33fpzZCmiVBlD6OKanMuZky5K-uxpC9PmnqKluITyIPdtu-remzPqRn_Q=s0-br30",
+      "description": "Roguelite deck-building RPG from the Epic Seven studio. Runs through the Chaos permanently shape each character's saved deck.",
+      "officialSite": "https://chaoszeronightmare.onstove.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-10-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2025-10-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2025-10-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2025-10-22",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "2025-10-22",
+      "popularity": 80,
+      "adult": false
+    },
+    {
+      "id": "chasing-kaleidorider",
+      "title": "Chasing Kaleidorider",
+      "altTitles": {
+        "jp": "",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Fizzglee Studio",
+      "publisher": "Tencent Games",
+      "genres": [
+        "RPG"
+      ],
+      "tags": [
+        "anime",
+        "motorbikes",
+        "romance"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Motorbike-themed anime RPG where you ride with a cast of Kaleidoriders. A closed beta ran in September 2025; no release date has been announced.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "beta",
+      "releases": {
+        "global": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://game8.co/articles/release-dates/chasing-kaleidorider-release-date-and-time",
+      "lastVerified": "2026-11-12",
+      "added": "2025-09-01",
+      "popularity": 62,
+      "adult": false
+    },
+    {
+      "id": "cookie-run-kingdom",
+      "title": "Cookie Run: Kingdom",
+      "altTitles": {
+        "jp": "クッキーラン：キングダム",
+        "cn": "冲呀！饼干人：王国",
+        "kr": "쿠키런: 킹덤"
+      },
+      "developer": "Devsisters",
+      "publisher": "Devsisters",
+      "genres": [
+        "RPG",
+        "Base Building"
+      ],
+      "tags": [
+        "cute",
+        "kingdom builder"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI=s0-br30",
+      "description": "Build a cookie kingdom and send teams of five Cookies into side-scrolling auto battles.",
+      "officialSite": "https://www.cookierun-kingdom.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.devsisters.ck"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2021-01-21",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2021-01-21",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2021-01-21",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2023-12",
+          "precision": "month",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 80,
+      "adult": false
+    },
+    {
+      "id": "destiny-rising",
+      "title": "Destiny: Rising",
+      "altTitles": {
+        "jp": "Destiny: Rising",
+        "cn": "命运：群星",
+        "kr": ""
+      },
+      "developer": "NetEase Games",
+      "publisher": "NetEase Games",
+      "genres": [
+        "Shooter RPG",
+        "MMO"
+      ],
+      "tags": [
+        "sci-fi",
+        "Destiny",
+        "co-op"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Mobile shooter RPG set in an alternate Destiny timeline, with hero-style Lightbearers, strikes and co-op raids.",
+      "officialSite": "https://www.playdestinyrising.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-08-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "2025-08-28",
+      "popularity": 73,
+      "adult": false
+    },
+    {
+      "id": "dislyte",
+      "title": "Dislyte",
+      "altTitles": {
+        "jp": "ディスライト",
+        "cn": "神觉者",
+        "kr": "디스라이트"
+      },
+      "developer": "Lilith Games",
+      "publisher": "Farlight Games / Lilith Games",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "urban mythology",
+        "music",
+        "stylish"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/xRZqNoIPlos0LQa9Mxs5ettXQEeDYKFHCAWJdit-4N9d7DdXXtNCZ8Cn9Kww9nwrMAHUQocSQimn9BwVV5WiNX0=s0-br30",
+      "description": "Pop-art turn-based RPG where Espers wield the powers of mythological gods in a neon future.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.lilithgames.xgame.gp"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022-05-10",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 64,
+      "adult": false
+    },
+    {
+      "id": "dragalia-lost",
+      "title": "Dragalia Lost",
+      "altTitles": {
+        "jp": "ドラガリアロスト",
+        "cn": "失落的龙约",
+        "kr": ""
+      },
+      "developer": "Cygames",
+      "publisher": "Nintendo",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "Nintendo",
+        "dragons",
+        "co-op"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Nintendo and Cygames' original action RPG about a prince who forges pacts with dragons. Service ended on November 30, 2022.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "end-of-service",
+      "releases": {
+        "global": {
+          "date": "2018-09-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2018-09-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2018-09-27",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "2022-11-30",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 52,
+      "adult": false
+    },
+    {
+      "id": "dragon-ball-legends",
+      "title": "Dragon Ball Legends",
+      "altTitles": {
+        "jp": "ドラゴンボール レジェンズ",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Dimps",
+      "publisher": "Bandai Namco Entertainment",
+      "genres": [
+        "Action RPG",
+        "Fighting"
+      ],
+      "tags": [
+        "anime",
+        "Dragon Ball",
+        "PvP"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/oaP533ed-8_T9_iLujjEj82gOn-1oF6K8CwOvmEUMgcvaTpP19unOUD4Bsl_0g_PdmTY3vCTEMLjqsjFaUnf=s0-br30",
+      "description": "Card-driven 3D fighting game with real-time PvP and an original story supervised by Akira Toriyama.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-05",
+          "precision": "month",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2018-05",
+          "precision": "month",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 78,
+      "adult": false
+    },
+    {
+      "id": "dragon-ball-z-dokkan-battle",
+      "title": "Dragon Ball Z: Dokkan Battle",
+      "altTitles": {
+        "jp": "ドラゴンボールZ ドッカンバトル",
+        "cn": "龙珠Z 爆裂激战",
+        "kr": "드래곤볼 Z 폭렬격전"
+      },
+      "developer": "Akatsuki",
+      "publisher": "Bandai Namco Entertainment",
+      "genres": [
+        "Puzzle RPG"
+      ],
+      "tags": [
+        "anime",
+        "Dragon Ball"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/Ocriolf6VBkbevJE5xWma3bD3suVqdWQGjlbrITwutUtTxzQlBtbWko5qOBWR-tK6qEwXm9YKoQuE3A6dRZE=s0-br30",
+      "description": "Ki-orb puzzle RPG that has collected nearly every Dragon Ball character over a decade of service.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.bandainamcogames.dbzdokkanww"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2015-07-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2015-01-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 84,
+      "adult": false
+    },
+    {
+      "id": "ensemble-stars-music",
+      "title": "Ensemble Stars!! Music",
+      "altTitles": {
+        "jp": "あんさんぶるスターズ！！Music",
+        "cn": "偶像梦幻祭2",
+        "kr": "앙상블 스타즈!! Music"
+      },
+      "developer": "Happy Elements",
+      "publisher": "Happy Elements",
+      "genres": [
+        "Rhythm"
+      ],
+      "tags": [
+        "anime",
+        "idols",
+        "music"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Rhythm game about the male idol units of Ensemble Square, with 3D live performances and a long-running story.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022-06-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2020-03-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 71,
+      "adult": false
+    },
+    {
+      "id": "epic-seven",
+      "title": "Epic Seven",
+      "altTitles": {
+        "jp": "エピックセブン",
+        "cn": "第七史诗",
+        "kr": "에픽세븐"
+      },
+      "developer": "Super Creative",
+      "publisher": "Smilegate",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "fantasy",
+        "PvP"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/wL6DsSkRWI0TxT2ikzBXGvpp1w1L1IXqV5LlUUhhuVS3angPMPksWTzlDmwrcuX3Pd7Ei63kvv55Q5JyvM9_GME=s0-br30",
+      "description": "2D turn-based RPG famous for its hand-drawn skill animations, gear grind and real-time arena PvP.",
+      "officialSite": "https://epic7.onstove.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.stove.epic7.google"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-11-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2019",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2018-08-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2023",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 80,
+      "adult": false
+    },
+    {
+      "id": "etheria-restart",
+      "title": "Etheria: Restart",
+      "altTitles": {
+        "jp": "エセリア：リスタート",
+        "cn": "伊瑟",
+        "kr": "에테리아: 리스타트"
+      },
+      "developer": "XD Entertainment",
+      "publisher": "XD Entertainment",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "sci-fi",
+        "PvP",
+        "Unreal Engine"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Turn-based hero collector in a virtual metropolis, built around gear builds and real-time arena PvP.",
+      "officialSite": "https://etheria.xd.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-06-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "2025-06-05",
+      "popularity": 68,
+      "adult": false
+    },
+    {
+      "id": "eversoul",
+      "title": "Eversoul",
+      "altTitles": {
+        "jp": "エバーソウル",
+        "cn": "",
+        "kr": "에버소울"
+      },
+      "developer": "Nine Ark",
+      "publisher": "Kakao Games",
+      "genres": [
+        "Idle RPG"
+      ],
+      "tags": [
+        "anime",
+        "dating sim",
+        "auto-battler"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Idle collection RPG where Souls are raised through auto battles and dating-sim style bonding. Global service ended on June 30, 2026.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "end-of-service",
+      "releases": {
+        "global": {
+          "date": "2023-01-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2023-01-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "2026-06-30",
+      "sourceUrl": "https://gamingonphone.com/news/eversoul-heads-for-global-closure-on-june-30-2026-bringing-its-popular-gacha-rpg-journey-to-an-end/",
+      "lastVerified": "2026-11-12",
+      "added": "",
+      "popularity": 50,
+      "adult": false
+    },
+    {
+      "id": "fate-grand-order",
+      "title": "Fate/Grand Order",
+      "altTitles": {
+        "jp": "Fate/Grand Order",
+        "cn": "命运-冠位指定",
+        "kr": "페이트/그랜드 오더"
+      },
+      "developer": "Lasengle",
+      "publisher": "Aniplex",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "Fate",
+        "visual novel"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/EzN3-WzS_i1mEjUaAht6flnqKF1tNDUqPjeAOgn_ZC1YqG65s9kP84lSV7HHoVIemgpJKRca63jdsnPorCD-pQ=s0-br30",
+      "description": "Command-card RPG in the Fate universe. Summon Servants from across history and myth to repair the Singularities. Global here means the North American English version.",
+      "officialSite": "https://fate-go.us",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2017-06-25",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2015-07-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2017-11-21",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2016",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 92,
+      "adult": false
+    },
+    {
+      "id": "final-fantasy-brave-exvius",
+      "title": "Final Fantasy Brave Exvius",
+      "altTitles": {
+        "jp": "ファイナルファンタジー ブレイブエクスヴィアス",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Alim",
+      "publisher": "Square Enix",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "Final Fantasy",
+        "pixel art"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Pixel-art Final Fantasy RPG with chaining-based combat. Still running in Japan; the Global version ended service on October 30, 2024.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2016-06-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2015-10-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 58,
+      "adult": false
+    },
+    {
+      "id": "final-fantasy-vii-ever-crisis",
+      "title": "Final Fantasy VII: Ever Crisis",
+      "altTitles": {
+        "jp": "ファイナルファンタジーVII エバークライシス",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Applibot",
+      "publisher": "Square Enix",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "Final Fantasy",
+        "story retelling"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Chapter-based retelling of the whole Final Fantasy VII compilation with ATB combat. Service ended for both the Japanese and Global versions on October 6, 2026.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "end-of-service",
+      "releases": {
+        "global": {
+          "date": "2023-09-07",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2023-09-07",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "2026-10-06",
+      "sourceUrl": "https://fullcleared.com/news/ever-crisis-joins-square-enixs-mobile-shutdown-list/",
+      "lastVerified": "2026-11-12",
+      "added": "",
+      "popularity": 60,
+      "adult": false
+    },
+    {
+      "id": "fire-emblem-heroes",
+      "title": "Fire Emblem Heroes",
+      "altTitles": {
+        "jp": "ファイアーエムブレム ヒーローズ",
+        "cn": "火焰纹章 英雄",
+        "kr": ""
+      },
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "genres": [
+        "Tactical RPG"
+      ],
+      "tags": [
+        "Nintendo",
+        "fantasy",
+        "grid tactics"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/v7A_qFRlgrZzsRju3LWdSB9FXgiHoNspNnRtZyG1wHcPdeZ9F-d9FUluxavECqs-RHU4clZDO0Ywj256KsI8KA=s0-br30",
+      "description": "Bite-sized grid tactics on 8x6 maps with heroes summoned from across the Fire Emblem series.",
+      "officialSite": "https://fire-emblem-heroes.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.nintendo.zaba"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2017-02-02",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2017-02-02",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 77,
+      "adult": false
+    },
+    {
+      "id": "gakuen-idolmaster",
+      "title": "Gakuen Idolmaster",
+      "altTitles": {
+        "jp": "学園アイドルマスター",
+        "cn": "学园偶像大师",
+        "kr": "학원 아이돌마스터"
+      },
+      "developer": "QualiArts",
+      "publisher": "Bandai Namco Entertainment",
+      "genres": [
+        "Raising Sim"
+      ],
+      "tags": [
+        "anime",
+        "idols",
+        "roguelike deckbuilding"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI=s0-br30",
+      "description": "Idol-raising sim set at Hatsuboshi Academy. Produce runs play out as short deck-building lessons and exams. Official service is Japanese-language.",
+      "officialSite": "https://gakuen.idolmaster-official.jp",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.bandainamcoent.idolmaster_gakuen"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "2024-05-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 79,
+      "adult": false
+    },
+    {
+      "id": "genshin-impact",
+      "title": "Genshin Impact",
+      "altTitles": {
+        "jp": "原神",
+        "cn": "原神",
+        "kr": "원신"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "elemental combat",
+        "co-op"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O=s0-br30",
+      "description": "Open-world action RPG set in Teyvat. Build a party of four elemental characters, explore seven nations and pull for characters and weapons on limited banners.",
+      "officialSite": "https://genshin.hoyoverse.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2020-09-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2020-09-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2020-09-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2020-09-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2020-09-28",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 100,
+      "adult": false
+    },
+    {
+      "id": "girls-frontline",
+      "title": "Girls' Frontline",
+      "altTitles": {
+        "jp": "ドールズフロントライン",
+        "cn": "少女前线",
+        "kr": "소녀전선"
+      },
+      "developer": "MICA Team",
+      "publisher": "Sunborn",
+      "genres": [
+        "Strategy RPG"
+      ],
+      "tags": [
+        "anime",
+        "gun girls",
+        "military"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/FqDbfUdNcHwPniuk4NYy7CdP2j-hJaUoCSFc-vnJIS-HE2VFU4QehpW_C4DUtMxH4u0aKl6NRf5MET820erZxQ=s0-br30",
+      "description": "Tactical RPG where firearms are personified as T-Dolls. Move echelons across node maps in a bleak near-future war story.",
+      "officialSite": "https://gf.sunborngame.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.sunborn.girlsfrontline.en"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-05-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2018",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2016-05-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 70,
+      "adult": false
+    },
+    {
+      "id": "girls-frontline-2-exilium",
+      "title": "Girls' Frontline 2: Exilium",
+      "altTitles": {
+        "jp": "ドールズフロントライン2：エクシリウム",
+        "cn": "少女前线2：追放",
+        "kr": "소녀전선2: 망명"
+      },
+      "developer": "MICA Team",
+      "publisher": "Sunborn / HaoPlay",
+      "genres": [
+        "Tactical RPG"
+      ],
+      "tags": [
+        "anime",
+        "gun girls",
+        "XCOM-like"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/EtVlraYOqzmz_cbyKf_9NYMb0CrHNZOVQz3bRQ2EiYJomGRQLf5tZwYRpQpZBcc1YFXaJo03ig6TfkOYTgZi=s0-br30",
+      "description": "3D turn-based tactics sequel set ten years after Girls' Frontline. Cover-based squad combat with returning T-Dolls.",
+      "officialSite": "https://gf2exilium.sunborngame.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.Sunborn.SnqxExilium.Glo"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-12-03",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2023-12-21",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 80,
+      "adult": false
+    },
+    {
+      "id": "goddess-of-victory-nikke",
+      "title": "Goddess of Victory: NIKKE",
+      "altTitles": {
+        "jp": "勝利の女神：NIKKE",
+        "cn": "胜利女神：新的希望",
+        "kr": "승리의 여신: 니케"
+      },
+      "developer": "Shift Up",
+      "publisher": "Level Infinite",
+      "genres": [
+        "Shooter RPG"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "one-handed"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/hXb0wwJYOJ7GwnzP29SbOIlDGSXWn7yOwgXnn4OBt1nfNgMpvcmSfwnNpeJ8B4n3AP73kyxeXnHTdhddfR6huw=s0-br30",
+      "description": "Cover-based shooter RPG played in portrait. Lead a squad of android Nikkes to reclaim the surface from the Rapture.",
+      "officialSite": "https://nikke-en.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.proximabeta.nikke"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022-11-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2022-11-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2022-11-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2025-05-22",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2022-11-04",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 90,
+      "adult": false
+    },
+    {
+      "id": "granblue-fantasy",
+      "title": "Granblue Fantasy",
+      "altTitles": {
+        "jp": "グランブルーファンタジー",
+        "cn": "碧蓝幻想",
+        "kr": ""
+      },
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "fantasy",
+        "browser"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "Browser"
+      ],
+      "cover": "",
+      "description": "Long-running sky-faring fantasy RPG. Released in Japan only, but playable worldwide with a built-in English language option.",
+      "officialSite": "https://granbluefantasy.jp",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "2014-03-10",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 80,
+      "adult": false
+    },
+    {
+      "id": "guardian-tales",
+      "title": "Guardian Tales",
+      "altTitles": {
+        "jp": "ガーディアンテイルズ",
+        "cn": "坎公骑冠剑",
+        "kr": "가디언 테일즈"
+      },
+      "developer": "Kong Studios",
+      "publisher": "Kakao Games",
+      "genres": [
+        "Action RPG",
+        "Adventure"
+      ],
+      "tags": [
+        "pixel art",
+        "puzzles",
+        "humour"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "Switch"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/VEVBy3xVgbR4O4gynceKSXuZKlqv32hKzYZtI08DKzKw0RzZcRZQnULpxnZzXP6ERd-dH_ZHUive4MmEkjl0Fg=s0-br30",
+      "description": "Pixel-art action adventure with Zelda-style puzzle dungeons, lots of pop-culture jokes and hero and weapon gacha.",
+      "officialSite": "https://guardiantales.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.kakaogames.gdts"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2020-07-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2021",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2021",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 74,
+      "adult": false
+    },
+    {
+      "id": "heaven-burns-red",
+      "title": "Heaven Burns Red",
+      "altTitles": {
+        "jp": "ヘブンバーンズレッド",
+        "cn": "炽焰天穹",
+        "kr": "헤븐 번즈 레드"
+      },
+      "developer": "WFS / Key",
+      "publisher": "WFS / Yostar",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "story",
+        "Jun Maeda"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/HPqajcNJwKlVMxZgig0J_US0aBJcJB1C6mFy8pENBSHGLHhsWCbbRdFJDLmim098Q7mdoPe1cXgX4Q6rs6ITaHc=s0-br30",
+      "description": "Story-driven turn-based RPG written by Key's Jun Maeda. Follow the girls of the 31st Seraph Squadron in humanity's last stand.",
+      "officialSite": "https://heavenburnsred.yo-star.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.YoStarEN.HBR"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-11-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2022-02-10",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 76,
+      "adult": false
+    },
+    {
+      "id": "honkai-impact-3rd",
+      "title": "Honkai Impact 3rd",
+      "altTitles": {
+        "jp": "崩壊3rd",
+        "cn": "崩坏3",
+        "kr": "붕괴3rd"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "hack and slash"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/hTMlfgsf_lKP7URBWrrdpoqL_AhXwuvIbeU-5Gn2R-8RE58z4Y28mfduo6MkfEBpP7Mtef7bnrXo5R9g1puG=s0-br30",
+      "description": "3D hack-and-slash action game following the Valkyries' fight against the Honkai. The predecessor to Genshin Impact and Star Rail.",
+      "officialSite": "https://honkaiimpact3.hoyoverse.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.miHoYo.bh3global"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-03-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2017-02",
+          "precision": "month",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2016-10-14",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 78,
+      "adult": false
+    },
+    {
+      "id": "honkai-nexus-anima",
+      "title": "Honkai: Nexus Anima",
+      "altTitles": {
+        "jp": "崩壊：ネクサスアニマ",
+        "cn": "崩坏：因缘精灵",
+        "kr": "붕괴: 넥서스 아니마"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Strategy",
+        "Creature Collector"
+      ],
+      "tags": [
+        "anime",
+        "auto-battler",
+        "Honkai"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Creature-collecting strategy adventure in the Honkai series. Bond with Anima and battle with them on an auto-chess style board. Final closed beta starts November 25, 2026; launch is slated for spring 2027.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "beta",
+      "releases": {
+        "global": {
+          "date": "2027-Q2",
+          "precision": "quarter",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.siliconera.com/honkai-nexus-anima-final-closed-beta-and-release-window-dates-set/",
+      "lastVerified": "2026-11-12",
+      "added": "2026-11-05",
+      "popularity": 88,
+      "adult": false
+    },
+    {
+      "id": "honkai-star-rail",
+      "title": "Honkai: Star Rail",
+      "altTitles": {
+        "jp": "崩壊：スターレイル",
+        "cn": "崩坏：星穹铁道",
+        "kr": "붕괴: 스타레일"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "story"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=s0-br30",
+      "description": "Turn-based space-fantasy RPG. Ride the Astral Express from world to world and build teams around Paths and elements.",
+      "officialSite": "https://hsr.hoyoverse.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2023-04-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2023-04-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2023-04-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2023-04-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2023-04-26",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 98,
+      "adult": false
+    },
+    {
+      "id": "infinity-nikki",
+      "title": "Infinity Nikki",
+      "altTitles": {
+        "jp": "インフィニティニキ",
+        "cn": "无限暖暖",
+        "kr": "인피니티 니키"
+      },
+      "developer": "Papergames",
+      "publisher": "Infold Games",
+      "genres": [
+        "Open World",
+        "Dress-up",
+        "Adventure"
+      ],
+      "tags": [
+        "cozy",
+        "fashion",
+        "exploration"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/IiJq-jpMJdD9P-oKatVL25vaaoyYSdUU-bYfomTQJ9qcdlpRMX7Eo_UkkGtvTkP13f473jYfV4q52H4n3b20SQ=s0-br30",
+      "description": "Cozy open-world dress-up adventure. Outfits grant abilities for platforming and exploration across Miraland.",
+      "officialSite": "https://infinitynikki.infoldgames.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.infoldgames.infinitynikkien"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2024-12-05",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 82,
+      "adult": false
+    },
+    {
+      "id": "kamihime-project",
+      "title": "Kamihime Project",
+      "altTitles": {
+        "jp": "神姫PROJECT",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Techcross",
+      "publisher": "DMM Games / Nutaku",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "adult",
+        "fantasy",
+        "browser"
+      ],
+      "platforms": [
+        "Android",
+        "Browser"
+      ],
+      "cover": "",
+      "description": "Adult turn-based fantasy RPG in the style of Granblue Fantasy. Distributed outside the mainstream app stores.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2017",
+          "precision": "year",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2016",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 30,
+      "adult": true
+    },
+    {
+      "id": "limbus-company",
+      "title": "Limbus Company",
+      "altTitles": {
+        "jp": "リンバス・カンパニー",
+        "cn": "边狱公司",
+        "kr": "림버스 컴퍼니"
+      },
+      "developer": "Project Moon",
+      "publisher": "Project Moon",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "dark",
+        "story",
+        "Project Moon"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ=s0-br30",
+      "description": "Dark turn-based RPG from the makers of Lobotomy Corporation and Library of Ruina. Lead twelve Sinners through the City's ruined facilities.",
+      "officialSite": "https://limbuscompany.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.ProjectMoon.LimbusCompany",
+        "steam": "https://store.steampowered.com/app/1973530"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2023-02-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2023-02-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2023-02-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 83,
+      "adult": false
+    },
+    {
+      "id": "love-and-deepspace",
+      "title": "Love and Deepspace",
+      "altTitles": {
+        "jp": "恋と深空",
+        "cn": "恋与深空",
+        "kr": "러브앤딥스페이스"
+      },
+      "developer": "Papergames",
+      "publisher": "Infold Games",
+      "genres": [
+        "Otome",
+        "Action RPG"
+      ],
+      "tags": [
+        "romance",
+        "sci-fi",
+        "3D"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/4InqsO3goITLvfm9t2f2SMpSyrzfV7sUgxTmWWQkypBPResa-wBK5x1I-U3cHTgP90hqlOectpgfXqiA_8h_PXY=s0-br30",
+      "description": "3D otome romance game with real-time combat. Fight Wanderers alongside the love interests as a Deepspace Hunter.",
+      "officialSite": "https://loveanddeepspace.infoldgames.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.papegames.lysk.en"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-01-18",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-01-18",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-01-18",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2024-01-18",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2024-01-18",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 90,
+      "adult": false
+    },
+    {
+      "id": "marvel-strike-force",
+      "title": "Marvel Strike Force",
+      "altTitles": {
+        "jp": "",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Scopely",
+      "publisher": "Scopely",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "Marvel",
+        "superheroes",
+        "squad"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/AI9bcRd6c_QXUriLEr-z03oqA72psQqGkUbYj7xVae8fh3V7u9dxd5u7oQFoSMwlZWQar3p0T3qmpoQIbHhhbQ8=s0-br30",
+      "description": "Squad-based RPG with Marvel heroes and villains, alliance raids and wars.",
+      "officialSite": "https://www.marvelstrikeforce.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.foxnextgames.m3"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018-03-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 68,
+      "adult": false
+    },
+    {
+      "id": "mongil-star-dive",
+      "title": "MONGIL: STAR DIVE",
+      "altTitles": {
+        "jp": "モンギル：STAR DIVE",
+        "cn": "",
+        "kr": "몬길: STAR DIVE"
+      },
+      "developer": "Netmarble Monster",
+      "publisher": "Netmarble",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "anime",
+        "monster taming",
+        "Unreal Engine 5"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Monster-taming action RPG and successor to Monster Taming. Tag between three characters and collect Monsterlings. Console versions are planned for later.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2026-04-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2026-04-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2026-04-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2026-04-15",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.gematsu.com/2026/03/mongil-star-dive-launches-april-15-for-pc-ios-and-android-later-for-ps5-and-xbox-series",
+      "lastVerified": "2026-11-12",
+      "added": "2026-04-15",
+      "popularity": 72,
+      "adult": false
+    },
+    {
+      "id": "monster-hunter-outlanders",
+      "title": "Monster Hunter Outlanders",
+      "altTitles": {
+        "jp": "モンスターハンターアウトランダーズ",
+        "cn": "怪物猎人：旅人",
+        "kr": "몬스터 헌터 아웃랜더스"
+      },
+      "developer": "TiMi Studio Group",
+      "publisher": "Tencent / Capcom",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "Monster Hunter",
+        "co-op",
+        "survival"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Open-world Monster Hunter for mobile with named Adventurer characters and four-player hunts. A separate mainland China version is planned for 2027 or later.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2026-10-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2027",
+          "precision": "year",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.gematsu.com/2026/09/monster-hunter-outlanders-launches-october-29",
+      "lastVerified": "2026-11-12",
+      "added": "2026-10-29",
+      "popularity": 86,
+      "adult": false
+    },
+    {
+      "id": "monster-strike",
+      "title": "Monster Strike",
+      "altTitles": {
+        "jp": "モンスターストライク",
+        "cn": "怪物弹珠",
+        "kr": "몬스터 스트라이크"
+      },
+      "developer": "MIXI",
+      "publisher": "MIXI",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "co-op",
+        "pinball",
+        "Japan"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/ymrd9gr1V3uQFKFWUtjRq6gxqrzV4FbCH6iIms84LUF1iVTwfzfZzrBWtZVY1UFoPe3cIxmjmow6NOr73OZv3Q=s0-br30",
+      "description": "Slingshot your monsters around the arena like pinballs. A Japanese co-op phenomenon and one of the highest-grossing mobile games ever.",
+      "officialSite": "https://www.monster-strike.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=jp.co.mixi.monsterstrike"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "2013",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 75,
+      "adult": false
+    },
+    {
+      "id": "neverness-to-everness",
+      "title": "Neverness to Everness",
+      "altTitles": {
+        "jp": "ネバーネス・トゥ・エバーネス",
+        "cn": "异环",
+        "kr": "네버니스 투 에버니스"
+      },
+      "developer": "Hotta Studio",
+      "publisher": "Perfect World Games",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "urban",
+        "supernatural",
+        "driving"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "",
+      "description": "Supernatural urban open-world RPG set in the city of Hethereau. Drive, run a shop and hunt Anomalies between story chapters.",
+      "officialSite": "https://nte.perfectworld.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2026-04-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2026-04-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2026-04-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2026-04-29",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.rpgsite.net/news/19734-neverness-to-everness-release-date-pre-registration-link",
+      "lastVerified": "2026-11-12",
+      "added": "2026-04-29",
+      "popularity": 90,
+      "adult": false
+    },
+    {
+      "id": "nier-reincarnation",
+      "title": "NieR Re[in]carnation",
+      "altTitles": {
+        "jp": "ニーア リィンカーネーション",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Applibot",
+      "publisher": "Square Enix",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "NieR",
+        "story",
+        "melancholy"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Story-focused NieR spin-off set in The Cage, directed by Yoko Taro's team. Service ended on April 29, 2024.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "end-of-service",
+      "releases": {
+        "global": {
+          "date": "2021-07-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2021-02-18",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "2024-04-29",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 55,
+      "adult": false
+    },
+    {
+      "id": "nu-carnival",
+      "title": "NU: Carnival",
+      "altTitles": {
+        "jp": "NU: カーニバル",
+        "cn": "新世界狂欢",
+        "kr": ""
+      },
+      "developer": "Infinity Alpha",
+      "publisher": "SGArts",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "adult",
+        "BL",
+        "fantasy"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "Browser"
+      ],
+      "cover": "",
+      "description": "Adult BL fantasy RPG with turn-based battles and fully voiced clan members. Distributed outside the mainstream app stores.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022",
+          "precision": "year",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 32,
+      "adult": true
+    },
+    {
+      "id": "octopath-traveler-cotc",
+      "title": "Octopath Traveler: Champions of the Continent",
+      "altTitles": {
+        "jp": "オクトパストラベラー 大陸の覇者",
+        "cn": "歧路旅人：大陆的霸者",
+        "kr": ""
+      },
+      "developer": "Square Enix / Acquire",
+      "publisher": "Square Enix / NetEase",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "JRPG",
+        "HD-2D",
+        "single-player"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "HD-2D prequel to Octopath Traveler with eight-character parties and three long story routes: Wealth, Power and Fame.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022-07-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2020-10-28",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 68,
+      "adult": false
+    },
+    {
+      "id": "one-piece-treasure-cruise",
+      "title": "One Piece Treasure Cruise",
+      "altTitles": {
+        "jp": "ONE PIECE トレジャークルーズ",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Bandai Namco Entertainment",
+      "publisher": "Bandai Namco Entertainment",
+      "genres": [
+        "RPG"
+      ],
+      "tags": [
+        "anime",
+        "One Piece",
+        "tap timing"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/QQ8TSmUGfxGnu34f1z0V1r_Xfcd_i6u5A7dYrYF1qtkqyaRU56xp1aiMIPuFYGC2bvXt7pfAOUIoUfw6H-EG=s0-br30",
+      "description": "Tap-timing RPG that retells the One Piece story with a crew of collectible pirates.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.namcobandaigames.spmoja010E"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2015-02",
+          "precision": "month",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2014-05-12",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 68,
+      "adult": false
+    },
+    {
+      "id": "path-to-nowhere",
+      "title": "Path to Nowhere",
+      "altTitles": {
+        "jp": "無期迷途",
+        "cn": "无期迷途",
+        "kr": "무기미도"
+      },
+      "developer": "AISNO Games",
+      "publisher": "AISNO Games",
+      "genres": [
+        "Tower Defense",
+        "Strategy"
+      ],
+      "tags": [
+        "dark",
+        "crime",
+        "real-time"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "",
+      "description": "Real-time tower-defense RPG. As Chief of the MBCC, shackle and command super-powered Sinners in a noir city.",
+      "officialSite": "https://ptn.aisnogames.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022-10-27",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2022-08-11",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 72,
+      "adult": false
+    },
+    {
+      "id": "persona5-the-phantom-x",
+      "title": "Persona5: The Phantom X",
+      "altTitles": {
+        "jp": "ペルソナ５: The Phantom X",
+        "cn": "女神异闻录：夜幕魅影",
+        "kr": "페르소나5: 더 팬텀 X"
+      },
+      "developer": "Black Wings Game Studio",
+      "publisher": "Perfect World / SEGA",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "Persona",
+        "anime",
+        "social sim"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Free-to-play Persona 5 spin-off with a new cast of Phantom Thieves, dungeon crawling and daily-life social sim in Tokyo.",
+      "officialSite": "https://persona5x.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-06-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2025-06-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-04-18",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2024-04-12",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2024-04-18",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 81,
+      "adult": false
+    },
+    {
+      "id": "petit-planet",
+      "title": "Petit Planet",
+      "altTitles": {
+        "jp": "プチプラネット",
+        "cn": "星布谷地",
+        "kr": "쁘띠 플래닛"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Life Sim"
+      ],
+      "tags": [
+        "cozy",
+        "planet building",
+        "social"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "HoYoverse's cosmic life sim. Grow your own planet, befriend animal Neighbors and visit other players across the galaxy. A Switch 2 version is slated for 2027.",
+      "officialSite": "https://planet.hoyoverse.com",
+      "storeLinks": {},
+      "status": "pre-registration",
+      "releases": {
+        "global": {
+          "date": "2026-12-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2026-12-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2026-12-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2026-12-04",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.siliconera.com/honkai-nexus-anima-final-closed-beta-and-release-window-dates-set/",
+      "lastVerified": "2026-11-12",
+      "added": "2026-10-01",
+      "popularity": 84,
+      "adult": false
+    },
+    {
+      "id": "pokemon-masters-ex",
+      "title": "Pokémon Masters EX",
+      "altTitles": {
+        "jp": "ポケモンマスターズ EX",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "DeNA",
+      "publisher": "DeNA / The Pokémon Company",
+      "genres": [
+        "RPG"
+      ],
+      "tags": [
+        "Pokémon",
+        "3v3",
+        "trainers"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/Sh6nvwhh0fz2iA_yCf-SsaJ0ceHHL-DKgv5nGr5yd3m5DyTFdZQAsjp5-14kA5bNCc5zxzXkj5oOVSghU04ZfA=s0-br30",
+      "description": "Team up with famous Trainers and their partner Pokémon as sync pairs for 3-on-3 real-time battles on the island of Pasio.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.dena.a12026418"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2019-08-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2019-08-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2019-08-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2019-08-29",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 66,
+      "adult": false
+    },
+    {
+      "id": "pokemon-tcg-pocket",
+      "title": "Pokémon Trading Card Game Pocket",
+      "altTitles": {
+        "jp": "Pokémon Trading Card Game Pocket",
+        "cn": "",
+        "kr": "포켓몬 카드 게임 Pocket"
+      },
+      "developer": "Creatures / DeNA",
+      "publisher": "The Pokémon Company",
+      "genres": [
+        "Card Game"
+      ],
+      "tags": [
+        "Pokémon",
+        "card collecting",
+        "booster packs"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/p_05nasYCOpKzbj4n-j6qFrWRu5mb4oBFiulf9kc-SdLssRKbIqIt8u-XkI2R07vfHh0KE_Vr4L8R0l7c3JTWw=s0-br30",
+      "description": "Open free booster packs every day, collect digital Pokémon cards with immersive artwork and play quick 20-card battles.",
+      "officialSite": "https://tcgpocket.pokemon.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemontcgp"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-10-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-10-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-10-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2024-10-30",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 88,
+      "adult": false
+    },
+    {
+      "id": "princess-connect-redive",
+      "title": "Princess Connect! Re:Dive",
+      "altTitles": {
+        "jp": "プリンセスコネクト！Re:Dive",
+        "cn": "公主连结Re:Dive",
+        "kr": "프린세스 커넥트! Re:Dive"
+      },
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "genres": [
+        "Auto-battler RPG"
+      ],
+      "tags": [
+        "anime",
+        "fantasy",
+        "guild"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/jmLuezBp355A8OxyS7fR4km-2X-xmulfzhpUCufbFdbJaRFfCQIYS2OSaM6GKSN63RAvX53fEsPmb7WsXpLUr78=s0-br30",
+      "description": "Anime RPG with real-time auto battles and fully animated story scenes. Still running in Japan and Asia; the Global (Crunchyroll) server closed on April 30, 2023.",
+      "officialSite": "https://priconne-redive.jp",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2021-01-19",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2018-02-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2019",
+          "precision": "year",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2020",
+          "precision": "year",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2018",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 72,
+      "adult": false
+    },
+    {
+      "id": "project-sekai",
+      "title": "Hatsune Miku: Colorful Stage!",
+      "altTitles": {
+        "jp": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+        "cn": "世界计划 多彩舞台",
+        "kr": "프로젝트 세카이 컬러풀 스테이지!"
+      },
+      "developer": "Colorful Palette",
+      "publisher": "SEGA",
+      "genres": [
+        "Rhythm"
+      ],
+      "tags": [
+        "anime",
+        "Vocaloid",
+        "music"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/Y9yBy-25QmwMeWPWMQWislfKJFKl5hZJHdqTuZkRR8gI9iVzRmxHPOx4z2RC7rx62C9AWeVuD7T4AfBvdIvAvQ=s0-br30",
+      "description": "Rhythm game starring Hatsune Miku and original bands. Known in Japan as Project SEKAI.",
+      "officialSite": "https://www.colorfulstage.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.sega.ColorfulStage.en"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2021-12-07",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2020-09-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2022",
+          "precision": "year",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2021",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 85,
+      "adult": false
+    },
+    {
+      "id": "punishing-gray-raven",
+      "title": "Punishing: Gray Raven",
+      "altTitles": {
+        "jp": "パニシング：グレイレイヴン",
+        "cn": "战双帕弥什",
+        "kr": "퍼니싱: 그레이 레이븐"
+      },
+      "developer": "Kuro Games",
+      "publisher": "Kuro Games",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "hack and slash"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/YWC3LT98lQ2INdjSE-zEEorezgBedT0N5G1lc8QEX-qpUqqJ2zOEnFOSWYQp8NBGwpo6Yp3HAgkwU8fWBW24DA=s0-br30",
+      "description": "Stylish sci-fi action game. Command a squad of Constructs to retake Earth from the Punishing Virus using an orb-matching combat system.",
+      "officialSite": "https://pgr.kurogames.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.kurogame.gplay.punishing.grayraven.en"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2021-07-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2020-12-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2019-12-05",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 76,
+      "adult": false
+    },
+    {
+      "id": "puzzle-and-dragons",
+      "title": "Puzzle & Dragons",
+      "altTitles": {
+        "jp": "パズル＆ドラゴンズ",
+        "cn": "智龙迷城",
+        "kr": "퍼즐앤드래곤"
+      },
+      "developer": "GungHo Online Entertainment",
+      "publisher": "GungHo Online Entertainment",
+      "genres": [
+        "Puzzle RPG"
+      ],
+      "tags": [
+        "match-3",
+        "monster collecting"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/NX9uRjU-7KCGoD8-tCtVyo4Bqh6s17OX06LaGEOysZK1n_rMZP-nVXadHV6v0yuARu5aPmwGjXbaW2uMqQLU=s0-br30",
+      "description": "The match-three orb puzzle RPG that defined the Japanese mobile gacha market. Global here means the North American version.",
+      "officialSite": "",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=jp.gungho.padEN"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2012",
+          "precision": "year",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2012-02-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 72,
+      "adult": false
+    },
+    {
+      "id": "raid-shadow-legends",
+      "title": "RAID: Shadow Legends",
+      "altTitles": {
+        "jp": "",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Plarium",
+      "publisher": "Plarium",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "dark fantasy",
+        "western",
+        "gear grind"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/Uv8KIWsfsXZJDk2ypWzrc_MCMGY32MvieP8hH9pujaBGwKRr4z88FpLwNuC8e5UxjioOHx9PcZU3XchZNZ4JjQ=s0-br30",
+      "description": "Dark-fantasy hero collector with realistic 3D champions, clan bosses and arena PvP.",
+      "officialSite": "https://raidshadowlegends.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2018",
+          "precision": "year",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 76,
+      "adult": false
+    },
+    {
+      "id": "reverse-1999",
+      "title": "Reverse: 1999",
+      "altTitles": {
+        "jp": "リバース：1999",
+        "cn": "重返未来：1999",
+        "kr": "리버스: 1999"
+      },
+      "developer": "Bluepoch",
+      "publisher": "Bluepoch",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "time travel",
+        "20th century",
+        "card combat"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/35wW4EuYqdU1ItNGOcXQc7elbbEIgk1LCE693GOJrIyc2NLC8dGeMs1fchPepzZim_Sif-Q-aFJhyDqr1JEx=s0-br30",
+      "description": "Time-travel RPG with a painterly 20th-century style and full English voice acting. Combat merges and upgrades incantation cards.",
+      "officialSite": "https://re1999.bluepoch.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.bluepoch.m.en.reverse1999"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2023-10-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2023-10-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2023-05-31",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 82,
+      "adult": false
+    },
+    {
+      "id": "shadowverse-worlds-beyond",
+      "title": "Shadowverse: Worlds Beyond",
+      "altTitles": {
+        "jp": "Shadowverse: Worlds Beyond",
+        "cn": "影之诗：超凡世界",
+        "kr": "섀도우버스 월즈 비욘드"
+      },
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "genres": [
+        "Card Game"
+      ],
+      "tags": [
+        "anime",
+        "CCG",
+        "PvP"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA=s0-br30",
+      "description": "Sequel to the Shadowverse digital card game, adding Super-Evolution and a social lobby. Cards come from random packs.",
+      "officialSite": "https://shadowverse-wb.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=jp.co.cygames.ShadowverseWorldsBeyond"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-06-17",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2025-06-17",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2025-06-17",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2025-06-17",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 74,
+      "adult": false
+    },
+    {
+      "id": "silver-palace",
+      "title": "Silver Palace",
+      "altTitles": {
+        "jp": "シルバーパレス",
+        "cn": "白银之城",
+        "kr": "실버 팰리스"
+      },
+      "developer": "Silver Studio",
+      "publisher": "Elementa",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "steampunk",
+        "detective",
+        "Unreal Engine 5"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Victorian-style detective action RPG set in the city of Silvernia, with real-time team combat and case investigation.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "pre-registration",
+      "releases": {
+        "global": {
+          "date": "2026-12-14",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.gosugamers.net/entertainment/news/79455-steampunk-gacha-game-silver-palace-gets-december-release-date",
+      "lastVerified": "2026-11-12",
+      "added": "2026-10-20",
+      "popularity": 80,
+      "adult": false
+    },
+    {
+      "id": "snowbreak-containment-zone",
+      "title": "Snowbreak: Containment Zone",
+      "altTitles": {
+        "jp": "スノウブレイク：禁域降臨",
+        "cn": "尘白禁区",
+        "kr": "스노우 브레이크: 포비든 존"
+      },
+      "developer": "Seasun Games",
+      "publisher": "Seasun Games",
+      "genres": [
+        "Third-person Shooter",
+        "RPG"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "co-op"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Third-person sci-fi shooter RPG. Fight Titans as the Adjutant alongside a squad of Manifestation operatives.",
+      "officialSite": "https://snowbreak.amazingseasun.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2023-07-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2023-07-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 73,
+      "adult": false
+    },
+    {
+      "id": "solo-leveling-arise",
+      "title": "Solo Leveling: Arise",
+      "altTitles": {
+        "jp": "俺だけレベルアップな件：ARISE",
+        "cn": "我独自升级：ARISE",
+        "kr": "나 혼자만 레벨업: 어라이즈"
+      },
+      "developer": "Netmarble Neo",
+      "publisher": "Netmarble",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "anime",
+        "manhwa",
+        "hunters"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/HFAS7l2186tgRJUiK6PsXa7rrYI0i4JnaG7-be_vXMOJVxYSc5rGW91EG08vYMH6V5WAYivnwsi9VyhrkBnf=s0-br30",
+      "description": "Action RPG adaptation of the Solo Leveling web novel. Play as Sung Jinwoo and build a shadow army.",
+      "officialSite": "https://sololeveling.netmarble.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.netmarble.sololv"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-05-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-05-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-05-08",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2024-05-08",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 79,
+      "adult": false
+    },
+    {
+      "id": "star-wars-galaxy-of-heroes",
+      "title": "Star Wars: Galaxy of Heroes",
+      "altTitles": {
+        "jp": "",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Capital Games",
+      "publisher": "Electronic Arts",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "Star Wars",
+        "squad",
+        "guilds"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/RXUeJn7Eas8mkAf8KxMxR9NF9zUwWWb5W6u5KntDZUlTND31x6yusb9tGJ4aV40JwU1HxeSA_fHqwxndiRU2Bg=s0-br30",
+      "description": "Collect characters and ships from every Star Wars era for turn-based squad battles and guild events.",
+      "officialSite": "https://www.ea.com/games/starwars/galaxy-of-heroes",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.ea.game.starwarscapital_row"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2015-11-24",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 70,
+      "adult": false
+    },
+    {
+      "id": "stella-sora",
+      "title": "Stella Sora",
+      "altTitles": {
+        "jp": "ステラソラ",
+        "cn": "星塔旅人",
+        "kr": "스텔라 소라"
+      },
+      "developer": "Yostar",
+      "publisher": "Yostar",
+      "genres": [
+        "Action RPG",
+        "Roguelite"
+      ],
+      "tags": [
+        "anime",
+        "top-down",
+        "fantasy"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/_Or4TdlnY_3gKuR04BEs_DS99kKeVnyEcdOF1Pf9GvWxSnp0Mb8aDqy8YVyqjAZoQ3aW8evgVeOzFKvCyI6e7tM=s0-br30",
+      "description": "Top-down action adventure with roguelite tower runs. Play as the Tyrant travelling the land of Nova with a party of Trekkers.",
+      "officialSite": "https://stellasora.global",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.YoStarEN.StellaSora"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-10-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2025-10-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "2025-10-20",
+      "popularity": 75,
+      "adult": false
+    },
+    {
+      "id": "summoners-war",
+      "title": "Summoners War: Sky Arena",
+      "altTitles": {
+        "jp": "サマナーズウォー: Sky Arena",
+        "cn": "魔灵召唤",
+        "kr": "서머너즈 워: 천공의 아레나"
+      },
+      "developer": "Com2uS",
+      "publisher": "Com2uS",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "fantasy",
+        "monster collecting",
+        "PvP"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/MUCpc9V1KmbWYb2Cv6p3aSVyzBo-uuG_iMPWY0vZSRh9cpDadSM07vaWHJXE6Yrpxj-wH1y55mO6Bo6B3_2k=s0-br30",
+      "description": "Monster-collecting RPG built around rune builds and arena PvP. One of the longest-running global gacha hits.",
+      "officialSite": "https://summonerswar.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2014-06-12",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "2014",
+          "precision": "year",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 79,
+      "adult": false
+    },
+    {
+      "id": "sword-of-convallaria",
+      "title": "Sword of Convallaria",
+      "altTitles": {
+        "jp": "鈴蘭の剣：この平和な世界のために",
+        "cn": "铃兰之剑：为这和平的世界",
+        "kr": "소드 오브 콘발라리아"
+      },
+      "developer": "XD Entertainment",
+      "publisher": "XD Entertainment",
+      "genres": [
+        "Tactical RPG"
+      ],
+      "tags": [
+        "pixel art",
+        "HD-2D",
+        "Tactics Ogre-like"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Pixel-art tactical RPG with a roguelite single-player campaign (Spiral of Destinies) alongside its gacha mode.",
+      "officialSite": "https://soc.xd.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-07-31",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 70,
+      "adult": false
+    },
+    {
+      "id": "taimanin-rpg",
+      "title": "Taimanin RPG",
+      "altTitles": {
+        "jp": "対魔忍RPG",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Lilith / Gremory Games",
+      "publisher": "DMM Games",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "adult",
+        "ninja",
+        "browser"
+      ],
+      "platforms": [
+        "Android",
+        "Browser",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Adult RPG set in the Taimanin universe of demon-hunting ninja. Distributed outside the mainstream app stores.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "2018",
+          "precision": "year",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 28,
+      "adult": true
+    },
+    {
+      "id": "tears-of-themis",
+      "title": "Tears of Themis",
+      "altTitles": {
+        "jp": "未定事件簿",
+        "cn": "未定事件簿",
+        "kr": "미해결사건부"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Otome",
+        "Adventure"
+      ],
+      "tags": [
+        "romance",
+        "detective",
+        "card battle"
+      ],
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/oFdZQzPmxdYqTUWdokShvvTem2UIdTBmRViB1yyy6grCZTxS8JrmwV6W5KnL5ThkAxD8jZcztD7bekM41VoR=s0-br30",
+      "description": "Romance detective game. Investigate cases as a rookie attorney and win courtroom debates with collectible cards.",
+      "officialSite": "https://tot.hoyoverse.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.miHoYo.tot.glb"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2021-07-29",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2020-07-30",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 66,
+      "adult": false
+    },
+    {
+      "id": "the-seven-deadly-sins-grand-cross",
+      "title": "The Seven Deadly Sins: Grand Cross",
+      "altTitles": {
+        "jp": "七つの大罪 光と闇の交戦",
+        "cn": "七大罪：光与暗之交战",
+        "kr": "일곱 개의 대죄: GRAND CROSS"
+      },
+      "developer": "Netmarble F&C",
+      "publisher": "Netmarble",
+      "genres": [
+        "Turn-based RPG"
+      ],
+      "tags": [
+        "anime",
+        "card combat",
+        "cinematic"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/8cU1H9WV1NXBsOEtSfHcfXlyHwvOxPprBWggiuAgKGJpiXioX7j7uQuMlNPD1yMhleNm77_uKwyhigzg7hAR9A=s0-br30",
+      "description": "Cinematic card-combat RPG that retells the Seven Deadly Sins anime with fully animated cutscenes.",
+      "officialSite": "https://7dsgc.netmarble.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.netmarble.nanagb"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2020-03-03",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2019-06-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2019-06-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 72,
+      "adult": false
+    },
+    {
+      "id": "the-seven-deadly-sins-origin",
+      "title": "The Seven Deadly Sins: Origin",
+      "altTitles": {
+        "jp": "七つの大罪：Origin",
+        "cn": "七大罪：起源",
+        "kr": "일곱 개의 대죄: Origin"
+      },
+      "developer": "Netmarble F&C",
+      "publisher": "Netmarble",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "multiverse",
+        "co-op"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "",
+      "description": "Open-world action RPG set in Britannia with an original multiverse story starring Tristan. Launched on PS5 and Steam on March 16, 2026, a week before mobile.",
+      "officialSite": "https://7origin.netmarble.com",
+      "storeLinks": {},
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2026-03-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2026-03-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2026-03-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2026-03-23",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://www.rpgsite.net/news/19604-the-seven-deadly-sins-origin-launches-first-for-ps5-pc-steam-on-march-16-followed-with-mobile-on-march-23",
+      "lastVerified": "2026-11-12",
+      "added": "2026-03-23",
+      "popularity": 82,
+      "adult": false
+    },
+    {
+      "id": "tower-of-fantasy",
+      "title": "Tower of Fantasy",
+      "altTitles": {
+        "jp": "幻塔",
+        "cn": "幻塔",
+        "kr": "타워 오브 판타지"
+      },
+      "developer": "Hotta Studio",
+      "publisher": "Perfect World / Level Infinite",
+      "genres": [
+        "MMORPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "sci-fi",
+        "shared world"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/yUk1ryEDzmGl8hVDAzN3I6ZnbxTHH_HMM1ueLjBUcMF7s0a1goUV8CpCfVOjrWM2BwGUkBY404SGEZg5fRaQ=s0-br30",
+      "description": "Shared open-world sci-fi RPG on the planet Aida, with weapon-based gacha and MMO-style group content.",
+      "officialSite": "https://www.toweroffantasy-global.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.levelinfinite.hotta.gp"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2022-08-10",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "2021-12-16",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 74,
+      "adult": false
+    },
+    {
+      "id": "tribe-nine",
+      "title": "Tribe Nine",
+      "altTitles": {
+        "jp": "トライブナイン",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Too Kyo Games",
+      "publisher": "Akatsuki Games",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "anime",
+        "extreme baseball",
+        "Kodaka"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "",
+      "description": "Action RPG set in a dystopian Neo Tokyo from Danganronpa creator Kazutaka Kodaka. Service ended in November 2025, about nine months after launch.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "end-of-service",
+      "releases": {
+        "global": {
+          "date": "2025-02-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2025-02-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2025-02-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2025-02-20",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "2025-11",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 45,
+      "adult": false
+    },
+    {
+      "id": "umamusume-pretty-derby",
+      "title": "Umamusume: Pretty Derby",
+      "altTitles": {
+        "jp": "ウマ娘 プリティーダービー",
+        "cn": "赛马娘",
+        "kr": "우마무스메 프리티 더비"
+      },
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "genres": [
+        "Simulation",
+        "Raising Sim"
+      ],
+      "tags": [
+        "anime",
+        "horse girls",
+        "racing"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/yN6cCSP7UB_2bsvlCxrtv-FUpEt1IvEFwr0Ucb3wr39QsAd5PLsueSVXuCinDbE4rifhMlX4YNtpLpkGnpsLhCQ=s0-br30",
+      "description": "Training sim where racehorses are reborn as horse girls. Coach a trainee through a career of races using Support Cards drawn from the gacha.",
+      "officialSite": "https://umamusume.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.cygames.umamusume"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2025-06-26",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2021-02-24",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2022-06-20",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "2022",
+          "precision": "year",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 93,
+      "adult": false
+    },
+    {
+      "id": "varsapura",
+      "title": "Varsapura",
+      "altTitles": {
+        "jp": "",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "urban",
+        "supernatural",
+        "Unreal Engine 5"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "cover": "",
+      "description": "Urban supernatural action RPG revealed by HoYoverse in November 2025 with a long gameplay demo. No release date or final platform list yet.",
+      "officialSite": "",
+      "storeLinks": {},
+      "status": "announced",
+      "releases": {
+        "global": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "jp": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "https://game8.co/articles/release-dates/varsapura-release-date-and-time",
+      "lastVerified": "2026-11-12",
+      "added": "2025-11-21",
+      "popularity": 85,
+      "adult": false
+    },
+    {
+      "id": "wizardry-variants-daphne",
+      "title": "Wizardry Variants Daphne",
+      "altTitles": {
+        "jp": "ウィザードリィ ヴァリアンツ ダフネ",
+        "cn": "",
+        "kr": ""
+      },
+      "developer": "Drecom",
+      "publisher": "Drecom",
+      "genres": [
+        "Dungeon Crawler",
+        "RPG"
+      ],
+      "tags": [
+        "dark fantasy",
+        "hardcore",
+        "3D dungeon"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw=s0-br30",
+      "description": "3D dungeon-crawling RPG in the classic Wizardry line, with permadeath risk and a time-rewinding story.",
+      "officialSite": "https://wizardry.info/daphne",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=jp.co.drecom.wizardry.daphne"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-10-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-10-15",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "cn": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        },
+        "tw_sea": {
+          "date": "TBA",
+          "precision": "TBA",
+          "confirmed": false
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 69,
+      "adult": false
+    },
+    {
+      "id": "wuthering-waves",
+      "title": "Wuthering Waves",
+      "altTitles": {
+        "jp": "鳴潮",
+        "cn": "鸣潮",
+        "kr": "명조: 워더링 웨이브"
+      },
+      "developer": "Kuro Games",
+      "publisher": "Kuro Games",
+      "genres": [
+        "Action RPG",
+        "Open World"
+      ],
+      "tags": [
+        "anime",
+        "post-apocalyptic",
+        "parry combat"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=s0-br30",
+      "description": "Open-world action RPG with fast, combo-driven combat. Play as Rover, absorb Echoes from defeated enemies and explore Solaris-3.",
+      "officialSite": "https://wutheringwaves.kurogames.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-05-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-05-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-05-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2024-05-23",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2024-05-23",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 94,
+      "adult": false
+    },
+    {
+      "id": "zenless-zone-zero",
+      "title": "Zenless Zone Zero",
+      "altTitles": {
+        "jp": "ゼンレスゾーンゼロ",
+        "cn": "绝区零",
+        "kr": "젠레스 존 제로"
+      },
+      "developer": "miHoYo",
+      "publisher": "HoYoverse",
+      "genres": [
+        "Action RPG"
+      ],
+      "tags": [
+        "anime",
+        "urban fantasy",
+        "stylish combat"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PC",
+        "PS5"
+      ],
+      "cover": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw=s0-br30",
+      "description": "Urban-fantasy action game set in New Eridu. Fast three-agent tag combat inside the Hollows, with a slice-of-life city hub.",
+      "officialSite": "https://zenless.hoyoverse.com",
+      "storeLinks": {
+        "googlePlay": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap"
+      },
+      "status": "released",
+      "releases": {
+        "global": {
+          "date": "2024-07-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "jp": {
+          "date": "2024-07-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "kr": {
+          "date": "2024-07-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "cn": {
+          "date": "2024-07-04",
+          "precision": "exact",
+          "confirmed": true
+        },
+        "tw_sea": {
+          "date": "2024-07-04",
+          "precision": "exact",
+          "confirmed": true
+        }
+      },
+      "endOfService": "",
+      "sourceUrl": "",
+      "lastVerified": "",
+      "added": "",
+      "popularity": 93,
+      "adult": false
+    }
+  ]
+}

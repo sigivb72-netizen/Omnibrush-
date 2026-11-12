@@ -1,0 +1,66 @@
+{
+  "_readme": "Review queue written by the scraper. To ACCEPT an item: fill in its 'game' object (same fields as games.json; 'id' or 'title' required) and set 'approved' to true. Accepted items only add new games or fill empty/TBA fields; they never change existing values. To DISMISS an item set 'rejected' to true. To change an existing value, edit games.json directly or add it to overrides.json.",
+  "dismissed": [],
+  "items": [
+    {
+      "id": "news-2e92ed1d14dde2a5",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "パックを開封してレアなヒーローを集め，迫りくるモンスターの猛攻を生き延びろ。「ブースターパックヒーロー」，配信開始",
+      "url": "https://www.4gamer.net/games/057/G105766/20261111035/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-12",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-961b0a263c551c31",
+      "type": "news",
+      "detected": "beta",
+      "gameId": "",
+      "title": "「ドラゴンクエストRPG 魔界樹と導かれし島」，クローズドβテストを12月8日から15日まで開催。テスター2万5000人の募集を開始",
+      "url": "https://www.4gamer.net/games/056/G105640/20261109024/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-12",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-957f9c9a3c96ea06",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "「デジモンアリシオン」，事前登録者数が20万人を突破。追加報酬を公開し，40万人達成で「BT1-084 オメガモン」をプレゼント",
+      "url": "https://www.4gamer.net/games/893/G089331/20261109033/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-12",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-62aeb799a1cb89f6",
+      "type": "news",
+      "detected": "beta",
+      "gameId": "",
+      "title": "「シーオブレムナンツ」，クローズドβテストを12月4日からスタート。今回はPCだけでなく，PS5やスマートフォンからでも参加可能",
+      "url": "https://www.4gamer.net/games/915/G091599/20261110001/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-12",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-30db4c800ff34386",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "「ヒロアカUR」のスマホ版「僕のヒーローアカデミア ULTRA RUMBLE モバイル」が発表。人気キャラのコスチュームが手に入る事前登録キャンペーンがスタート",
+      "url": "https://www.4gamer.net/games/055/G105589/20261105059/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-12",
+      "approved": false,
+      "game": {}
+    }
+  ]
+}

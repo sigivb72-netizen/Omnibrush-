@@ -1,0 +1,82 @@
+name: Build APK
+
+on:
+  push:
+    paths-ignore:
+      - "data/pending.json"
+      - "data/news.json"
+      - "**.md"
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: gradle/actions/setup-gradle@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scraper tests
+        run: |
+          if [ -d scraper/tests ]; then
+            pip install -r scraper/requirements.txt pytest
+            python -m pytest scraper/tests -q
+          fi
+
+      - name: Validate data files
+        run: |
+          if [ -f scraper/validate.py ]; then python scraper/validate.py; fi
+
+      - name: Build debug APK
+        run: >
+          ./gradlew --no-daemon assembleDebug
+          -PdataRepo=${{ github.repository }}
+          -PdataBranch=${{ github.head_ref || github.ref_name }}
+          -PbuildNumber=${{ github.run_number }}
+
+      - name: Rename APK
+        run: |
+          mkdir -p out
+          cp app/build/outputs/apk/debug/app-debug.apk out/MyGachaList-debug-${{ github.run_number }}.apk
+
+      # Uploaded before the tests run, so an APK is available even when a test fails.
+      - uses: actions/upload-artifact@v4
+        with:
+          name: MyGachaList-debug-apk
+          path: out/*.apk
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Unit tests and app walkthrough
+        run: >
+          ./gradlew --no-daemon testDebugUnitTest
+          -PdataRepo=${{ github.repository }}
+          -PdataBranch=${{ github.head_ref || github.ref_name }}
+          -PbuildNumber=${{ github.run_number }}
+
+      - name: Upload walkthrough screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: screenshots
+          path: app/build/screenshots/*.png
+          if-no-files-found: ignore
+          retention-days: 14
