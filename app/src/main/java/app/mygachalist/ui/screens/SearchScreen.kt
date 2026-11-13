@@ -96,7 +96,7 @@ fun SearchScreen(vm: MainViewModel, onGame: (String) -> Unit) {
             )
         } else {
             LazyColumn(Modifier.fillMaxSize()) {
-                items(results, key = { it.first.id }) { (g, d) ->
+                items(results, key = { it.first.id }, contentType = { "game" }) { (g, d) ->
                     GameRow(g, entries[g.id], d, g.id in revealed, { onGame(g.id) }, showRegion = d.region != region)
                     RowDivider()
                 }

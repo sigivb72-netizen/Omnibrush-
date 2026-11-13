@@ -101,7 +101,7 @@ def new_game(patch: dict) -> dict:
     game = {
         "id": patch["id"], "title": "", "altTitles": {"jp": "", "cn": "", "kr": ""},
         "developer": "", "publisher": "", "genres": [], "tags": [], "platforms": [],
-        "cover": "", "description": "", "officialSite": "", "storeLinks": {},
+        "cover": "", "screenshots": [], "trailer": "", "description": "", "officialSite": "", "storeLinks": {},
         "status": "announced",
         "releases": {r: {"date": "TBA", "precision": "TBA", "confirmed": False} for r in REGIONS},
         "endOfService": "", "sourceUrl": "", "lastVerified": "", "added": "", "popularity": 0, "adult": False,

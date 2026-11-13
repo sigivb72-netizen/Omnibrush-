@@ -3,6 +3,11 @@ package app.mygachalist.ui.screens
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.lazy.LazyRow
+import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.lazy.itemsIndexed
+import androidx.compose.foundation.pager.HorizontalPager
+import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
@@ -15,7 +20,16 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.window.Dialog
+import androidx.compose.ui.window.DialogProperties
+import coil.compose.AsyncImage
+import coil.request.ImageRequest
+import java.net.URLEncoder
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -33,8 +47,9 @@ private val STORE_LABELS = mapOf(
 )
 
 @Composable
-fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: (String) -> Unit) {
+fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: (String) -> Unit, onGame: (String) -> Unit) {
     val gamesById by vm.gamesById.collectAsStateWithLifecycle()
+    val games by vm.games.collectAsStateWithLifecycle()
     val entries by vm.entries.collectAsStateWithLifecycle()
     val settings by vm.settings.collectAsStateWithLifecycle()
     val news by vm.news.collectAsStateWithLifecycle()
@@ -102,7 +117,7 @@ fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: 
                 Row(
                     Modifier.fillMaxWidth().padding(horizontal = 12.dp)
                         .background(MaterialTheme.colorScheme.surfaceContainerHigh, RoundedCornerShape(6.dp))
-                        .clickable { onEdit(game.id) }.height(IntrinsicSize.Min),
+                        .clickable { onEdit(game.id) }.height(56.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
                     Box(Modifier.width(6.dp).fillMaxHeight().background(entry.listStatus.color()))
@@ -119,6 +134,30 @@ fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: 
                     Text(if (entry.score > 0) entry.score.toString() else "-", fontWeight = FontWeight.Bold, modifier = Modifier.padding(start = 2.dp, end = 10.dp))
                     Icon(Icons.Filled.Edit, "Edit list entry", Modifier.padding(end = 12.dp).size(18.dp), tint = MaterialTheme.colorScheme.primary)
                 }
+            }
+
+            val shots = if (game.adult && !revealed) emptyList() else game.screenshots
+            if (shots.isNotEmpty()) {
+                var viewer by remember(game.id) { mutableStateOf<Int?>(null) }
+                SectionHeader("Screenshots")
+                LazyRow(contentPadding = PaddingValues(horizontal = 12.dp, vertical = 8.dp), horizontalArrangement = Arrangement.spacedBy(6.dp)) {
+                    itemsIndexed(shots, key = { _, url -> url }) { i, url ->
+                        AsyncImage(
+                            model = ImageRequest.Builder(LocalContext.current).data(sizedUrl(url, 360, height = true)).build(),
+                            contentDescription = "Screenshot ${i + 1}",
+                            contentScale = ContentScale.FillHeight,
+                            modifier = Modifier.height(150.dp).widthIn(min = 84.dp).clip(RoundedCornerShape(4.dp))
+                                .background(MaterialTheme.colorScheme.surfaceContainerHighest).clickable { viewer = i },
+                        )
+                    }
+                }
+                viewer?.let { start -> ScreenshotViewer(shots, start) { viewer = null } }
+            }
+
+            SectionHeader("Videos")
+            FlowRow(Modifier.padding(horizontal = 12.dp, vertical = 6.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                if (game.trailer.startsWith("http")) LinkButton("Official trailer") { openLink(game.trailer) }
+                LinkButton("Gameplay on YouTube") { openLink("https://www.youtube.com/results?search_query=" + enc(game.title + " gameplay")) }
             }
 
             SectionHeader("Information")
@@ -171,13 +210,35 @@ fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: 
             val links = buildList {
                 if (game.officialSite.isNotBlank()) add("Official site" to game.officialSite)
                 game.storeLinks.forEach { (k, v) -> if (v.startsWith("http")) add((STORE_LABELS[k] ?: k) to v) }
+                // No direct link on file: fall back to a store search so there is always a way to the download.
+                val closed = game.gameStatus == GameStatus.END_OF_SERVICE
+                val has = { key: String -> game.storeLinks.keys.any { it.startsWith(key) } }
+                val on = { platform: String -> game.platforms.any { it.equals(platform, true) } }
+                if (!closed && !game.adult) {
+                    if (on("Android") && !has("googlePlay")) add("Find on Google Play" to "https://play.google.com/store/search?c=apps&q=" + enc(game.title))
+                    if (on("iOS") && !has("appStore")) add("Find on App Store" to "https://apps.apple.com/us/search?term=" + enc(game.title))
+                    if (on("PC") && !has("steam") && !has("epic")) add("Find on Steam" to "https://store.steampowered.com/search/?term=" + enc(game.title))
+                }
             }
             if (links.isNotEmpty()) {
-                SectionHeader("Links")
+                SectionHeader("Links and downloads")
                 FlowRow(Modifier.padding(horizontal = 12.dp, vertical = 6.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    links.forEach { (label, url) ->
-                        OutlinedButton(onClick = { openLink(url) }, contentPadding = PaddingValues(horizontal = 12.dp, vertical = 4.dp), shape = RoundedCornerShape(6.dp)) {
-                            Text(label, fontSize = 13.sp)
+                    links.forEach { (label, url) -> LinkButton(label) { openLink(url) } }
+                }
+            }
+
+            val studios = remember(game) { game.studios() }
+            val more = remember(games, game.id) {
+                games.filter { it.id != game.id && it.studios().any { s -> s in studios } }.sortedByDescending { it.popularity }.take(12)
+            }
+            if (more.isNotEmpty()) {
+                val shared = remember(more) { studios.filter { s -> more.any { s in it.studios() } } }
+                SectionHeader("More from " + shared.take(2).joinToString(" and "))
+                LazyRow(contentPadding = PaddingValues(horizontal = 12.dp, vertical = 8.dp), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    items(more, key = { it.id }) { g ->
+                        Column(Modifier.width(84.dp).clickable { onGame(g.id) }) {
+                            CoverImage(g, g.id in revealedSet, Modifier.size(width = 84.dp, height = 112.dp))
+                            Text(g.title, fontSize = 11.5.sp, lineHeight = 14.sp, maxLines = 2, overflow = TextOverflow.Ellipsis, modifier = Modifier.padding(top = 3.dp))
                         }
                     }
                 }
@@ -200,7 +261,10 @@ fun DetailScreen(vm: MainViewModel, gameId: String, onBack: () -> Unit, onEdit: 
 @Composable
 private fun Countdown(game: Game, region: Region, today: LocalDate) {
     val next = game.nextUpcoming(today, region)
+    val closing = game.eosDate()?.takeIf { it.isUpcoming(today) }
     val (headline, sub) = when {
+        closing != null && game.gameStatus != GameStatus.END_OF_SERVICE ->
+            (closing.daysUntil(today)?.let { "Service ends in $it days" } ?: "Service ending") to closing.display()
         game.gameStatus == GameStatus.END_OF_SERVICE ->
             "Service ended" to game.endOfService.takeIf { it.isNotBlank() }?.let { ReleaseDate.parse(it).display() }.orEmpty()
         next != null -> {
@@ -228,6 +292,37 @@ private fun Countdown(game: Game, region: Region, today: LocalDate) {
         if (sub.isNotBlank()) Text(sub, fontSize = 11.5.sp, color = MaterialTheme.colorScheme.onPrimaryContainer)
     }
 }
+
+@Composable
+private fun LinkButton(label: String, onClick: () -> Unit) {
+    OutlinedButton(onClick = onClick, contentPadding = PaddingValues(horizontal = 12.dp, vertical = 4.dp), shape = RoundedCornerShape(6.dp)) {
+        Text(label, fontSize = 13.sp)
+    }
+}
+
+/** Full-screen, swipeable screenshots. Tap anywhere to close. */
+@Composable
+private fun ScreenshotViewer(shots: List<String>, start: Int, onClose: () -> Unit) {
+    Dialog(onDismissRequest = onClose, properties = DialogProperties(usePlatformDefaultWidth = false)) {
+        val pager = rememberPagerState(initialPage = start) { shots.size }
+        Box(Modifier.fillMaxSize().background(Color.Black).clickable(onClick = onClose)) {
+            HorizontalPager(state = pager, modifier = Modifier.fillMaxSize()) { page ->
+                AsyncImage(
+                    model = ImageRequest.Builder(LocalContext.current).data(sizedUrl(shots[page], 1080, height = true)).build(),
+                    contentDescription = "Screenshot ${page + 1}",
+                    contentScale = ContentScale.Fit,
+                    modifier = Modifier.fillMaxSize(),
+                )
+            }
+            Text(
+                "${pager.currentPage + 1} / ${shots.size}", color = Color.White, fontSize = 13.sp,
+                modifier = Modifier.align(Alignment.BottomCenter).navigationBarsPadding().padding(12.dp),
+            )
+        }
+    }
+}
+
+private fun enc(text: String): String = URLEncoder.encode(text, "UTF-8")
 
 private fun hostOf(url: String): String = url.substringAfter("://").substringBefore('/').removePrefix("www.")
 

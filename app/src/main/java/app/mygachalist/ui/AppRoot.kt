@@ -116,7 +116,7 @@ fun AppRoot(vm: MainViewModel, openGameId: String?, onOpenGameConsumed: () -> Un
                 composable("profile") { ProfileScreen(vm, openSettings) { nav.switchTab("search") } }
                 composable("settings") { SettingsScreen(vm) { nav.popBackStack() } }
                 composable("game/{id}") { entry ->
-                    DetailScreen(vm, entry.arguments?.getString("id").orEmpty(), { nav.popBackStack() }, editEntry)
+                    DetailScreen(vm, entry.arguments?.getString("id").orEmpty(), { nav.popBackStack() }, editEntry, { id -> nav.navigate("game/$id") })
                 }
                 composable("entry/{id}") { entry ->
                     EntryEditScreen(vm, entry.arguments?.getString("id").orEmpty()) { nav.popBackStack() }

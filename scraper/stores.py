@@ -33,7 +33,7 @@ def apple_url(app_id: str, country: str) -> str:
 
 
 def parse_play_page(html: str) -> dict:
-    """{'state': 'pre-registration'|'available'|'unknown', 'cover': url, 'title': str}"""
+    """{'state': ..., 'cover': url, 'title': str, 'screenshots': [url without size suffix], 'trailer': url}"""
     cover = ""
     m = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html)
     if m:
@@ -42,13 +42,23 @@ def parse_play_page(html: str) -> dict:
     m = re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"', html)
     if m:
         title = re.sub(r"\s+- Apps on Google Play$", "", unescape(m.group(1)))
+    # Screenshots are the wide/tall <img> tiles; the app icon is repeated at small sizes and skipped.
+    icon_base = cover.split("=")[0]
+    shots: list[str] = []
+    for base, w, h in re.findall(r'<img[^>]+src="(https://play-lh\.googleusercontent\.com/[^"=]+)=w(\d+)-h(\d+)', html):
+        if base != icon_base and base not in shots and min(int(w), int(h)) >= 200:
+            shots.append(base)
+    trailer = ""
+    m = re.search(r'data-trailer-url="https://www\.youtube\.com/embed/([\w-]{11})', html)
+    if m:
+        trailer = "https://www.youtube.com/watch?v=" + m.group(1)
     if re.search(r">\s*Pre-register\s*<|Pre-registered|Coming soon", html):
         state = "pre-registration"
     elif re.search(r">\s*Install\s*<|\"softwareVersion\"|Downloads</div>", html):
         state = "available"
     else:
         state = "unknown"
-    return {"state": state, "cover": cover, "title": title}
+    return {"state": state, "cover": cover, "title": title, "screenshots": shots[:8], "trailer": trailer}
 
 
 def parse_apple_page(html: str) -> dict:
@@ -99,6 +109,9 @@ def check_game(game: dict, max_regions: int = 4) -> tuple[dict, list[dict]]:
                 seen.append({"store": "googlePlay", "region": region, "state": info["state"], "url": url})
                 if info["cover"] and not patch.get("cover"):
                     patch["cover"] = info["cover"]
+                for key in ("screenshots", "trailer"):
+                    if info[key] and not patch.get(key):
+                        patch[key] = info[key]
             elif status == 404:
                 seen.append({"store": "googlePlay", "region": region, "state": "not-listed", "url": url})
             # A released game only needs one page (for the cover).

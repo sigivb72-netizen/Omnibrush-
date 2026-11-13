@@ -19,10 +19,10 @@ build files).
 1. Open this repository in your phone's browser and tap **Actions**.
    If you only see the mobile layout, open the browser menu and choose **Desktop site**.
 2. Tap the **Build APK** workflow, then the newest run with a green check mark.
-3. Scroll to **Artifacts** at the bottom of the run page and tap **MyGachaList-debug-apk**.
+3. Scroll to **Artifacts** at the bottom of the run page and tap **MyGachaList-apk**.
    A `.zip` file downloads.
 4. Open the **My Files** app, go to **Downloads**, tap the zip and choose **Extract** (Unzip).
-5. Tap the extracted `MyGachaList-debug-….apk`.
+5. Tap the extracted `MyGachaList-….apk`.
 6. Android asks whether My Files may install apps: tap **Settings**, switch on
    **Allow from this source**, go back and tap **Install**.
    If Play Protect shows a warning, choose **More details → Install anyway**. The app is not
@@ -101,6 +101,9 @@ minutes for GitHub to serve the new file).
 | `popularity` | 0–100, only used for sorting |
 | `added` | Date the entry was created; orders "Recently announced" |
 | `adult` | `true` hides the game unless the 18+ setting is on |
+| `screenshots` | List of image links. The scraper fills this from the Google Play page when it is empty. |
+| `trailer` | Link to a trailer video (filled from Google Play when empty) |
+| `endOfService` | Shutdown date, e.g. `2026-10-06`. A future date shows the game under "Shutting down" with a countdown. |
 
 Only `id` and `title` are required. **If you are not sure of a date, write `TBA`** or a coarser
 date such as the year.
@@ -166,10 +169,10 @@ Only headlines and links are stored, never article text.
 
 | Screen | What it shows |
 | --- | --- |
-| Home | Releasing soon, Just launched, Recently announced, latest headlines |
+| Home | Releasing soon, Just launched, Recently announced, Shutting down, latest headlines |
 | Seasonal | Games by season or month (plus a TBA tab), filtered by region, platform, genre, status |
 | Search | Text search with filters, sorted by popularity, release date or title |
-| Game page | Cover, info table, synopsis, per-region release table, countdown, links, related news |
+| Game page | Cover, screenshots, video links, info table, synopsis, per-region release table, countdown, site and store links, more from the same studio, related news |
 | My List | Playing, Completed, On Hold, Dropped, Plan to Play; score, dates, region/server, play time, spending, notes |
 | Profile | Counts per status, mean score, days played, spending, score distribution, genre breakdown |
 | Settings | Default region, theme, notifications, 18+ toggle, export/import of your list |
@@ -193,11 +196,15 @@ scraper/                Python scraper, data validator and their tests
 .github/workflows/      build.yml (APK on every push) and scrape.yml (every 6 hours)
 ```
 
+The installable APK is the optimised release build. After building it, a second job installs it
+on an Android emulator and taps through the main screens, so a build that would crash on a phone
+shows a red X.
+
 Tests run in the build workflow: the JSON parser and date logic, the scraper's merge logic,
 a validator for the data files, and a walkthrough that drives the real app through every
 screen (its screenshots are attached to each run as the `screenshots` artifact).
 
-To build locally: `./gradlew assembleDebug`. To run the scraper: `pip install -r
+To build locally: `./gradlew assembleRelease`. To run the scraper: `pip install -r
 scraper/requirements.txt && python scraper/scrape.py`.
 
 Release information is maintained by hand and by an automated scraper and can be wrong.

@@ -104,7 +104,7 @@ fun CoverImage(game: Game, revealed: Boolean, modifier: Modifier = Modifier) {
         val canBlur = Build.VERSION.SDK_INT >= 31
         if (game.cover.isNotBlank() && (!hide || canBlur)) {
             AsyncImage(
-                model = ImageRequest.Builder(LocalContext.current).data(game.cover).build(),
+                model = ImageRequest.Builder(LocalContext.current).data(thumbUrl(game.cover)).build(),
                 contentDescription = null,
                 contentScale = ContentScale.Crop,
                 modifier = Modifier.matchParentSize().then(if (hide) Modifier.blur(24.dp) else Modifier),
@@ -117,6 +117,15 @@ fun CoverImage(game: Game, revealed: Boolean, modifier: Modifier = Modifier) {
         }
     }
 }
+
+/**
+ * Google Play serves images at full size unless asked otherwise. A WebP sized for the view is a
+ * fraction of the download and decode cost. [height] true sizes by height (screenshots).
+ */
+fun sizedUrl(url: String, px: Int, height: Boolean = false): String =
+    if ("googleusercontent.com" in url) url.substringBefore('=') + (if (height) "=h$px-rw" else "=s$px-rw") else url
+
+fun thumbUrl(url: String): String = sizedUrl(url, 256)
 
 private fun initials(title: String): String =
     title.split(' ', ':', '-').filter { it.isNotBlank() }.take(2).joinToString("") { it.first().uppercase() }
@@ -131,9 +140,10 @@ fun GameRow(
     onClick: () -> Unit,
     modifier: Modifier = Modifier,
     showRegion: Boolean = false,
+    note: String? = null,
 ) {
     Row(
-        modifier.fillMaxWidth().clickable(onClick = onClick).height(IntrinsicSize.Min),
+        modifier.fillMaxWidth().clickable(onClick = onClick).height(74.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         Box(Modifier.width(5.dp).fillMaxHeight().background(entry?.listStatus?.color() ?: Color.Transparent))
@@ -150,7 +160,9 @@ fun GameRow(
             Spacer(Modifier.height(3.dp))
             Row(verticalAlignment = Alignment.CenterVertically) {
                 StatusBadge(game.gameStatus)
-                if (date != null) {
+                if (note != null) {
+                    Text(note, fontSize = 11.5.sp, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.padding(start = 6.dp), color = MaterialTheme.colorScheme.onSurfaceVariant)
+                } else if (date != null) {
                     val label = date.date.display() + (if (showRegion && !date.date.isTba) " · ${date.region.label}" else "") +
                         (if (!date.confirmed && !date.date.isTba) " (rumoured)" else "")
                     Text(label, fontSize = 11.5.sp, maxLines = 1, overflow = TextOverflow.Ellipsis, modifier = Modifier.padding(start = 6.dp), color = MaterialTheme.colorScheme.onSurfaceVariant)

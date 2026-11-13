@@ -46,8 +46,14 @@ android {
 
     buildTypes {
         debug { signingConfig = signingConfigs.getByName("debug") }
+        // The build you install: not debuggable, so Android can optimise it and Compose runs at
+        // full speed. Signed with the same committed key, so it installs over older builds.
         release {
-            isMinifyEnabled = false
+            // R8 is the single biggest speed-up for a Compose app: smoother scrolling and faster start.
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
+            isDebuggable = false
             signingConfig = signingConfigs.getByName("debug")
         }
     }
@@ -109,6 +115,8 @@ dependencies {
     implementation(libs.coil.compose)
     implementation(libs.work.runtime.ktx)
     implementation(libs.datastore.preferences)
+    // Installs the Compose libraries' baseline profiles so Android pre-compiles the scrolling code paths.
+    implementation(libs.profileinstaller)
     testImplementation(libs.junit)
     testImplementation(libs.robolectric)
     testImplementation(libs.androidx.test.core)

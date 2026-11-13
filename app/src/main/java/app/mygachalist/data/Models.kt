@@ -1,9 +1,11 @@
 package app.mygachalist.data
 
+import androidx.compose.runtime.Immutable
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
 /** One game as stored in /data/games.json. Every field has a default so partial entries still load. */
+@Immutable
 @Serializable
 data class Game(
     val id: String = "",
@@ -15,6 +17,8 @@ data class Game(
     val tags: List<String> = emptyList(),
     val platforms: List<String> = emptyList(),
     val cover: String = "",
+    val screenshots: List<String> = emptyList(),
+    val trailer: String = "",
     val description: String = "",
     val officialSite: String = "",
     val storeLinks: Map<String, String> = emptyMap(),
@@ -28,11 +32,13 @@ data class Game(
     val adult: Boolean = false,
 )
 
+@Immutable
 @Serializable
 data class AltTitles(val jp: String = "", val cn: String = "", val kr: String = "") {
     fun all(): List<String> = listOf(jp, cn, kr).filter { it.isNotBlank() }.distinct()
 }
 
+@Immutable
 @Serializable
 data class RegionRelease(
     val date: String = "TBA",
@@ -40,6 +46,7 @@ data class RegionRelease(
     val confirmed: Boolean = true,
 )
 
+@Immutable
 @Serializable
 data class NewsItem(
     val id: String = "",
@@ -101,6 +108,7 @@ enum class ListStatus(val key: String, val label: String) {
 }
 
 /** A row of the user's own list. Lives only on the device (plus JSON export). */
+@Immutable
 @Serializable
 data class ListEntry(
     val gameId: String = "",
@@ -129,3 +137,11 @@ data class ListExport(
     val exported: String = "",
     val entries: List<ListEntry> = emptyList(),
 )
+
+private val EOS_WORDS = listOf(
+    "end of service", "ends service", "end service", "shut down", "shutting down", "shuts down", "shutdown", "closing down",
+    "サービス終了", "서비스 종료", "섭종", "停运", "停止營運", "停止运营", "終止營運",
+)
+
+/** True for headlines about a game closing. */
+val NewsItem.isShutdownNews: Boolean get() = title.lowercase().let { t -> EOS_WORDS.any { it in t } }
