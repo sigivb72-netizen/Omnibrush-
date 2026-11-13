@@ -61,6 +61,18 @@
       "firstSeen": "2026-11-12",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-18add6b054af3fe6",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "「桃源暗鬼 Crimson Inferno」，DMM GAMESとGoogle Play Gamesで事前登録の受付を開始。登録者数は30万人を突破",
+      "url": "https://www.4gamer.net/games/893/G089379/20261113016/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-13",
+      "approved": false,
+      "game": {}
     }
   ]
 }
