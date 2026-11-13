@@ -82,7 +82,7 @@ def collect_news(sources: list[dict], games: list[dict], now: datetime) -> tuple
             news.append({
                 "id": nid, "title": it["title"][:300], "url": it["url"], "source": src["name"],
                 "lang": src.get("lang", "en"), "published": it["published"] or now.strftime("%Y-%m-%dT%H:%M:%SZ"),
-                "gameIds": game_ids,
+                "gameIds": game_ids, "kind": feeds.detect_lead(it["title"]),
             })
             kind = feeds.detect_lead(it["title"])
             # A lead is worth a human look when it may change the database:
@@ -119,7 +119,8 @@ def check_stores(games: list[dict], now: datetime, budget: int) -> tuple[list[di
         return (0 if g.get("status") in ("announced", "pre-registration", "beta") else 1, g["id"])
     todo = {g["id"] for g in sorted(games, key=priority)
             if (g.get("storeLinks") or {}).get("googlePlay") or (g.get("storeLinks") or {}).get("appStore")
-            if g.get("status") in ("announced", "pre-registration", "beta") or merge_mod.is_empty(g.get("cover"))}
+            if g.get("status") in ("announced", "pre-registration", "beta") or merge_mod.is_empty(g.get("cover"))
+            or (merge_mod.is_empty(g.get("screenshots")) and (g.get("storeLinks") or {}).get("googlePlay"))}
     todo = set(sorted(todo, key=lambda i: priority(next(g for g in games if g["id"] == i)))[:budget])
     for g in games:
         if g["id"] not in todo:

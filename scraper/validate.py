@@ -38,7 +38,10 @@ def check_game(g, where: str) -> list[str]:
         errs.append(f"{name}: 'adult' must be true or false (no quotes)")
     if not isinstance(g.get("popularity", 0), int):
         errs.append(f"{name}: 'popularity' must be a whole number")
-    for key in ("cover", "officialSite", "sourceUrl"):
+    shots = g.get("screenshots", [])
+    if not isinstance(shots, list) or any(not isinstance(x, str) or not x.startswith("http") for x in shots):
+        errs.append(f"{name}: 'screenshots' must be a list of image links, e.g. [\"https://...\"]")
+    for key in ("cover", "officialSite", "sourceUrl", "trailer"):
         v = g.get(key, "")
         if not isinstance(v, str) or (v and not v.startswith(("http://", "https://"))):
             errs.append(f"{name}: '{key}' must be empty or a link starting with https://")

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "games": [
     {
       "id": "afk-arena",
@@ -24,6 +24,16 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/_E2cukTKbej49Gm0T39kpFDoOfxA1wfGkyaC3prHTqPPqWCzwy4YuakXB4imhDIcCHxEh68LMQkeUVGDTodClDc=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/GOmm0snvs8LKrkuEryJa4yRJ2pChVADP-1PIrFXdGTb4XawdITTF2OI6zqojH5IwLWz0qIk7IweEqtCOmuUEUg",
+        "https://play-lh.googleusercontent.com/fVxoF-NloqhNdFzLHOnmBrp5klJZAeWDm8rBDtd9jdSTi8mmiQRNPBGJ04cnMoN3lMSQOtvJinL_px0UKgXin8c",
+        "https://play-lh.googleusercontent.com/ubw88E3NTApGQgd2mToC-VGXaA5XM3D0T79rlBKnVyGoGDNgi48UxihO0l8Ok29-kF9fmkbe5i3r4ERqfmFvb0I",
+        "https://play-lh.googleusercontent.com/nXtK5PSS1lpTfSC6Ph8by-s6RItxFSvQ5jUT2B9Z0tSe5KzkLSJ_jkyxsUidTPrALR1GXYonNHaIsziVw9FJ5Q",
+        "https://play-lh.googleusercontent.com/JUZn8gn55GuYBDyHB5L-059QCB6Kn1sPayZKeeUKM6KKt8iM5oYLNyV5ZSmOMxERQcy-OHRdtdozM48ZU0WyFMY",
+        "https://play-lh.googleusercontent.com/i-mZryS36__5S4yzr2WK_kZkUXaxixYoAZRzxmqqxiGvQsKb-FPMFg1hB83m4wDL0b4-nIMhWVw7JBHQLFHG",
+        "https://play-lh.googleusercontent.com/o26Mc2KTnQsLsILsSzkauiFWe3GagIBZJYlK6VcLp4R0VUJBKMNfWJPUs-5FFhcq6P5yHZfcFp9rJWJU7mFImQ"
+      ],
+      "trailer": "",
       "description": "Idle RPG where heroes keep earning rewards while you are away. Stylised art and faction-based team building.",
       "officialSite": "",
       "storeLinks": {
@@ -88,6 +98,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/i9HvbrmveT5ZtIKc0Hlyc4ZLfMtjj7QohOSq_HLnSH2MwTUKejJAMefICADQHKwK6KRsP7zEAo8wANSKA-0-gA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Riu1cSf6VtXY3DaWfz-pVyHgzZX5bIVgqFrrSfXhhihq0tM5PQ7UOfuNGuuor4t-K5qZIWyPGTumZ1f1iUrZNJc",
+        "https://play-lh.googleusercontent.com/M9X78u5wDMMAbhB-NsR-wXJyjYhJfJFYfIIOXgL1oc4SfwYgUcwlb1fm1CBGwm67SCHlhHD0g5ADIFfW-YN3uLM",
+        "https://play-lh.googleusercontent.com/isFfJH7faXusqtc389oDQGPrrzuJxSC8DpOa9EjsRLE_HjuwblY8tROkUAndfAJn8Ok4aWTzlPkezENp_nnRt8U",
+        "https://play-lh.googleusercontent.com/II8E7rzBM3neGUWA2Oi2NecnRCR4yXIcUjkt3bVmT4F-C52Y7XE6Jy3-SknZ1oXZ6CVtZzQw0miW3AMzKPlPQgU",
+        "https://play-lh.googleusercontent.com/vARWW8NHaiHFqvyvGo1xoXBn5moIgE-wkeeJ2GR_wCM5t2igG9zbaXSVR9__i_z-L0HwMOeyzF1NmN6EseBA",
+        "https://play-lh.googleusercontent.com/yOAtHaNYa9exoqCdrgk0yF-rD9Jx-GkbuCjJY4gQ9H8egKC-7Wx3xFIRO3HxC0K9AfSAN_KAigUh9leNVzJg",
+        "https://play-lh.googleusercontent.com/lSrznRj_r_Sf_Zho4cYfdAh-yuu34oxN3_zfAsCFWxH6ezQPj5W7p2EzWeR1Jtg7UhLHmhc_kt1GtKeHijQc9pQ",
+        "https://play-lh.googleusercontent.com/kdxdKdezohmzjXIQfrtUv3rsAZmW0Ia-vXrkr09jKw69JOHO6VPOgYq9EMGFBBbsrSVDdHINnlD4y6g9PGGX"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=UZhjcf64lWE",
       "description": "Follow-up to AFK Arena with a seamless explorable world, hex-based auto battles and a storybook look.",
       "officialSite": "https://afkjourney.farlightgames.com",
       "storeLinks": {
@@ -155,6 +176,16 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/VV52RLZ43ZGnMvBL0KVrpgSCb-n5hWEamMmBMLVd3VCK1VwGQCPGQe7XxdM_srQclSxdUVRC4sQKBzXZwch5Yg=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/KiaxH63E3KR6atJ8X0IZ5WAlWog16WZ3IVxARjPjtme7-KmIRZCV3d3ePLofNQIFKB_l0kxmozPam20MHsaYEQ",
+        "https://play-lh.googleusercontent.com/wFA9LvaXfWWv6XcBnPwOzLwYjB6VQJ4RcSV5jRMgGkpVMhU602TjTtS7uvo7GeH9JsY_Sx5acY7oMdzc7hxVfRw",
+        "https://play-lh.googleusercontent.com/O65RI2QHdCwknwEZV2yOqtM6OAyjRM9jMcer1eNCctneCzRNf7xLfDDqqtjcElq9OvJElCAqrsx_6-ksWOXUgA",
+        "https://play-lh.googleusercontent.com/vOcl2kZOT3GcoHFpWGYd5M7GtQfsOFpkqfWXsyS7G7fUp7WSO2BxbP5WFxxginHc-OAlzti7T9_g-FENuQ1K4g",
+        "https://play-lh.googleusercontent.com/FR4JUA37TNsM2JJ_oa6BmbeZtMmoElepMh1Xpbu83nsiQQJTF3Sw_6iPQFd81eTdgAQuXJdKsGAfZcny-_k_",
+        "https://play-lh.googleusercontent.com/KmyX-FTdZZZl_3pSSJaWr77d__jvF6CC74YLuuBnHngooUyjJnDCzS3ceVhbth-M2JI-677N18m6C4ZhFwYo2w",
+        "https://play-lh.googleusercontent.com/jhjHEzYBc64yXO-sA6nYmZz2lt1cFs8YDRCHEy7K9RETP96VY4Uu6RF0FudS5PSjqHLIIeklzw6uHCbfXSltLA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=5EPfMnKwtpI",
       "description": "Urban open-world RPG formerly known as Project Mugen. Swing, drive and fight through Nova Inception Urbs and a second city, Chongxiao. Date announced at Gamescom 2026.",
       "officialSite": "https://www.anantagame.com",
       "storeLinks": {
@@ -220,6 +251,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/_q5R0oxmlIDJlIsS4Fy1vpb0SrG6ZByuI3ZHspjW1BXL5yKG6CbGPyyuaHKlH-frK4E-zuS8ymZTaDVX4npqTw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/WFmPSbrxZaEWWW_Z7ax1zK5Q3tCETpV2g-Bw3s4FMUxR7OZu7sp5EsnNsFvSLZ3nqToFVV6La-MTBv2TM66flg",
+        "https://play-lh.googleusercontent.com/KpIoAnSo-pW25c_4m1LL_v95LmmnJCLHBzCk-CXPRWGAHwGzWj32JsXWtPgmcy1AbYQlCUwl0OM3MzEtHVVBhQ",
+        "https://play-lh.googleusercontent.com/562yrbDiwoe_6hD2LSiSkfS4UMrdFkDvpYkQQ5mYPhsbI0PZWI-QlplfwzV3ugjzoskHuTb1rmzdiZ1mhzRuJA",
+        "https://play-lh.googleusercontent.com/vUzSuIvDdhj54R6L0GvlG2mpWMudKkOaxszuhs-Tt1UIDW0CE_2m1EpUWOMuwrAJbS2DsdZO9T59uDd-toTKyg",
+        "https://play-lh.googleusercontent.com/zMra6gggQbPjLcdi4Eom2QQnqvkWQerVVzoUbQH6Qj6tA3Glp4P10rzQOYc9BTsGbKqL0NEZ8do7sPBfJ27KKA",
+        "https://play-lh.googleusercontent.com/r6uiLNu__OGlzSh2M_gZ8UWJFQkapjBIgYPsibwnJIEITDdtpjDqCpywtAHUNndAPnY_4yJq3qH7rbOlKBbuIA",
+        "https://play-lh.googleusercontent.com/Kc0OLLLBKFB__1ORIv3F0GswnBFnPx6XkQKC-iHKArLZwh8l161Zn--6a2MSNOgiwtes57O7MWYrKwAgeuVWT6o",
+        "https://play-lh.googleusercontent.com/UiLuTVI4vAksgoBO4zuF_8ajWh3PfYCyMpMg8-wqj_CBQ9_iPGX93_eg2jGwobUn7nBwYC0Fvd3F9n4_6F-pNto"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=nq6aIC_4t9A",
       "description": "Single-player-style JRPG written by Chrono Trigger's Masato Kato. No stamina system and a full-length story across past, present and future.",
       "officialSite": "",
       "storeLinks": {
@@ -284,6 +326,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/pBNlu-ZHQlVdfXhzI7TGIjqt_00sAeYFFK6AqTygfF3rwQfoPIkfIz-zROY31POTDKtxqcMDMPaDLJVlwCdc=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/M7a4R60i1TrMxgqY3FvU-eZifRrSPFeQFC_pbEnjktbzwKUz_G72uxBHBqnAtbP6tycxhrLBs_Ht2UIlWKX-",
+        "https://play-lh.googleusercontent.com/bHetRleHRqV8hcw3jiVFrGJRwG7H0EJzMk1KC0dX3hH1M4ytIYXJB3OXWPcmPUehBgluEYqumM3ulIoFby_1u2Y",
+        "https://play-lh.googleusercontent.com/dIRo98UsCs97OACxqBZTC1a3BlyY_aut0d023r1ciWxt4QqiUG94zjxR5WBLTqO6rk21osLGmvCeq1QrqHKOWg",
+        "https://play-lh.googleusercontent.com/aMDRHi7H8LiwNgVy7Se6IMqasSX2sd8oP_h-S0Ms1keNQSk8jn-syA8vuLIbif3sJMxgItoW8XItbeiOWsOHpQ",
+        "https://play-lh.googleusercontent.com/HChTTXNO6GlyH7URY06fYDsT0KYTI7O0aRHrUcTtxBfoNT0xK4LprPUWRMfNn0jG3OQVwhFeNVSwYujnh5Gk4w",
+        "https://play-lh.googleusercontent.com/gnnRh8CjOUU3fgsAfwkj1Oy4UJptRgDo2dMajDAfPKyVV1s8mYQbc0h-zNH4JgVJzoSyZWQmtHoQRYrvR07ldw",
+        "https://play-lh.googleusercontent.com/R0QblN22Wjf2V3MQFsvauoP8_35izu5TrJ-UzWBn_MsbOk8hu64QvlaJPOWw9d5r_PbT5Iy-6Z5PqPIom_8dQw",
+        "https://play-lh.googleusercontent.com/udTJYPqKjMKScjyLMfUeVJ2PlrA3Lpoi4fePTH5wBNyyheFSo8vz7ZwxV1ZNQ0oG-DR-y71VR4hmgq0A6TQ8vxk"
+      ],
+      "trailer": "",
       "description": "Tower-defense strategy RPG. Deploy Operators on grid maps as the Doctor of Rhodes Island in a world ravaged by Originium.",
       "officialSite": "https://www.arknights.global",
       "storeLinks": {
@@ -350,6 +403,17 @@
         "PS5"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/a84104b5ffa357982d188cab0be5d6cfde8a6398/header.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/86b3553ade80dc37eabc33e3e76a509a052080e3/ss_86b3553ade80dc37eabc33e3e76a509a052080e3.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/411ced9350b37031faf9aafa01ca713ded248086/ss_411ced9350b37031faf9aafa01ca713ded248086.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/1db6332b7c32ad158e428289802a8a3c10810d0a/ss_1db6332b7c32ad158e428289802a8a3c10810d0a.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/647a1e52cda432199a4424e7e538848e7b0e7e11/ss_647a1e52cda432199a4424e7e538848e7b0e7e11.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/2124176ade1a287676e915ad99d5a6419b689fa5/ss_2124176ade1a287676e915ad99d5a6419b689fa5.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/17f2e12f4d4b40421737effd91483a704a826e98/ss_17f2e12f4d4b40421737effd91483a704a826e98.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/1e8fca5f2bf6ed2072506d6bf06e7a14ecb4a14b/ss_1e8fca5f2bf6ed2072506d6bf06e7a14ecb4a14b.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732690/49d599ca08f611ffc315f5e14ab995c701a926da/ss_49d599ca08f611ffc315f5e14ab995c701a926da.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "3D real-time strategy RPG set on Talos-II. Mixes four-character action combat with factory-line base building.",
       "officialSite": "https://endfield.gryphline.com",
       "storeLinks": {
@@ -414,6 +478,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Real-time tactical RPG with elemental terrain reactions and a roguelite Echoing Nexus mode. The Global version ended service on June 18, 2026.",
       "officialSite": "",
       "storeLinks": {},
@@ -476,6 +542,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/3Yg8H1F9bsSTJI4-DQhJJYYokT3kEUaNG5h2JBP4Qxbzter1Q9iu3nsvepVZzMpX-VpSEgZc-UbS34TwBybQsWg=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/wDgR-bN_Ny27H11Jozyc7P9oUk-LRl2R1-6MPUF-V4qJBPCuGdJVbANOYHR8ryBZh2MhxbVXCF2AY9IBiuAJuQ",
+        "https://play-lh.googleusercontent.com/ditaQc7rJL1QDPwuPnEO5KhcuowHxghtIU57uzfwetstkyqVrV8suu9c3S8LDFH7r_t58ab8IZUB7qQqykJs6AA",
+        "https://play-lh.googleusercontent.com/zShGFLbgy1LaMbNI1lBFeAKKFWLG-W5t4h-UaWNv6q0iKGdfozdm62HkMI5uKi6SAyj18aoeCPS8kQIWiZhnGA",
+        "https://play-lh.googleusercontent.com/prw9YiXgCDVLvtaBhgDcFdbSb2SzbUUTUGnERbN8PxlZGurSCclEUmwfRiTkOh3WgHPcT3FMjSv3u2f5ac71ABs",
+        "https://play-lh.googleusercontent.com/WHU_4v86FrQuSvtCfyTK94kSl4Fecm-w7QUnrzzTLQvTg0xmM5RIo5jTOZR6wotKQnGuBA5czkEC3fSFmJVn3g",
+        "https://play-lh.googleusercontent.com/AoQnxNfAKpYOxXGK81_DBTAv4cF_osHk5hNGARRkWUB4I2Yn9-b6snJFiw0WFHQPaxt_YcwgNBrX_FY5OB_9WQ",
+        "https://play-lh.googleusercontent.com/TuXk0vz8xp1k1FNg0ojXfL4HSZUVmHTH2g2e91qRqlySik1zCxdRZDBCAZAB8lBtaHUBTXrcbbjv5zykxvBktQ",
+        "https://play-lh.googleusercontent.com/hb8yMgfoMlrm_VQp2g3UM7m7h3IsPMWRBRSiFzeD9DD0unHel0G7E8kLbNtBas68qyhn_l60lOfa-GUalVPG5yA"
+      ],
+      "trailer": "",
       "description": "Side-scrolling naval shooter with collectible shipgirls. Known for a generous construction (gacha) system and a huge roster.",
       "officialSite": "https://azurlane.yo-star.com",
       "storeLinks": {
@@ -541,6 +618,14 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/RxmRIKj3k64O7OP37cj0yNI6rKJuxuxomEok5vmOit8Te61BxSEqYCik8ZqK06OgGxlPRPvfesniIJllX_7Q=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/dm1SJk75a-NX9t02BPl78LwWAOH5GEtX1Xu50nw5ZJYoT3T0AewiL3y_mcscjMERkUFoy5UYBEa2uxkQzE5bXQ",
+        "https://play-lh.googleusercontent.com/VdrrtK_NTiNfus6iAtnjcTN-NPa2a7rNgwlVi-nsNFqXYtIEq5vu8_2jEmvRnJIPincjw3pw96csDm60OdoBnYk",
+        "https://play-lh.googleusercontent.com/pEeJI9gkLEdIOdjmfEchDwmcrkcEk8f7OjrqVITYRw4d-Cduk6TaFYy3tNKoIaSEENIvQJ75iOy0B-rguaGZ",
+        "https://play-lh.googleusercontent.com/urM93RkQSV6P-gMHX8A4ET5bf2JvqMnxh7rrOi3tFFOH3P4dDZoKtdxMWWu9LIL3nbDe8OBdP6aWJrup2yVx",
+        "https://play-lh.googleusercontent.com/Tw5RkuJkqQUl8mKtFwVgUWbF03puyuZXptpije_W8TUuaYeOP48b69SyzqcThZ4ExQqgTrpNnH9M7O0Qsdg8tQ"
+      ],
+      "trailer": "",
       "description": "Fantasy open-world RPG from the Azur Lane developers. Explore with Kibo companions that fight, farm and serve as mounts. The English version is targeting an open beta in summer 2027.",
       "officialSite": "https://azurpromilia.com",
       "storeLinks": {
@@ -604,6 +689,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/GUV6wGAf1F-i438jyNNF1j_L6Aj8gEiZ_2es3H3CcEhtGFpBgjR2zvNTB-I00kLKFO9PIamSa2HYE9IE8QXwCA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/HJKzKLjFrCjm2mXaLQsccdu01YdPnriuLu2ZfKkl6Jo6L3VmtyAHOhdlCSUOwCW98DVgbY5E_807ZiqmW9V1Lg",
+        "https://play-lh.googleusercontent.com/9pUpYASehj0TGyKNrU9LGr6uBib9qPvh_80iTUd0A7IK4m8WSSVNcjbb9R8ejXeCn2n3dhKlk9nbgjQ1Jpiv040",
+        "https://play-lh.googleusercontent.com/BaUly0CzKYrncvbpqb6cjQaaUzx8H6w8YR9ELVdauqWMCCSlzNp_CSAu-IJjA6NJBvL5Cmg3BVzhnvC6rPJOLRE",
+        "https://play-lh.googleusercontent.com/_GiSYBaHGy-lH740xVGxNuG4aE1HI17TXrHHDtvidRh4yNSttdRuxiMGXUnbrH9rOdiaKXVoKnH3LDgUBpmJsw",
+        "https://play-lh.googleusercontent.com/mldYSoguZxeuJG8B1VadA74r8sLsJy2aO3eH6rZ_zcVLL1CyCPI2gbU6pSMvSFa5BqbS82iptUpOfZIRICfcmg",
+        "https://play-lh.googleusercontent.com/j38m7FrUhL3lRi-2z5IVvTeK3ccdtHdfhCZlO7l83zL_W7fQBTnGcT4-0_eojrklI-Mtb-BATVagSAqQgPzUSYk",
+        "https://play-lh.googleusercontent.com/ffetMXqqrtYNOrftV4EDWJavgrL9we9dXqVsuDIHHa39a0TenBLOhtZJiDUBSUfYcHbey6ZBbx5Dvtau--09AU8",
+        "https://play-lh.googleusercontent.com/8ncxF4d156kb6-nv74smeLNuOj1PtlbzqygcKFqKukrVALyVut1wGCXIK_TRZbF8S5mprCBIW9B8KG1rugXEKg"
+      ],
+      "trailer": "",
       "description": "Rhythm game featuring the BanG Dream! girl bands, with original songs and a large library of anime and J-pop covers.",
       "officialSite": "",
       "storeLinks": {
@@ -668,6 +764,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/GnRkc6gDw7cPYrK1AvQNy7S_R4B7Atq6ncuJGf14CGaG0K8j_ayp0jrkIzuIfMHjP2Mb6ku5yeph3hHA6MLt7b0=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/tGbWfMB2MgdyrHhmKJ7ARuB5ckuhGX4XJhPXxClYQZyqjLUVRfR78PPRbpm7J-4rmCu7ZmOMloh7sRP1BYp4zks",
+        "https://play-lh.googleusercontent.com/GQOHwrEP7RN9vQE9q2FC_kw5JRU57kvfYVSF99p0HUiBHvJ0ZAASROeDCBHqTJvE2UgBSPb_kfciq6pBjxVfaA0",
+        "https://play-lh.googleusercontent.com/TfgonxBmJyjZvwea4CdCr6Cyigtr0Yq1chxnKRSSnGf4E75HIDKvg7A_JTa0o6J-Hx2AlAkVB5r1cFR6z9HsyA",
+        "https://play-lh.googleusercontent.com/hXC3d-37R3ZSjGJlthKTnJ6a1p_nS4s2GfucgtJMy3_Pl16czuT68PohzEt3CIHmmoLouNVroBAkBnBfspNkjgI",
+        "https://play-lh.googleusercontent.com/mXKEht-25MHb33c59pBrWvk9wTXtez1ax-N1GxR2DJWv45-PCGMuCLoIfLhMpeHGGHWPKM-f_V3n-C3PYjWGsg",
+        "https://play-lh.googleusercontent.com/Mu_km_BH2cvPacXsPuyMK1UOs55dhsgRvBJva8RbNqlIWGx5s0TrdSrGHU8vDx0YYK4MrIYKiwMhqGwE7oBhCg",
+        "https://play-lh.googleusercontent.com/sla1O_MwOYTa5L7sMpjKx8jddCkhs-ZEkEMHtEURIqzHd6gq7dEIYZNC3_NiKWYgYs0BPHxEiWV3HTolxfa6",
+        "https://play-lh.googleusercontent.com/3g0BwwApTv-NFnaJG7HQzCN-O__yk9V5-bsCfU-mx3qtznQ8VU9cOkO-ZBb9CR3lHgdYgaB6hdTdTs0A3im2"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=URR7yQayl1Q",
       "description": "Squad-based RPG set in the academy city of Kivotos. As Sensei, guide students through semi-automatic battles and a light-hearted story.",
       "officialSite": "https://bluearchive.nexon.com",
       "storeLinks": {
@@ -732,6 +839,14 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/frPGVrz_hwSOyNm3y9RoVkfxD5I5ibKv0C5RD9Ub1188PJtv3BXa7KkfSyzr_-9SeNk50AVt3P2XvS_jtzTa=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/7lCh_1239q1DCsPUA0YKqusSvL325zcszv-J39phkExq7oJCYTGSXQyk5H3XEfCJbjyetBXzfhS_bxgQHEAkFw",
+        "https://play-lh.googleusercontent.com/icPQtq_YU75-LXWyLzrag3FEkU_cfUf5tDW0cTVaXrGp1ZP89GV3iFGiDCFkQHCkstOZrfwonZLy3Pa23YVLj44",
+        "https://play-lh.googleusercontent.com/KXEQHmssVkYEUaDDIm3JJ5JgXvZceMsNTtjEymtaEQYisJ5wydgwSr8UiJntokgPh-aMghOPxVdFZapWKuLRRg",
+        "https://play-lh.googleusercontent.com/60bxXyxq3JFvLfq4_UsQwbbi6M-6MZqQ2ahBuwzmYJz4VG8BEbs53MVk7r1dqCAJ0A-5wfCtUBtLkW6rhMiC8A",
+        "https://play-lh.googleusercontent.com/rV20oa51fsgt1D7iLqI0nByWq2eJbkKSkeoDLG4bKF38WW4xrP22x27Lbbu5Wp2o3lkseMjqcaHjMXQB5fin7w"
+      ],
+      "trailer": "",
       "description": "Tactical turn-based RPG presented as a shelf of game cartridges, each a separate story pack. Aimed at a mature audience.",
       "officialSite": "https://www.browndust2.com",
       "storeLinks": {
@@ -797,6 +912,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/zSANiqdzop4Rf5--2B_dc1LiAbpmK33fpzZCmiVBlD6OKanMuZky5K-uxpC9PmnqKluITyIPdtu-remzPqRn_Q=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/Gb5NpQIxKz1R9FPliSZlpA-f635RPFZCyy0GCFiMDB4ZqBYs44L-R1-upzcPtVmWx5lCsQ7Ckdk8udXaCdp6wxY",
+        "https://play-lh.googleusercontent.com/Dahufz0LS9cWNn5nYKHtT-Iujdh4zq7WX22Ek7nuxwRvdlmdW9YDVeIy7GqMtJq6hZnIBNgbw1LZ5-_73Qf8Lg",
+        "https://play-lh.googleusercontent.com/LujzEpVpkvJFlKpRlE16wkaL9gpm6d1US_IgaNLk7ne-6zlYwhW-LExa1VFDgRuWz9TGcW2AJQBs4b5ixqjQ",
+        "https://play-lh.googleusercontent.com/2VfV2U_RaQSSu78qjK0NUQyYmX9LoXB7yIj0uKKG7I2Rqq9bMuPBxfKs9YIbKmkZU3lhbXNOckP3M7q8h8uauw",
+        "https://play-lh.googleusercontent.com/rRi1D7AWyut1513pRs10VIc4vj48SvFJ42XeWUsQ8hHa9zRbslQ2Jymv79VC-JSJh2pCYGAR2lZIOul6uLFOeA",
+        "https://play-lh.googleusercontent.com/2DrYhSf4dgqtIIWu3jxJAhgR7HzvCPEMqpJ8dJbA1njYMxIAGOnpRY4eyDwbUXsfMzNwCNnHLvT6XDGnowvMAPo",
+        "https://play-lh.googleusercontent.com/p9dYB2V33dtXzDsq7airc-XbVaKZC6pzNVKACXXuURwyj5D0DVYu4IPDh4Utw_fg1oTWwCXr2VN7DtVm2nK8FQ",
+        "https://play-lh.googleusercontent.com/vsK0ZhZt5NVuuqggZN3yA9muuywLDKze64nTSmAD6D3erM3h8Kz2-4FxDa66nxsOsCRASiMnF-a0N5O7IoNDTg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=mgDsOsvl_WE",
       "description": "Roguelite deck-building RPG from the Epic Seven studio. Runs through the Chaos permanently shape each character's saved deck.",
       "officialSite": "https://chaoszeronightmare.onstove.com",
       "storeLinks": {
@@ -861,6 +987,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Motorbike-themed anime RPG where you ride with a cast of Kaleidoriders. A closed beta ran in September 2025; no release date has been announced.",
       "officialSite": "",
       "storeLinks": {},
@@ -922,6 +1050,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/LSGAB-LN-nXzuz0db-Kzh6dxm9K8k70g60iYpFltxzr0bzq1i7-QzgneUbFa9U5t6JsMduOsDH-eCSqqyDENL1U",
+        "https://play-lh.googleusercontent.com/FeDJ5h0qXSTUAbNgYX-DD7pzwKksL-uZxvT4CliRG7hnog_IGqd93At8-EEL8qQJ0MlSAx7dXT2HXxZfZYhShw",
+        "https://play-lh.googleusercontent.com/pEuOsgCyjN-MWdrY-gDCmddavE96w-itPRnjr-sjgGJpnGdH2JofpkvRe-YX_Zyeg0CFRu950_nyMyJmWZqTR74",
+        "https://play-lh.googleusercontent.com/rc7g8PfBqI0bZrNNJJr3fOGtKiZm4r-qQDdlbHOO-m6Y3RLWNix6NuxT-pqKJoDVhnHyBMADJsEBeUx3hG_hp7E",
+        "https://play-lh.googleusercontent.com/0GMWo22SaR5gY9eX9uqZ00RyJ-6jNTIyd1GnqC_IHOUJh2MfflFpksgDUm1oYC2FhmMuE86j8meZdV4_BHKx",
+        "https://play-lh.googleusercontent.com/Jc0zddyI7x3iZ_4UqiduFlKQWJZAyvy9VuSEtL-ocpGWF9Qnyh5YW-X0JCydGwBx_P9gGAiXPDm-p_N6HlEfz10",
+        "https://play-lh.googleusercontent.com/fi32VmzbnbA1wsufY20GMWjlZPGZK-MZAGlQD6jXR4k4XrrFTDKR80d3jzdlQqW5-SV-RZeqv2B5HrK3cDCd3e8",
+        "https://play-lh.googleusercontent.com/l7JPvHAV8aagE1r-7uIS8UnctQoxEHmDHwiKznUEvqBdDNW3ynyMrq6_H0a2jTU9sYZ2qFTpi1Tz5eJ5P88j8w"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=XCtJIeHcDi4",
       "description": "Build a cookie kingdom and send teams of five Cookies into side-scrolling auto battles.",
       "officialSite": "https://www.cookierun-kingdom.com",
       "storeLinks": {
@@ -986,6 +1125,8 @@
         "iOS"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Mobile shooter RPG set in an alternate Destiny timeline, with hero-style Lightbearers, strikes and co-op raids.",
       "officialSite": "https://www.playdestinyrising.com",
       "storeLinks": {},
@@ -1047,6 +1188,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/xRZqNoIPlos0LQa9Mxs5ettXQEeDYKFHCAWJdit-4N9d7DdXXtNCZ8Cn9Kww9nwrMAHUQocSQimn9BwVV5WiNX0=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4MgLahR0L0Vj7yt3P0Ay9V6H4fHdgz4ZelKqgJciUuPhyXu0b7eFEVHcZtHjYw9ciM-UP5-HltI6kcghbz28",
+        "https://play-lh.googleusercontent.com/k9p9NNLgBQRUeHnVjOUSJo5owRs3VTC65msdB6esNSJ7Oopup2b4kxTG7R5m6rnPjyDyS03t5pb-XKgTUCkPaeA",
+        "https://play-lh.googleusercontent.com/shsw25-kK5EjvmneclJTBf-D-woN4gQDzba8mGIY-Ifn75GNh9t6H8z42WA0Ky3OfathZRbfOUnlPxFkXccwnA",
+        "https://play-lh.googleusercontent.com/8yxkJNsKRqzb-ds5ycMoCE6x6neuEUqSW31t7l1B6MK01XK7gAdKkXSLdR68yOgB8IZYXlr4c3gIaG9DuOWlbIk",
+        "https://play-lh.googleusercontent.com/SJJLhtB0ijGHRI9_WXLFuih5Rxc8e6eTE7Oj8uzRmSAMzvnWwQxAgcdGi8RLGUVuH4UmlNpLn4Y_LFfAfhA1BBE",
+        "https://play-lh.googleusercontent.com/uNIp0LxvI_W5FeJGP38-QLByd5oOgQpn0mwNivZ619F4ojajSJy8-kCsHJyMha2YSmTU-inQqvtvSIDivq3A0A",
+        "https://play-lh.googleusercontent.com/ydVrbTIsk7sr3hHxsbe_sbYzNzIkclxciHEkASH8A1-msqTEuuB9wCYBp1SzHkK47cPpkTmNQGuLQ_Kl7XYlaI8",
+        "https://play-lh.googleusercontent.com/tGM7g2nfAcNOLaxZ13KJVQfn77_ruA5sH5Ssk7dKdf2t_nFkhLGHqfbvwwUNgffYfiePKUXzGJt2DkXsMXPG"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=8rLMP-TpjRM",
       "description": "Pop-art turn-based RPG where Espers wield the powers of mythological gods in a neon future.",
       "officialSite": "",
       "storeLinks": {
@@ -1110,6 +1262,8 @@
         "iOS"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Nintendo and Cygames' original action RPG about a prince who forges pacts with dragons. Service ended on November 30, 2022.",
       "officialSite": "",
       "storeLinks": {},
@@ -1172,6 +1326,16 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/oaP533ed-8_T9_iLujjEj82gOn-1oF6K8CwOvmEUMgcvaTpP19unOUD4Bsl_0g_PdmTY3vCTEMLjqsjFaUnf=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/tYOT4BBXdLB3BNrm2J5OPuvAfzI8mOOeZgjaWe0g28KvBGEZfy5zNFDaWs3dpzhtyl99UdohGZnJNp9O6mnvsg",
+        "https://play-lh.googleusercontent.com/bfLlgVepSPyOmeYzv3I2OiUUh39F8F1FrbpBWjHoOvn9LWkxxjtPNY_VeFpdySjvARkQO12o0rCYldsQYTvN",
+        "https://play-lh.googleusercontent.com/irI0arp-7j0J9KoPJ7Loj0e0U1uS5wSq8qHeb7NBrBaoREfiipmRkakRwkyTQ_38u_V2ByKu1HeTC8cjRAGv",
+        "https://play-lh.googleusercontent.com/gbtaT0Xa3ATTJXr6AVSPqZS7ccZvPKwmchXYmDEulzQaTgz39ANcgy09qOWqvKy1xyBVZZQBoH7-EMoj8PWc3g",
+        "https://play-lh.googleusercontent.com/pCKU5GWs4RX0McQasXHEWnecMyU-o9Rw_x-zuYcE1RHG1upMXC7zLkVg-J_0cSHKaLP9Inr60jaDx1F0f1zX",
+        "https://play-lh.googleusercontent.com/-_OXA0ZqN-HRrmgia_KUJPpzoGsXwhbXcYomRWptThMS9DJ_-8i6orlGnbAxogfJGs5IboAyM2x-meeSmEyg8A",
+        "https://play-lh.googleusercontent.com/yIPkHi7vC0QP3sRTMhWNAwoxeajWuJ9OrwULGkIketSPLf9fPCJO-4oAHkn8uRieWYfKa9Gnn0A466YC5MWldA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=hC_3QZTddtM",
       "description": "Card-driven 3D fighting game with real-time PvP and an original story supervised by Akira Toriyama.",
       "officialSite": "",
       "storeLinks": {
@@ -1234,6 +1398,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/Ocriolf6VBkbevJE5xWma3bD3suVqdWQGjlbrITwutUtTxzQlBtbWko5qOBWR-tK6qEwXm9YKoQuE3A6dRZE=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/dt77yvs0rpEBoF2aHAXbl3k3hst2Oz_8K4-K_O7KlZLeKD1R4SqcLrDzirL7976aO_6TdZivviYN4mb5OdicVA",
+        "https://play-lh.googleusercontent.com/-XorPfZ3Gjx9uzA06dGKKNYWs-K8uEpO8s-8H7UmsWvUEAKMSqZbRFhOsO-lO54eLAa_hgeE6iQnoOJhIOugnA",
+        "https://play-lh.googleusercontent.com/XSWC7jpEw4o33GiPjlLv_5oJbJQ41n674K5rp2spGsdjk8AGXOpxKQNewgQaP6oGfnLMBsd8m-cMRhdOK8dE0A",
+        "https://play-lh.googleusercontent.com/OU0ytWbGQ1TQsT0zBhHkyOY-_3l8k083PFoHe0adjIhKhTkWjhvZX0qyA9BIk8E8L0lpXzo9LNJTPrkOy7dx",
+        "https://play-lh.googleusercontent.com/-Z1vYoTefjHGGd36loHYKes0re6LfOrcaeuCzkBPxQyPRcuKMDjl-XzZk6c5fejs7IEiDFndQ8jIiUhH1S_BEg",
+        "https://play-lh.googleusercontent.com/33d_4dLqPlHwgzbloRPwPs1lMFSCsRSkMRbHfDScJg-ewQ70W_L0xEyUUabt94ogZ8JaWmMwWtYKoTZzW8II",
+        "https://play-lh.googleusercontent.com/Hyd5hCLwdDb8t298D4Ip9kzU9PCaV5K4qJvearN6EDVWM-RrMXqv4GIwKLphmDl88fi4JRwBhGoG9MBHUeCB1A",
+        "https://play-lh.googleusercontent.com/1YJ7iyN7YtVNr6wXZBWwGuXPlAH1n1OodjIt1FdA3dFeaErfRdGOtCzcIBDV8urGt9VApYBo40SZJ3SdApFJ5g"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=toJEhAPadlQ",
       "description": "Ki-orb puzzle RPG that has collected nearly every Dragon Ball character over a decade of service.",
       "officialSite": "",
       "storeLinks": {
@@ -1297,6 +1472,14 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/qdDvJfQ6E5-lKffUPoohxst-P9GJ8ghGQlhWATQXVt3IkVh6NAbS4YIM3D0OgPRK_m6gpqh9cCI0X9lfppFKgA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4kSRRm7DbuCK6CLs7fjaraNHMIw7CfkHSpW6siR8itmLNLuyFGVxyWu0jlVUOtKUPSAjKbIyAfjpljsGrmRElw",
+        "https://play-lh.googleusercontent.com/PQ2p8XEmaw7_VyNChbaV48DZYFpBXkMpcmFfiNm54sfBmVy1dsutr9hVC417Q5idt0iJfcpDfBZVDbCIc1xtXQ",
+        "https://play-lh.googleusercontent.com/RoOtPbpZ1WMTgA3TxUZsin-9A0b2Hr1muwhB4IqoQ5RP4Q5l1TERwyN4mHNjEt45Z7pMISccqAgiBWV17RwX",
+        "https://play-lh.googleusercontent.com/1gXGEnh5MMS3dAv99PFOMkkzuXjIq9TTRkxWB8J-3j0NDoiFsjdj9rmd_xEMN1bdhuXlTsZOAc5Yw6PyNFXDkA",
+        "https://play-lh.googleusercontent.com/dmYmjpBn6_sQpiKfCtc6RDRGOmdXVjav1novwPZS-RdCau1xBTMEJ-M0SGNmuztiNNXguB8zDmOOs2Rcjk3f1Q"
+      ],
+      "trailer": "",
       "description": "Rhythm game about the male idol units of Ensemble Square, with 3D live performances and a long-running story.",
       "officialSite": "",
       "storeLinks": {
@@ -1361,6 +1544,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/wL6DsSkRWI0TxT2ikzBXGvpp1w1L1IXqV5LlUUhhuVS3angPMPksWTzlDmwrcuX3Pd7Ei63kvv55Q5JyvM9_GME=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/lnWszFsiPtdMA296fSr_v_wcRXNZjRce_9VHsc2SwOdNA5wh1wyx4eZn52qYDMNHOD9e5uXKPgm_88VvadY8CQ",
+        "https://play-lh.googleusercontent.com/BM6fjcTFsJ7DUKKO7iG0WF8U7SzBz1DTg0_rXH8A64wttX0utaXUcTOmrpLB2E5U0j2JJoC9wkZguORSbSY2mA",
+        "https://play-lh.googleusercontent.com/muPACNtI19ixFk4iUsXJvaz9FQsKPouDPtqHVm9WtbOXWLMycIPA2LEYJb2FzOJYksKUkhVSc1zdC_ZOS3uNGg",
+        "https://play-lh.googleusercontent.com/HqtRcOI9HrVB8kKHRwwshLxvy6cgknG8feiLiSRRNgT3ywykuz1CKO0buNErpCJF_6djzTQk01FnqVBOKuyWww",
+        "https://play-lh.googleusercontent.com/0G9xbTX3ZdemCYSPs8U4XGziTtaYh31GTtblucuPF6Kjaj4W9oi9PAALLPIPSc_vCvJcpp6_NPrUoXAei52U",
+        "https://play-lh.googleusercontent.com/VsslLKRPgIIJchM8u7vjsY0IxqS0QoqdKljz4-W7UfakpukFN_JRieVhgO6UsBeI2h7UDfwbCfix8-OhaCx4mA",
+        "https://play-lh.googleusercontent.com/t6KbhJqiM_sT1TLda6z1h7PkkOQwH4yqcMU8Nj0uGMR5v1lhgY-2L0cPLmlmRGiNRVeP9w7dj1vwuAPKPCQleBs",
+        "https://play-lh.googleusercontent.com/_Huhx7VopZj0Z0omcrhdcidBPkhHhgckgQx__DK3GV5nxZWGqa7DLR3VRINHYz4fJVCIpX4zJrI3i_S-wjAo"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=YnNWCdAPsfc",
       "description": "2D turn-based RPG famous for its hand-drawn skill animations, gear grind and real-time arena PvP.",
       "officialSite": "https://epic7.onstove.com",
       "storeLinks": {
@@ -1425,6 +1619,17 @@
         "PC"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/library_600x900.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/006b2304ef9746403e85ac031242047a7e32b489/ss_006b2304ef9746403e85ac031242047a7e32b489.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/fc5a5b3dd064d5ac40548a6125e149325bb1c870/ss_fc5a5b3dd064d5ac40548a6125e149325bb1c870.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/59f259d940b6fa944ff77c8e7bf256976541240e/ss_59f259d940b6fa944ff77c8e7bf256976541240e.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/9696396d7f52db11b2c0a9e6bc52b20514b604df/ss_9696396d7f52db11b2c0a9e6bc52b20514b604df.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/34be12b602b7e1008669c048f5d2fb3325bc429b/ss_34be12b602b7e1008669c048f5d2fb3325bc429b.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/ss_08b4cf83cef10ec4f73d38de1d20ffe92395221c.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/ss_275017993c0a067ec3268da7de7799e4db5acad5.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084970/ss_3681d06379afbc431a9d55553e245f2db8f6822f.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "Turn-based hero collector in a virtual metropolis, built around gear builds and real-time arena PvP.",
       "officialSite": "https://etheria.xd.com",
       "storeLinks": {
@@ -1489,6 +1694,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Idle collection RPG where Souls are raised through auto battles and dating-sim style bonding. Global service ended on June 30, 2026.",
       "officialSite": "",
       "storeLinks": {},
@@ -1550,6 +1757,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/EzN3-WzS_i1mEjUaAht6flnqKF1tNDUqPjeAOgn_ZC1YqG65s9kP84lSV7HHoVIemgpJKRca63jdsnPorCD-pQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/9q4opk01zYfYhWZ0ZUqegTJyI8a-QMu-wu-1ZueC8ClgUgNnWkraiky4h6YY9mr6R8NdZgcNwuJwmVni1vjJ7w",
+        "https://play-lh.googleusercontent.com/VvGSS2TttuFsdsD3QFuLcrQuPksw-06WXT3ABZYXTdD22Q8YrpWsfveqDe6YqXaOM5eV0ynQQbFxhFWdWcPUdQ",
+        "https://play-lh.googleusercontent.com/dw_25S7irQBOQ5140rmRL294j1Ubi_uWn_PkWDPXBZIlKRxgPAyz2eTJLsnMXWX66XyhysxkrxTjpl_QRskNiMA",
+        "https://play-lh.googleusercontent.com/Q_mUbTGL4A_GRMmQXrC3IKGKsF7qB0GcmHeY9pMOUkkp5tWsdUv-JQWhHgbIJCOY326DD_448z6elm1dxUMF",
+        "https://play-lh.googleusercontent.com/N-cwViNrhiVTiYKjB_6OIzcMXgBQ8pVUuJ2rGYUXcZutKORZTW75apxmvkdkDkBBjB3oAWj6ff7QAN9Yzr6zUg",
+        "https://play-lh.googleusercontent.com/Ii-fLyj--J6TEP8TWFnQ0k1RCKvIlZCU9GM931aqCNanTr7v4fjhTA2G4NZY276lm7f_nx_ZydHuuUZbuCQX",
+        "https://play-lh.googleusercontent.com/SBmdrfuvtzqQt9fF60MA8KbeuMy7JdELh7QHUOEtfd8VtrLVxd-K7VqSY9iQYJIU56BifF8x0hudVKyWP955",
+        "https://play-lh.googleusercontent.com/--sieWlIag64qUbV7_IvgIgFuJS6vvNrYYSNpvW0EA8bdtyUClFURw8kI4397UqWAQAWZSusCsu7yrku9-B8z6Q"
+      ],
+      "trailer": "",
       "description": "Command-card RPG in the Fate universe. Summon Servants from across history and myth to repair the Singularities. Global here means the North American English version.",
       "officialSite": "https://fate-go.us",
       "storeLinks": {
@@ -1612,6 +1830,8 @@
         "iOS"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Pixel-art Final Fantasy RPG with chaining-based combat. Still running in Japan; the Global version ended service on October 30, 2024.",
       "officialSite": "",
       "storeLinks": {},
@@ -1673,6 +1893,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Chapter-based retelling of the whole Final Fantasy VII compilation with ATB combat. Service ended for both the Japanese and Global versions on October 6, 2026.",
       "officialSite": "",
       "storeLinks": {},
@@ -1734,6 +1956,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/v7A_qFRlgrZzsRju3LWdSB9FXgiHoNspNnRtZyG1wHcPdeZ9F-d9FUluxavECqs-RHU4clZDO0Ywj256KsI8KA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/EwQubDgD16OF-VvmGqq8gY_62M09t2Gm8YQmvTIG8vl5SA_X4il2aMZEigV7gpwz-e6duCTj_e-JQJ2FT04c",
+        "https://play-lh.googleusercontent.com/l9_x6L_GEjkYCSt-ckZVUEzIfF2A9XEo4QTJ-ptHqZZ-kOLxNpgI9SZI3wvlNk4NpO_Jx_i0-GHYKWReo2wnVw",
+        "https://play-lh.googleusercontent.com/N5RxTBR_gA2WeHH4zAP6zqZkmAahC0ViRPLKdrsk3o62E6Tq2kVvDHL4kh58xYsYbd8U-Kjvj9QenRVTxSoWew",
+        "https://play-lh.googleusercontent.com/Z5R9m6xdqZ0_JQx_e0Jz5xl0brwubIkTSUKLKEE9uxlpBgOZQbkv1piXtz-rt841kB5_UqBOqn0UIj5pI4aBJA",
+        "https://play-lh.googleusercontent.com/H520V-cIE20p9Jt0OX-fIfMBzBqRzwSztNyqmm12STc9imv5gMKyqs6kQQV6fY_OaMFsYMkiGpwtFzaPxm1XcW8",
+        "https://play-lh.googleusercontent.com/JxxmX6Fa-ZEst4GK21I5bqvSniDqdC1YCnSCA3NYuAGLLr4td-9oETjbKaCZtn3O1VjGqVgqLJtG3VxkFytT-uw",
+        "https://play-lh.googleusercontent.com/yv6Yikp2DD24_7SdnKKTHwVAzRFn-ECb0IhVf09VZ2TSXbstXMhXt6xA8MP0QUeIGqQ4sZQxFDy9H1ZrPy39Aw",
+        "https://play-lh.googleusercontent.com/-mBD0h2Mws1VqZ8XbeXjYpqG8SzzmUMCTCHGFclE1VNR3NbqOa2vNWX_ZPMcdSo3q2gls1p1zEvhjWOcd4pu"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=c5JsP8P8eOQ",
       "description": "Bite-sized grid tactics on 8x6 maps with heroes summoned from across the Fire Emblem series.",
       "officialSite": "https://fire-emblem-heroes.com",
       "storeLinks": {
@@ -1798,6 +2031,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/ch_SGwCMoLElrzColmSthRPYxzv608YoyBx4tXY3ciM8Bg4fLxKhRHdeoqPSbygFruy62D9p5EdGAwLW8KGTfwI=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/3FLUfwexTEGbemTOQ-8jtljtfKqQ4dznmbRFM_79iKJ6MJjp4iiG71cX94YeCJFpHpfOfJc6L6UE1xthdBN9Ug",
+        "https://play-lh.googleusercontent.com/Z9PnyOYghuQWv826WEtSznRlPPrXKOe10ZAz_CqCqhRvawuMuxI12R_GxrLbfFu3fC-VKQDqfqyHyK5ESoF9",
+        "https://play-lh.googleusercontent.com/dlhnTMAyNI85BhmGiwXNkId-LgS5YRC-MTgNTgvvx6nNfZUyPlASGoOfyDhTitgegR_nHDFdCQel4eTCJjfAWw",
+        "https://play-lh.googleusercontent.com/3BM0tvOEZvUUvpBOO0-GszWvAcwCt4TXS6KufgWqz5za0k3Gxx_sHJe6kKe_rJZlNjCMf-rYJUE8lFvlKk4C",
+        "https://play-lh.googleusercontent.com/Q71DKXw5bih0kVQzjhs0eJF3ykhJ4WE3KS2tG7qcitLDkKQ0H-Vuz9G8h5G18XGuiI_dj6F_0hQlcmHVxTvMzA",
+        "https://play-lh.googleusercontent.com/CFOcJzsN1Nqc8PcKAMW9QMluPQIG10UgV220basr90pN7ReiwaYEY1WC55kQaazxgm95QUoxmTJ-ww4bJtiwtCk",
+        "https://play-lh.googleusercontent.com/PkBuTFOcz3-ddP1vfpoQnsgNGfE-CtbO-XCNXobVgJ_TbTVppuyaxLfNUAAR-DoBQ7C7o2e7O4OfIp30hJQLyg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=lHR2v6clDK4",
       "description": "Idol-raising sim set at Hatsuboshi Academy. Produce runs play out as short deck-building lessons and exams. Official service is Japanese-language.",
       "officialSite": "https://gakuen.idolmaster-official.jp",
       "storeLinks": {
@@ -1864,6 +2107,17 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/y_U5huZzWUaCOsO4trKhh8Ll3hm51c4ezs3yDGUBrFQk9HdNh-whLxPlm1xBsFeYcCX38og0nPddaLH0W7hF0Q",
+        "https://play-lh.googleusercontent.com/qDY_UBz28ambdbrTf4s5v9npYiDiLOcDe4d_h6QvKIhoR6Rc2z1cHR5ULHuy6uILaDSWbb41QkN7xTx5WsjU",
+        "https://play-lh.googleusercontent.com/gCdybpOO685G12dF7nY750etXWg_SapE9v9poFkr3OMhrDu-m-M28b02KOs2yRkwCHF-lmf9-LtIhA6-LpH41Q",
+        "https://play-lh.googleusercontent.com/7ow04iWxIIY407icoKFtoUhCIahOoE24_4ptFxc7q-BYYS-Kycjv4GON2W5VSiB-HJsf5lfFUrt1aeKRgp1xqg",
+        "https://play-lh.googleusercontent.com/ML0vl8vu6wu2zb7doUdS-VMLHNrBj0iGvoFXWJGT2lZObAZZep7o_Jb7jOAwINWFKv5hELqgXswQR0yt1BDixg",
+        "https://play-lh.googleusercontent.com/3QKV5fe5dWgLKsk3YtVMGw8Q2cja7SYGpfcXPdlkzRoIT5T1iMM58UdnjCYO-WwiGB9nfjY_G8OT4KoNebI6",
+        "https://play-lh.googleusercontent.com/rXGqvOg8WE-CJNw6FERY_pQK_tqxLlP2my1Qd1M2bEzHQFsGHk7tYPC6r6qsvnxEfOnps5KGCsm8aJruzKoT8Q",
+        "https://play-lh.googleusercontent.com/mDF-3iDz0QW3xGEpbNa8Y-R6qt7lBQLd3bSppofbyWftrqESxywWIwJJUC0Nzwxpza4pE3mt9VHH2G8Ujw8g"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=H3Q2BN86So8",
       "description": "Open-world action RPG set in Teyvat. Build a party of four elemental characters, explore seven nations and pull for characters and weapons on limited banners.",
       "officialSite": "https://genshin.hoyoverse.com",
       "storeLinks": {
@@ -1927,6 +2181,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/FqDbfUdNcHwPniuk4NYy7CdP2j-hJaUoCSFc-vnJIS-HE2VFU4QehpW_C4DUtMxH4u0aKl6NRf5MET820erZxQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/YuHRh1AzGjuUUbNm0KdDYOJ-nlgFnzn45zFrdudJEw8RlpJ2TGz6SYoxVDE8288KcS7DmF5jxohvIERFJFF47xI",
+        "https://play-lh.googleusercontent.com/MHI9zjsQw7TjMbfrgfNBi_Pmvc-AMZO-GjhqJHa3Py2-5TPdCcDkRRUlbpK2nPQphRUgNeWZy5OHLe7BS7Fw1g",
+        "https://play-lh.googleusercontent.com/h5A-bjkbMnZqxwx6Ziws4SOUKuintnnHb9an52aIWTV_vADkVblI-6-xhcMIMat8g5KAC2Z_G2Nu3nTl7CDnLRI",
+        "https://play-lh.googleusercontent.com/1lfM3s_Vq0V0ecSJyC2tn5cm3B_m1OWOHP2XE_Je_fKFuwC5c96A2HS5xqPGGUN2aSZ8GlzmQd9r-Ud80iFe6w",
+        "https://play-lh.googleusercontent.com/FSaHwUWz5laqPr044swwQg-Mo_uYBJ660ZogIr2bnLEceIKHZ8pkMH2khKuk1Pm7mwcZNwToH_lZ2ta_TEncFw",
+        "https://play-lh.googleusercontent.com/ho3ZQTXaEGT_0yQTFIAMjOA6F9ORZeBaDPWnoH4-TDbYEX_buExk1AyYdXE1BlnpMgNXJS46hQHEmcNHzTV2",
+        "https://play-lh.googleusercontent.com/rMkhltJXqPD5RMooHu7sxKfDI5tJcDAP9V3lEB0HOAQ-4KiOX7gbFdLJSTDWKYltxePaw8cLyi4K4mYa8bEBUyc",
+        "https://play-lh.googleusercontent.com/y8phqACwfNpq6iXl188TEUlJXZgqfwYhZq_kiT3H-ye-0HLha6eWpQSMG1XN-lvj4-joVi1TuxNM6mRI0MzNyGE"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=z4SIKV2G0sc",
       "description": "Tactical RPG where firearms are personified as T-Dolls. Move echelons across node maps in a bleak near-future war story.",
       "officialSite": "https://gf.sunborngame.com",
       "storeLinks": {
@@ -1991,6 +2256,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/EtVlraYOqzmz_cbyKf_9NYMb0CrHNZOVQz3bRQ2EiYJomGRQLf5tZwYRpQpZBcc1YFXaJo03ig6TfkOYTgZi=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/SWX0wJlqmEY6S4FwOmZ3D6ItCEDI2F2fF4AX_4xlPzWtj0ogqrLG2xfLL_Hd3KZAMwJ8TZH_suiKL3Bs4pi7Mg",
+        "https://play-lh.googleusercontent.com/QQgzArflS85YJuNjcl_gUzSMKNkwMBg-GaCaUAy1wHIQAr0fjC_CqPr5xKS2Xv8nx10iGD9cYEipXXmEvi3lbQ",
+        "https://play-lh.googleusercontent.com/GVomiFMbreBRotAkwSJVc0bz7vNmscfzIURmRX2-Vr-cKWkNvtQnlshnBSIkBhlphEpO-lXwWLPZAj413jSh",
+        "https://play-lh.googleusercontent.com/aqDl2WYhvgZEDbNY8CY2shPYibH1sH6uZyS1rB2hTpy0GC1VmLGgfomUitiFjwdRlBGkBV5pYXnlujh75mAMoQ",
+        "https://play-lh.googleusercontent.com/mRxFWU1rIQi14jhBsZYO20AoCDLTcQNVyeHCcxSMQAlaZgL4pcGUc8X5KJdsbc-n-cO6miD-f6ojXuXlmbSjxg",
+        "https://play-lh.googleusercontent.com/bU3hn2w1jX9qZJxx1g2vvE6aq3vI9g_XyLUHnLOXAd0iqe5ZeSs0tnQBbGUnLRpIS-ZDurykr87ud0hlF8XV",
+        "https://play-lh.googleusercontent.com/JYliz1o0UeDPFWu9OS3m5Qt6kY_lxKsjQHg7XNtp4ZPLUKRzAXNxQ7gamWEPUO1vGdZHy0LgvnnoE1dRKudEbg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=nmSn-xxzj4Q",
       "description": "3D turn-based tactics sequel set ten years after Girls' Frontline. Cover-based squad combat with returning T-Dolls.",
       "officialSite": "https://gf2exilium.sunborngame.com",
       "storeLinks": {
@@ -2055,6 +2330,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/hXb0wwJYOJ7GwnzP29SbOIlDGSXWn7yOwgXnn4OBt1nfNgMpvcmSfwnNpeJ8B4n3AP73kyxeXnHTdhddfR6huw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/XjeRdlPwTD-DERUYpCO_Az6w4HV6kefVZtUi4GoSrb45NrkqyTbF0rP87JbnVdDMSPv0FbmVQ9wsyFcibOSr2A",
+        "https://play-lh.googleusercontent.com/4VqMuDQFsj4y4d75M9CpoulA9s8wPrsGO3AY9M8nS0UxoS41dqaD7f8kETC8HIFZxGTBXr1TYNd79ETQo3o5",
+        "https://play-lh.googleusercontent.com/wRZPOTfTxspEQa1iTgDIoBGgVZUIfwlRr2V4Leg_AKA7PCFuXMuQ7H_SJjBATznVmPtoZ4yNcejnL7gsBqXI",
+        "https://play-lh.googleusercontent.com/kimDrWwKTrhKiYINza-d_0-oTDPdJz29DUHnWVLqMyB14X9UrNkiBFJwuOpnBY7xybZ0ofm1lI-judTAjsQZ",
+        "https://play-lh.googleusercontent.com/JwKnuJ4taC3LqL4J-kFvKx6gio2looLtMX1LrhvWVrRfL1BqSRd21uZzhjhEdPCWGdEtT3C6su4bnRDHHbM0ew",
+        "https://play-lh.googleusercontent.com/u3SR4gnoTGJIVl1QMR1lZvwq9G6gdZ3-VOFKod5i_SJvnaYy5IKf7EhkBcLM1icYlu_X6F2MI-ZTkAUm7Nq7IQ",
+        "https://play-lh.googleusercontent.com/gFb1LwvWt--7JU_Uc6eG-GrEo43sVKpZxFWuVauBOKY1HW3LYyoxrKKWt5CSbNvNlmWuAMcxUnnCkbPGH5Oqo7Q",
+        "https://play-lh.googleusercontent.com/dn2viHSxalYUT9liCwBuMTR8TMnHO3JiWIug29NSHDLmkHyPiwLJr_q0v8ZfxB8RPe0gBF5rBcFJO-TxpqY2Ag"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=7mgSwVAVi_E",
       "description": "Cover-based shooter RPG played in portrait. Lead a squad of android Nikkes to reclaim the surface from the Rapture.",
       "officialSite": "https://nikke-en.com",
       "storeLinks": {
@@ -2119,6 +2405,8 @@
         "Browser"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Long-running sky-faring fantasy RPG. Released in Japan only, but playable worldwide with a built-in English language option.",
       "officialSite": "https://granbluefantasy.jp",
       "storeLinks": {},
@@ -2182,6 +2470,17 @@
         "Switch"
       ],
       "cover": "https://play-lh.googleusercontent.com/VEVBy3xVgbR4O4gynceKSXuZKlqv32hKzYZtI08DKzKw0RzZcRZQnULpxnZzXP6ERd-dH_ZHUive4MmEkjl0Fg=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/SjGr2WMUjPqFN2BDK9sJipYG0ku7dDi_HTNMizzIcqMP8HRh0s8wx34Id0m37MDf0BZvdP3WVY0dYDY6Yosixg",
+        "https://play-lh.googleusercontent.com/SWYgA_LSisXAdoZBVye6oJXN_9WP66SyDReZaB6nc2O5WMs7CZo_DN9aRK4FJTclAUbCi4rlZBWM2aJnHYyzGO0",
+        "https://play-lh.googleusercontent.com/tc51YBNS7BxWZ4VjdYAMKU7hVCMbOFi32xR_UwYAJ1mwzePViaPYYMXLr2jYFTMAuYG1etn4HKYIPPk2oJP9",
+        "https://play-lh.googleusercontent.com/fyq37K139ty0_vVemLBcHhaQz6xODuMGcaHq3LsrzLgiEA6go0rAo_MvgWCWtleZDBKMcvK351dhl2jSbepi",
+        "https://play-lh.googleusercontent.com/Q5w_FF0algnpmlNeTsIHuPkmDHBrHV-noNcninoKa4yb5PulI23DfUcqeQ0YwXBxdN0cRQTyKJ_wlPXqKtF4CQ",
+        "https://play-lh.googleusercontent.com/2wE7tjf8sEIKBw0H6L4NunaN5YoYNR30cDZk4VHNpjjce9KNR3mVcCLeRqE0cKwNOHabZtN_TZkUU5tuK2UsBg",
+        "https://play-lh.googleusercontent.com/pC7BiXHWZYNSlkTqMmVQqN9aV7Ujy9LInfjSoFZ3YuUSJBLBPk-aaXCwXr5SP-HvLcfy26DmF4U31GyHhnAkbA",
+        "https://play-lh.googleusercontent.com/BHjKZg1kRkI1gvTKRTcXwLyeAqWttALNhL1bnJJBvAHi1yt-ncTYT13lzWzG18YloK9aCY9AzW1nSRITn9CgNg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=E9zekXpn9C4",
       "description": "Pixel-art action adventure with Zelda-style puzzle dungeons, lots of pop-culture jokes and hero and weapon gacha.",
       "officialSite": "https://guardiantales.com",
       "storeLinks": {
@@ -2246,6 +2545,15 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/HPqajcNJwKlVMxZgig0J_US0aBJcJB1C6mFy8pENBSHGLHhsWCbbRdFJDLmim098Q7mdoPe1cXgX4Q6rs6ITaHc=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/H8zrdAey84cwAiuwAiXH1m2ukU7VZqbU9QXcoaz52gc9Ckv_wnaioLf6HfY_XX52iMlqdMQgHyeHMjnKBsCQZLU",
+        "https://play-lh.googleusercontent.com/a8cE1dvTAKk8efQqq6V5L4ulZ5ZY-3KGPhutdyRiEcs1Up7gfYsCFw7bmPYFxWIFG06cqUg9YnNwCW5RJbxntVM",
+        "https://play-lh.googleusercontent.com/nD_yIfvdEEGEdWH6Tw41eZZqh2TLVt2xhf6tEdXGy2G96K4b2IBgFcAovWrdnJSrEIqf04lNZPFpqNWkqt6TEQ",
+        "https://play-lh.googleusercontent.com/s9noEYKimRRdxIVWYfc9JYUqMR-boqsvxTITtIeUwg890Bs0hHkEqZCh_AUH-TEbddudzdtr1B1jsvY4dIJ2",
+        "https://play-lh.googleusercontent.com/czRynrF0HBMsfGs55ivLTcjL7tYyWYOlPyik20nETEqj3PNggHaRnHndhJhOMXetV8hozCwfPnBxYmJ98fAe1w",
+        "https://play-lh.googleusercontent.com/sMcjJ_6xyCnkZxgLsT2WgcrmrwTENI7UobRcfD7_HVoOTvbvgVi-5SsMWBgkYu7N6BCjzrc6chgySI4H8rrJ0KM"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=qA1mOkiaukg",
       "description": "Story-driven turn-based RPG written by Key's Jun Maeda. Follow the girls of the 31st Seraph Squadron in humanity's last stand.",
       "officialSite": "https://heavenburnsred.yo-star.com",
       "storeLinks": {
@@ -2310,6 +2618,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/hTMlfgsf_lKP7URBWrrdpoqL_AhXwuvIbeU-5Gn2R-8RE58z4Y28mfduo6MkfEBpP7Mtef7bnrXo5R9g1puG=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/We2wo7bxi3yxVOJGfCND7sRbbHw_62HFgyR9RnX-3eZir5IYl4jsZ2A8WXjYp4ljBS-YUK3Dqi7g8I_l4OV4kw",
+        "https://play-lh.googleusercontent.com/ICOa7n0g_hkpEUQ6pVGjvBpzs13GifFWGSXaD7_PYbEJUra8NfXYNUWAizaf2DCd3SxWDBsdhBHZHUr3ahEEk80",
+        "https://play-lh.googleusercontent.com/v-K2oOmGVhPjKK3QEvdzqxJLWhBcL7EmzM7WEq8FxsFB8mXOajqwy27tdhmq48nCWwcszxrXEHTmEn0BtScAAQ",
+        "https://play-lh.googleusercontent.com/_Cpf2ee7d5hlNMA3RCZvye1xUVgByWpTfCmn_f0-D1mfM4N90PrBSXNrrfbNBxtx6iiigu1SYkB__m1UAhPf",
+        "https://play-lh.googleusercontent.com/MXBuQ7IiS4fPEspYe9oBlJ7WNicH7zw0D54lYSwiseUF8qTN-2neaAWF7jUU0oz7u8e6IngY85S0yxzoQCkv",
+        "https://play-lh.googleusercontent.com/CYWtNhEUcM7jGDxwBvwHm3e10w_cxO8bPBu_xhv63rHBwE7y-KOH8MlSesf9JkvD9ndxbbs_eYBNwGifsn4ACFA",
+        "https://play-lh.googleusercontent.com/JcQ7chhP4r52-ZaYZkwfaZ3eTH3FMCBsNowCdSndOQWNT7UcNoUtLb_UvLvFmz_B8N6caVOR57Xb6uAhYqOkWg",
+        "https://play-lh.googleusercontent.com/WPTcQ-yFL3o_HKAtt6kmtopJLSaI7zWo9-SBlbcvlO7U4wpdW5gZrBn1EM3cnTjgHwmCcT2rb5EHpPrSeuxMpg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=RHD3c1fA18Q",
       "description": "3D hack-and-slash action game following the Valkyries' fight against the Honkai. The predecessor to Genshin Impact and Star Rail.",
       "officialSite": "https://honkaiimpact3.hoyoverse.com",
       "storeLinks": {
@@ -2375,6 +2694,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Creature-collecting strategy adventure in the Honkai series. Bond with Anima and battle with them on an auto-chess style board. Final closed beta starts November 25, 2026; launch is slated for spring 2027.",
       "officialSite": "",
       "storeLinks": {},
@@ -2438,6 +2759,17 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QLPp_83X6NSUYu7fUYwMkLW2Ep1YyY77h0wGMyo4mhm8WPrRcLMXO7pSQCD-gsqjQX00LIVvDTU-4MPy1GLZ",
+        "https://play-lh.googleusercontent.com/3ykBkSEzZaSRLN9asArVEwa9VOQ_NsqnWZC7DU_S3OAHPhsPlzOzJearR3AKteLPEw8xj-EyxIJC1SwiXZ0dow",
+        "https://play-lh.googleusercontent.com/mAieqkZZL-6nPOFc_9KOHt-mGRw46yv0QUe4CcsY4p1zCquzosjrivKR_AmzFs-dJDpzS3XQ3DWf6pwfBRxf-g",
+        "https://play-lh.googleusercontent.com/AReWCyF8qtEDJzEgMSEPQ_Bqz7_4pbxgPPNrA4VRjo98DNkq9VPbntbiIa5BXvvJbQL4Ic8tW8TEOO8jcgRRCYA",
+        "https://play-lh.googleusercontent.com/21NTJDIWnKJwRzYaNjcEzZ8AK5Zt3l6Pb_871tHUr_nGD_Gg3JkYqNFGBCtPygN7z9MTs4Fq1QHJ1ZKsmKQNDA",
+        "https://play-lh.googleusercontent.com/051CQwb9h4yW9Vxtk9nAIZlAMO_Trf1w8J85sZoahHXQYi14AF_6uSqbQcX-OL471QK9HJmVobgc1lyMfhbWhg",
+        "https://play-lh.googleusercontent.com/aWTAttfvfkMimce93MTAY57RMC4JNMkad1lKYW-d-6tcFcmVSg44qrBUOuaPIIxblIMXmMJLrPgbnSZULn6zXQ",
+        "https://play-lh.googleusercontent.com/p6wW8vFsmPaitfzS_AXf-dJK4PLF2nsIm9vsU5NLp5ElPAIm4N6Yx5fhj0FKbj5cVLf0HnPsAK3TofF87VijHA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=uePWMyUWJxk",
       "description": "Turn-based space-fantasy RPG. Ride the Astral Express from world to world and build teams around Paths and elements.",
       "officialSite": "https://hsr.hoyoverse.com",
       "storeLinks": {
@@ -2505,6 +2837,17 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/IiJq-jpMJdD9P-oKatVL25vaaoyYSdUU-bYfomTQJ9qcdlpRMX7Eo_UkkGtvTkP13f473jYfV4q52H4n3b20SQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/54g5uHuNEwADdMhbfGlc82JxZ3Vzepj3NaW87xH70sDWkTdKcwZ8xeuX83VtqHWihNAXj9cPhqnymxpKLmRm",
+        "https://play-lh.googleusercontent.com/qLwtJW7ycM-aCVd1tCJ05in7C0ev2fL3zIN2NY3NQKlalhxR0AuQAukfGKwUlaw5run0okr_fKvOav0m16kyFAE",
+        "https://play-lh.googleusercontent.com/czN9fdRpOJ-zxdbZDmdqz_8iDTmxgzEOFY3Wi0tNda2nu8wL7m7zI_FX2JnQdTVlEvDYweTTi6FGgfZ7A0si",
+        "https://play-lh.googleusercontent.com/Tdz4-KJyqtaVlQY2r1fX-g3bEYLn9-L5Zy2b1Vv63_i9VCWgOGFwG6Qqh0XdcSTmu-yrz4oML78fjTWNxyJ4",
+        "https://play-lh.googleusercontent.com/g1KmV8Uqo2B3ZnuGqCYrkTk8AFM_FkGZzp9ayLiso9E9oXQNpNODSp2R6BRP-gnfwx3UqzKmQBzLTWBlG8vudm0",
+        "https://play-lh.googleusercontent.com/wCzyCX_Zvfpvu72HGHp7fnOHCyRR2ZNImrLwbfktAdoh-sFuHOw2I41vHw0lugGta0UrbKQvZsGGLWttj6H6SA",
+        "https://play-lh.googleusercontent.com/arVipRZ0u9NVfJLsfNCu13Gyy880hhQCghV6yVi0MYzfCi9U6524xd-OE5JbHW2x2deWN0TBPJz9dUBaeexF",
+        "https://play-lh.googleusercontent.com/hA4LNw7RFkvDMcTCfSXXNeViNlQRxTZDvi3f4FSgUW49FhxTR6upcPGkEzEQ6QzB88H15nMCwjSGnSAZQoKlVQ"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=I2KUpgUPgS0",
       "description": "Cozy open-world dress-up adventure. Outfits grant abilities for platforming and exploration across Miraland.",
       "officialSite": "https://infinitynikki.infoldgames.com",
       "storeLinks": {
@@ -2568,6 +2911,8 @@
         "Browser"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Adult turn-based fantasy RPG in the style of Granblue Fantasy. Distributed outside the mainstream app stores.",
       "officialSite": "",
       "storeLinks": {},
@@ -2630,6 +2975,15 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/7US0iX0uT7h-z4tmls1CBDRhkHAnU22dXpp_k4u828bQW-pIG5vTArhVkKgTcpVKWPnPqIsqZoQbCMdOvlh6Das",
+        "https://play-lh.googleusercontent.com/ZrF4S_DaQPKV9aWW421a2BL1wQY_yBEw3ROq1ydQBhLCOB2uKADi2w-AU3e8SP69WW2v2jdSYEwCPhFY2KP-kg",
+        "https://play-lh.googleusercontent.com/bGqlAZrffQpcBPX3pjwbkNJKhaL9IPFKnZGpIZG-QE8s9B98fzjb-iq-CjJl6bw4N6oGiapXMdarslcesJQE",
+        "https://play-lh.googleusercontent.com/huLpHKcLv2wE1ppQZSP9WXB-vQFBRsM0aV5olTbSDXGicq0eNudWCZ5oORD8auiVVmg_GYT0lBPPPD5EcmHNVQ",
+        "https://play-lh.googleusercontent.com/gm0IWG3NeGeNkMZmkqiew94Od8yLMbmhOQE6Pt2eCEDiMfgU8FvWH4v2wgc1IH0KQoOJ83fYHJ8pn1Cju9Dk_T4",
+        "https://play-lh.googleusercontent.com/b2esBXy177JUTcrT50cojKTJEHJZv_EeBtfv-16YAxSYmDUUBoevyEu1I7GYPpx-1Mb2IjtfacUiM9tXQujj"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=h5eR27Gle1U",
       "description": "Dark turn-based RPG from the makers of Lobotomy Corporation and Library of Ruina. Lead twelve Sinners through the City's ruined facilities.",
       "officialSite": "https://limbuscompany.com",
       "storeLinks": {
@@ -2695,6 +3049,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/4InqsO3goITLvfm9t2f2SMpSyrzfV7sUgxTmWWQkypBPResa-wBK5x1I-U3cHTgP90hqlOectpgfXqiA_8h_PXY=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/shIdWWjlrMmq0xAEefqI9zuMVlrnUyr1IV1T5PAfrGiwA6YNK4IF4ea5w619lbgjrW9n-ryPIm5E0iecNwPL",
+        "https://play-lh.googleusercontent.com/eiTH_-p7D92ELWyrVy10R6jXCZhlGBBC5NY66rPt9jU-LdJPa_t7Qiy26OElWrSg0e3Z7Q_6olrqEbx7PWP70A4",
+        "https://play-lh.googleusercontent.com/hZghfJryIPwk6bCmfnBVuyEA2DVSFCyD8wAUyRNFzw_RAWUphNk6T57gZ8PrMa1vbuBSdXX4KV51UW-x7fTY0A",
+        "https://play-lh.googleusercontent.com/52fWVXoI2nd0K1-qlxU41SUd_xfROZxENalm92uhnHV29rgbnVRglMO3eS-xw1lNvzZlvEm-vFtFL9GvwdJXzg",
+        "https://play-lh.googleusercontent.com/Qg1cRPrncOJs-jkyGv62OBE5V1ofFi6XhQBEEQ0JMUO2DoLqrRVbch-keqAX6rmq_Fgt_FRrwaTWXIkgb6fd6w",
+        "https://play-lh.googleusercontent.com/Yfr0Y80cfcErbu1KE3llYM9i6fEj1hiQRE31Dt9GIm215vFhHzXgvbP4GVD1icWo7IOv3Url1j7qVVDu9kDX0w",
+        "https://play-lh.googleusercontent.com/Q2Hs0yjTZCreTWvIAf8zRH2DSW8Zs15VUwu2f9ywX3zgTxVd96nU9s9l2t-bMKgZkbbQjzbeqW_VAW3TVv6W",
+        "https://play-lh.googleusercontent.com/F-JlE9QuRpOWSzZVfjOZMqckfgGg2kvn0UMDNuq6ONbxtS-UL140-kSqHJ0Ka2vLoG8UB-1FHiE"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=OLs_d0H8YZ8",
       "description": "3D otome romance game with real-time combat. Fight Wanderers alongside the love interests as a Deepspace Hunter.",
       "officialSite": "https://loveanddeepspace.infoldgames.com",
       "storeLinks": {
@@ -2758,6 +3123,14 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/AI9bcRd6c_QXUriLEr-z03oqA72psQqGkUbYj7xVae8fh3V7u9dxd5u7oQFoSMwlZWQar3p0T3qmpoQIbHhhbQ8=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/xOeOCBJl0SJiywC1skUzAJ41qcwGC2VCKtuvrdjHkiCKAsUlLQPP76G3qIidvQNEbnszTs3Jf-jERcj7cz0W",
+        "https://play-lh.googleusercontent.com/q_xSUF8ow6LuAOCwpkIF50G0F1KSBFecX2hON36T8MWTDqDE5pv2auqff11PQyIl-huKfJEo6z5s9lfhTx_20Q",
+        "https://play-lh.googleusercontent.com/HFRdQENIrOvWoa0BBZUp1GtukDlg2wR00m3LliNuHf7IoFQWlqN5cY3wMVC97YUhkmejvmyvkLb0zSuFDGVg",
+        "https://play-lh.googleusercontent.com/ZomZrF-v5qDNqtMsN6_32pMzhFnJiwe7Xq1SXPiqVf0wXBF_zim-5UusDH4pvw-4beOQO8mQ0AeCJ_5m2JWVaA",
+        "https://play-lh.googleusercontent.com/wv4QWpPyzHYDYh825O38gSs-HYDDuha9X1Ss8ng2dRG95dd1UWtniNxBDbnJYoEmkU8EbewbjZ9u1ZlyUN5y"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=BhXwXLTc6cI",
       "description": "Squad-based RPG with Marvel heroes and villains, alliance raids and wars.",
       "officialSite": "https://www.marvelstrikeforce.com",
       "storeLinks": {
@@ -2822,6 +3195,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/wLsarVh8SzjFRyaJQLO-LspghFofkwqNFjXsFSy-tLay4HB-IOtVeAhqQbBSj5JeWjot581oFkdawPRtbDnp=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sp1pIBIdS0T9hnsvcrjPpJ66J3uo33jnO-KAMMipAEZXAhAxq93cYKzRN7idnldcm7ffpb3z6t-1zCgWarApGg",
+        "https://play-lh.googleusercontent.com/I2HWMr6o-Yw9Q99XNf9LpYMLO_wZOMNnlGUQxJ2S6T7yVDWKklsFVi-3tIFw6J3bjWbNiqW4ok7hwBW9uHyw",
+        "https://play-lh.googleusercontent.com/t1F9f_b_hdJNxGUaEC7QZbS2QU5twAm1edN_O0AtRIBJ3NtNgh3fv7w5680YWqibhSO1igt94TIvxZDIU7hmw64",
+        "https://play-lh.googleusercontent.com/kjWZqDJykmeQpOsSQA4PKOUX0zbUmJXQt3MkPXwBNeIrqC3T2wlviWHytuGVg0cUmxiF7TU4-sEsVjKBoTdrkw",
+        "https://play-lh.googleusercontent.com/KaZigBLc5hMRaCEWyUdtDXEg6h5z6TIaWvERT5BV_KtcQWPKQ33A__LJKJJ1_oie2GhTpTf5iWfsHhR_6iFKfg",
+        "https://play-lh.googleusercontent.com/MbpSvMJFbuRGv42b7kG2LrsTPWBvlv5-w2ch990ywnWsd-Xc0Es059ncuaxZgmrHz-KDp9kdffyTWdCfc0Gd",
+        "https://play-lh.googleusercontent.com/R9DnpSTFqbMb5cyePMQrN7xNqpCBJDMhzJEwmzlrUIZJIpE1R24CddQ9tHcF4wAPztBfzH_-CsKr8EpsYF4Vgg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=n_DwiqCsM6I",
       "description": "Monster-taming action RPG and successor to Monster Taming. Tag between three characters and collect Monsterlings. Console versions are planned for later.",
       "officialSite": "",
       "storeLinks": {
@@ -2886,6 +3269,15 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/B4uYewhDjtnfuwQShUr2EMiptP5GlTOFk6tlWtVMXucGz9GBWboePEzEVVHm_lM16BZLIpi9cRbhZikcrxjmQQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/JV1dZ_JLAI60SLZKjj3QVOMdFOTHEf_MyfAJdwoKsaBecbyj6DZ1xWfmi-iiMq_XUwBMVTROg5v5eWBtyzNuJhg",
+        "https://play-lh.googleusercontent.com/gLPUCXRgzyg1BctI5OqZk6hTXHVekPMuXT64vD4Q2krgk8Gx8_mOaer2piW4W0i95EGUlZRpmG5u5QFn5HoAeT4",
+        "https://play-lh.googleusercontent.com/bFEDaxGRvhC8EaRfIwF9qid8R8BVMoMWBPtQmqGQ0fUlX2fDZYgbC_GTfPY_k-w4FFtiE5uqZmZX3oxS_V1o8w",
+        "https://play-lh.googleusercontent.com/EnLNBNI4cfPJ9qq4vQKIx49XjjDI0neaNpVf19WWABhm28XTux8zVRuJnHSs14ECxIXepYyxMMxrvXWmJgPfLSU",
+        "https://play-lh.googleusercontent.com/jA7CCeGUiVkoG_cm8Yd3uK2aEM6CWNRuKUcLrneWnC2JUberE71FBJ1HfVcmajRvOhAxcXXB6Wg0A6XeIbp4WQ",
+        "https://play-lh.googleusercontent.com/PFdofjzb-3Vmz3HzBrauSOul4mDl2j2irGu1XzkSjjZgW6PHt7TPc7ABk2LuDymNdwklKV74fKzuh_tcyZ1ZnA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=qfRYHhVRdAc",
       "description": "Open-world Monster Hunter for mobile with named Adventurer characters and four-player hunts. A separate mainland China version is planned for 2027 or later.",
       "officialSite": "",
       "storeLinks": {
@@ -2949,6 +3341,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/ymrd9gr1V3uQFKFWUtjRq6gxqrzV4FbCH6iIms84LUF1iVTwfzfZzrBWtZVY1UFoPe3cIxmjmow6NOr73OZv3Q=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/cx1SatxCD3TVdWzV_WLV9aiUNTk7w90zdUcDtqoASqGekxc9IKOY1RG0vTF2dsH_i67ShoFdcLyGzVoCo9mHg-w",
+        "https://play-lh.googleusercontent.com/MWruVK65saPGsC5LyNHz-UIzpdgXokqFVPoSbrT-MhSthmxISUrL6UzLWdjLNIJ5fJrH32c1afP4mphR7ybKag",
+        "https://play-lh.googleusercontent.com/cgz0EdUkoy4i1CNstbULvukIBllXwi3ppczn8wlCeNSaADJlLTm6iDcp8H0jwKNqtppvl0DcSZyclC0NO5kRRQ",
+        "https://play-lh.googleusercontent.com/18846lqekgMhrLlcVD5kcOTCvfiD6eVjSs3CCRPjD3cVi7-c20PvDAo45MU0MXUC38x8_86DBhOAFq9KZJknsg",
+        "https://play-lh.googleusercontent.com/g1qjghEgbtUwDrTwDIsmELCG7VCvAXgQlHRDnGTUaXZeAUTMby38LvkoFywozY5kneU_F-8sRMY8_veI9gcT",
+        "https://play-lh.googleusercontent.com/MKmU4_av8JCaVwUjSWrz_QilLKjRx-YwybyX1ufAKB5annAMKR_8q6kHHHUV2IJrpgCBHIoNm-yTU4PfQe8B",
+        "https://play-lh.googleusercontent.com/u2KvNvKuzvRiuGne0_V87BoCBujgzcVQTs1GnSefoAA76GKaHvQ1VtNhF-hdrYMK5RZEjw8ZCOMHhDO0ND8rDw",
+        "https://play-lh.googleusercontent.com/V0asKPNc_IYQrruHbouvYT_HEX9gcBzsssNM7MA1J8plYtEfmzmH_rMHk546Ei0swYGeQRYgOtXlZ0zAFTpA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=c5p2pDnpZB0",
       "description": "Slingshot your monsters around the arena like pinballs. A Japanese co-op phenomenon and one of the highest-grossing mobile games ever.",
       "officialSite": "https://www.monster-strike.com",
       "storeLinks": {
@@ -3016,6 +3419,17 @@
         "PS5"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/0a349b617ad41d2569419e62bc3d3f8192fe6a31/header.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/b0b3fc2d349d956c2e0f12cc06d454e2c1f424aa/ss_b0b3fc2d349d956c2e0f12cc06d454e2c1f424aa.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/e0d6c095c6eeada838c7088b6b6b6443fbd6ea5f/ss_e0d6c095c6eeada838c7088b6b6b6443fbd6ea5f.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/ea141cd78e8ac0d1877ab3fbcc73c429955e7f24/ss_ea141cd78e8ac0d1877ab3fbcc73c429955e7f24.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/530125ec1def50024be64279aef44094faf8d722/ss_530125ec1def50024be64279aef44094faf8d722.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/fc3e1861147e14d5f280b03bb7271ccc96527f2d/ss_fc3e1861147e14d5f280b03bb7271ccc96527f2d.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/cf87d62fc680c7d225897c5cd6ff4a2fedeefd9f/ss_cf87d62fc680c7d225897c5cd6ff4a2fedeefd9f.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/9636e3a6214faa7f7f32a51f4f1d57abc0e53a39/ss_9636e3a6214faa7f7f32a51f4f1d57abc0e53a39.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/8fea0791b7e58383fee8d4f002e4654364753e4d/ss_8fea0791b7e58383fee8d4f002e4654364753e4d.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "Supernatural urban open-world RPG set in the city of Hethereau. Drive, run a shop and hunt Anomalies between story chapters.",
       "officialSite": "https://nte.perfectworld.com",
       "storeLinks": {
@@ -3079,6 +3493,8 @@
         "iOS"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Story-focused NieR spin-off set in The Cage, directed by Yoko Taro's team. Service ended on April 29, 2024.",
       "officialSite": "",
       "storeLinks": {},
@@ -3141,6 +3557,8 @@
         "Browser"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Adult BL fantasy RPG with turn-based battles and fully voiced clan members. Distributed outside the mainstream app stores.",
       "officialSite": "",
       "storeLinks": {},
@@ -3202,6 +3620,16 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/EUFkM97sKPux30ZXkddWeNqqryOMTVLfyYRcAfcfwPv_m9dowjPjT3OYRa-MwbyE5U2ym7reCowUgBjwkrPPWw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/j1mUQgqex2Bh2ci-rfNrsvrIxQPoZW4QyNkqhLt5WnXx3TcOco5e7yCtAB8yXS4vCO0z3RwFvyj2j87iWSS5",
+        "https://play-lh.googleusercontent.com/CZCurULFyyx8mSMC4Q7TJAP2Vowlu7nciGVguI10gAVQ-rmRJ3aQhkffTe94T4Yc9ire1YLw8d4uhxtvY56SbA",
+        "https://play-lh.googleusercontent.com/VSTeRfgBLzDBFLylawUQQVypkWuLk1EmGkCJb_yPNeYDCpzi8fAXQyLLvLT0usMVEv79hBkfAi6S9GT12rN_QQ",
+        "https://play-lh.googleusercontent.com/oe1ROzO2Z6TBtetyM-TzodEjgeAR6Y9mJSvC4VSTzy2J6BXgstncSSmDACsrpGXKKtahgUs_RZZK8JwUlb3HaqE",
+        "https://play-lh.googleusercontent.com/OmZAHDXii-tvgsUphVffsX34S0kSFcrWBq2O--b0SXQNtR-R5hrT9RnXi8jjqa7LEWYL6CdW7bfhD6EhlQ_p",
+        "https://play-lh.googleusercontent.com/GitEi15jEIORnUSWR0ENT_4S6iStfEefp5gTMVtGa4zwcWMvRm-ZIswFl6Fm7hTff8hLCIw2S403uzIAzS1U",
+        "https://play-lh.googleusercontent.com/OPSnI7J1U1iQrmZQZOeSsFMs52EwwcpPvSuerirub37y-4S7_FJIXXuSAD_RQiF7dgGZJgoaE5WJ4CBZh4wN"
+      ],
+      "trailer": "",
       "description": "HD-2D prequel to Octopath Traveler with eight-character parties and three long story routes: Wealth, Power and Fame.",
       "officialSite": "",
       "storeLinks": {
@@ -3265,6 +3693,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/QQ8TSmUGfxGnu34f1z0V1r_Xfcd_i6u5A7dYrYF1qtkqyaRU56xp1aiMIPuFYGC2bvXt7pfAOUIoUfw6H-EG=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/HvlcOM_WmpjBzS7K4Kb5ZZmqtxV-le68QraUiP0CFnXw7iK7vcRQRMjr0ihei2Dy_hJS4fPtnBN78r1_JmA3",
+        "https://play-lh.googleusercontent.com/pCGICfADiG9eEnSu1jmPMuNINHptoOCD7NQ9zbV2e5E83eOJ53Vg3PBSXn8JNnOUrTCUhCem83oKoyRjJKv7",
+        "https://play-lh.googleusercontent.com/ULdLwQTrZqYxZ5-u3ZwQWxNfF7WYOQAwy-I3-Pw3Plv0_zJjxjgg9echW_b_4J2wkkJ3aB-P5m0XWjkXeQvcDg",
+        "https://play-lh.googleusercontent.com/tP8EhcKxlka46BQxtL60DNK5MtDYCHrDkm8jWzENWYYJ7y3OilO5LbzAZq8mL53Ova2GHgmyTvj-MpTi0ks94iI",
+        "https://play-lh.googleusercontent.com/i84ALMLhRYew4k3NPeZkBV7KaQGWiZBuHLsi474Goe4UCnc31v3yA6mUUk9-_OOAccZlBLyWqHD2Yb0YdgB6",
+        "https://play-lh.googleusercontent.com/QOXGhFgupZleLZ-aNhhMTyt_-ZJdLip5PnkYnAAeLYXTF-SZiTcEoX2V16V2-zTSRNGH4SoawHkam_NmpvcT",
+        "https://play-lh.googleusercontent.com/t_KdHqHZ-ML2pfjcDRx67xHQObfmI9gCHA-DORKtGml9McWE8fxiz1FU9asvac_xKruUFOJX3WpWmRoSbMqjaSs",
+        "https://play-lh.googleusercontent.com/XjJTBcqMMzRBZXGMc9leL3UhZqgHiwSoiQZSvDfJkB7jK8tX9iJGq_3TwNQp8nnRc8X5HAOXwrrf9NA3W2Zx"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=qOPmkghdbsE",
       "description": "Tap-timing RPG that retells the One Piece story with a crew of collectible pirates.",
       "officialSite": "",
       "storeLinks": {
@@ -3329,6 +3768,15 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/ZnYy6QxhRiX01XfsTcoyJwbc-XQhWu13VegUWKSuUPnwH2XJPsZRbNIgYeqna6ERLxupgQlbCrtVonJ5Rc-h6vU=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/J0Vy7yzh7JT_pyW_Fw33ETnN2OTRcKXDuk6IPFDRdOMfN7YzXNdhNjitDceLQuW6jzKDvxrltvVDa3kj3IfNwg",
+        "https://play-lh.googleusercontent.com/6nxUUf25by0EXj_SxGpgohUWkcSnDjwkTyFKsHQuW7wXt3xWUyjvs154109k9l67A3BWgZ9VDkPaA8TWPB7U",
+        "https://play-lh.googleusercontent.com/GnFOqW8fTt17wy70XFQzB7cY78_hMmyHvQJ6AfgDhiq8obWELFVEBXu-gR3uIfM2Snp8_kwrSXCcMpywnFvo6hs",
+        "https://play-lh.googleusercontent.com/_X2crd6TFmF356hlvoG7jxIB69MJo9wRMuWQEkv4Cp7V4a-WuTUoTv37OLICS487C5fqxlsgEFn27Xtgoc-ODLo",
+        "https://play-lh.googleusercontent.com/gOEW3fpJsNMj19etIhqREKgqQcTuYyReiFfFPG8Yn4o4qAWQoJAURuhuogwqjB48JqgqqSrOn4VvQDvwN3YNcdc",
+        "https://play-lh.googleusercontent.com/dk93ypJdw7zLLFUuKv41bJuOTAob52vWtFKvTGoAaBu3zS5_r7MDQ3X5l_IzePZp0BFyb8XyXVNHdFkypoQlkQ"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=NQQ82v4ICsk",
       "description": "Real-time tower-defense RPG. As Chief of the MBCC, shackle and command super-powered Sinners in a noir city.",
       "officialSite": "https://ptn.aisnogames.com",
       "storeLinks": {
@@ -3393,6 +3841,17 @@
         "PC"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/library_600x900.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/8bb7bb086c2456446ebfeb26aeb6ed23464fd6ea/ss_8bb7bb086c2456446ebfeb26aeb6ed23464fd6ea.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/839628fd350cdbe711e56baddb192fffbf928f4e/ss_839628fd350cdbe711e56baddb192fffbf928f4e.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/ca7184eb63200ee64c7d0d55ad7022c969d939b1/ss_ca7184eb63200ee64c7d0d55ad7022c969d939b1.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/f2c724fc1833e41d3e54719b03c98130d4a72b31/ss_f2c724fc1833e41d3e54719b03c98130d4a72b31.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/64d11469ca219c2252bec386850925138a8d4aec/ss_64d11469ca219c2252bec386850925138a8d4aec.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/491f5181f912318f4f13659f09d51ff55d7a00db/ss_491f5181f912318f4f13659f09d51ff55d7a00db.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/d8be95b63eeac4fe48418b73385fd57c250ad71e/ss_d8be95b63eeac4fe48418b73385fd57c250ad71e.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061570/1d4506cb88ac376a4802192f5c890165097afb08/ss_1d4506cb88ac376a4802192f5c890165097afb08.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "Free-to-play Persona 5 spin-off with a new cast of Phantom Thieves, dungeon crawling and daily-life social sim in Tokyo.",
       "officialSite": "https://persona5x.com",
       "storeLinks": {
@@ -3457,6 +3916,15 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/9FI3Ynto6pCldvXRHps-U_IcrKaVUlUZ6H-OsLANOr7-pshvIeN6DdmgMMXyStbE3wQl5qE57EhVDiii9YseHQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/8diF-V_8QsYhBMOsTpWeRDrbwqeNOdrhvuUzd79lCj-oQCT2vTo6SMiaFRue4TsAk7ec5RC90uUu9QVoW_3m6tw",
+        "https://play-lh.googleusercontent.com/iDsHH_EcZhiwVBqP1vNTRYoe1xJLr0sWdx9drlMZrvrhg7vd7qLuXeaedrBt_y7YG2fuIwhMeY6190brsn40",
+        "https://play-lh.googleusercontent.com/FKq-7CDFgYwfJ17FKOBPkWf5T9d-6EHlTurXv4ARChnBSvgSgdS6yhOTQrZjFVQdu2d4B0vtHTW-b5X_CzrwvA",
+        "https://play-lh.googleusercontent.com/E1M-SNo8hZEggWuimX69lwc_kU4zzZRdtYAwiSaMBBZgYOxv6qARjgNjkKzsjoVPuN6OyjrqpA7c1PZcCZIq",
+        "https://play-lh.googleusercontent.com/BTRbgqlVUDBk7q5pHyKzL6ZJAl_IMvPzS39eDI6vqtMp8qBqGVFo0p39xxenS7UGSwg7cQ3juzMZK7-4u0tfkg",
+        "https://play-lh.googleusercontent.com/R4xRD10ADt2YRa6CHqiWV4sPdJjFCBScfZGsI0OQW_zs3WbWLHG5iAQapYx9Lq_NScjxBNsAMZqE891EIuHL"
+      ],
+      "trailer": "",
       "description": "HoYoverse's cosmic life sim. Grow your own planet, befriend animal Neighbors and visit other players across the galaxy. A Switch 2 version is slated for 2027.",
       "officialSite": "https://planet.hoyoverse.com",
       "storeLinks": {
@@ -3520,6 +3988,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/Sh6nvwhh0fz2iA_yCf-SsaJ0ceHHL-DKgv5nGr5yd3m5DyTFdZQAsjp5-14kA5bNCc5zxzXkj5oOVSghU04ZfA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/dylUz6cOUBmWxJEJG2OFyZ_zLUQiehVzNTKYnIBnhWMixmv-aTovzEJk7x8dJg805_LmDrfMXT_4BbHLFBP68Kg",
+        "https://play-lh.googleusercontent.com/ujKMDHhID9yec5yPROkDBW-T7ImL1_MAEMURA-hjhovGFKc_jM0BxZT-rTHlx1F72_RTGUdYyxRfrDqPWPvWXHo",
+        "https://play-lh.googleusercontent.com/R809cfXD_AX1_1_vWOWj94B8uTT3ZMD5sHUMxonEvq4RUPatA5T5OclJpCkcOs7W1h2oQDivugr0xfqRipm9YSM",
+        "https://play-lh.googleusercontent.com/JPH98kogTTCXt_SsL79_jC8EJUF65VyFikB75-yKjj5FdqU2WclroRkv6Pe47IfQso4kShIKcgMId1qFAVI2oA",
+        "https://play-lh.googleusercontent.com/S1gUDn3oRmOQ9m66-8s9oLw-zV-5meWD6dWqV7vLfI8PqszlIE7WOs8lhjriLPOWgBT82_TJh4t2mrQtJBBwOA",
+        "https://play-lh.googleusercontent.com/SlFXqWdGCmbnBRhDfL3Esr3mAh8fiJ--CqBXAjTKq98bnx32BBJ-WGIMi-H8t4iEMSz01b0vA1h_No9qG0gYOg",
+        "https://play-lh.googleusercontent.com/jRt7vsXJpDG6Ror_sNBLinprabTRQkMlnKG1rcxvCymk-4xxCw2seAfkJM5ZpoAqjRVpnbUjwCaXGaRK0CaOJA",
+        "https://play-lh.googleusercontent.com/KA65HIKkzhBKUiTKusG20p7t5bK543Wt5AsPlHnDI830ZAxkiX3rogLvuDnak5leOtw4l0HOxuUyNZA91d-G_g"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=zMgQE8mJ-cs",
       "description": "Team up with famous Trainers and their partner Pokémon as sync pairs for 3-on-3 real-time battles on the island of Pasio.",
       "officialSite": "",
       "storeLinks": {
@@ -3583,6 +4062,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/p_05nasYCOpKzbj4n-j6qFrWRu5mb4oBFiulf9kc-SdLssRKbIqIt8u-XkI2R07vfHh0KE_Vr4L8R0l7c3JTWw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/8a96l9MXMhlMWlA3DWZc95r6OR4HQ72x0TfG-fvwuRIUllw7_PhqjaH2D7Gui0CE7iJW5f7f1LgBvVKbR-3V9g",
+        "https://play-lh.googleusercontent.com/3095dF_hgrFj9yNWv0dJFrq7YaH7QYhp4CG7_hl2l6UVyCiTfXw5TMGuXgvCK-3Hgmj86vt1OLgP8MxOMFs85Q",
+        "https://play-lh.googleusercontent.com/qu6rNAdHsxykb5QQfn-F9iaZCShG5gKn_iUHYwJP_Xp1jyNx0dWgrZGHjbOSey4bpe0Zfk8aPtHoKHNlLEVzkA",
+        "https://play-lh.googleusercontent.com/mPcft8wpdmgd38UvRxhWUV1Ja8-V_ckJoEdkASlFCgV1XlOPRxgFIJahEi1AEpD-mJ4Xaxh6sVa7eJFHKvFZ",
+        "https://play-lh.googleusercontent.com/k_YBjpzy41zvuVKciht3dEW-LmvcPpjInUanwd3KKlEqW7FKyI0iTnCYLSUlytyravQeeN-CG0YolkteaxSb2w",
+        "https://play-lh.googleusercontent.com/YVNp0I04She1HwfzgTd2RyjGgG8xHR-piEXtqQ3k4DuWDonNIQaZgo8FBDuLPFcpsYTzE6RH08yUrHuMlMaRiw",
+        "https://play-lh.googleusercontent.com/rgVlQ7M2TRdnKmY4IFdH9LDnmkGPjEW0qHi0C0s-dEIELyWscNI0hw1i8jWshwttPuYavsNOZw_10oxtyXszvw",
+        "https://play-lh.googleusercontent.com/tDMA-t7xcn6jI1PGrOGGbAJkWnRvSRZppu5ILz9IbVLe2MfrQIdl7xTeYDY7U7A6ityaEYWO55fYcTeaADfV"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=un1XGPwHf8c",
       "description": "Open free booster packs every day, collect digital Pokémon cards with immersive artwork and play quick 20-card battles.",
       "officialSite": "https://tcgpocket.pokemon.com",
       "storeLinks": {
@@ -3647,6 +4137,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/jmLuezBp355A8OxyS7fR4km-2X-xmulfzhpUCufbFdbJaRFfCQIYS2OSaM6GKSN63RAvX53fEsPmb7WsXpLUr78=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ItMUjFsp7Q-jdDDDoelpPHDtPjUlrImzvHG9Vox39b8nJP6nPQB02Wbt7GqykbEvIZxdVZyh3bFYaECfTrCohZA",
+        "https://play-lh.googleusercontent.com/ls8O92hV-ptrQ0poNLXBmaF0mkFqHS-F2svZXLmfpzGemUa6NvSVChcT9m0l9y6NNulUYOStUq6sOoLpZpANNA",
+        "https://play-lh.googleusercontent.com/2x79sR9tUKOPgIJuqJ3pV87yN67smL4P7knGmWRQOH1K78TmGAgivHpfNb06Ucf2TGz3xSbSx6DSlC55LBZKrg",
+        "https://play-lh.googleusercontent.com/rROKCnlElFjOs3oKZQxqiD7j1yLSvJ6sGipNPqc_DkBmGippvgYc7l3lIlUB0Mf6HNEYGprLkcmOExmBHxui",
+        "https://play-lh.googleusercontent.com/oi5VNh64HcyMUVOpIU534-HIqUbV6gHM_nqiZgKv_yVXVQfZvNNiJkoTIwgkHZRKx6u5Nf_WJIP_aJSBZdKy370",
+        "https://play-lh.googleusercontent.com/fRc5ztCO83wkqAYOwhQZWXeIR8TdIelKr47k18JHvpdmyU5exatCgaQ0nOPZZxh-KSu-Tscw_uvq1ecHx4VS_YU",
+        "https://play-lh.googleusercontent.com/sicFcjwbU6CCq2xFYfIURINMnmQ9A0XE2q96WAf_oaN_Pgwd1qqv84b1O0wBib1XkVg6SvZ_aaxmMYrMnj8H",
+        "https://play-lh.googleusercontent.com/1holfgN7rPJxyyZ_P5ntit2UCk0iW_tA0k6_aMAI0bWy4B3Jt3LAFd2WblE7pXAYhW_--CycFhhvk1_yY0OS"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=yAvCc6zXc8E",
       "description": "Anime RPG with real-time auto battles and fully animated story scenes. Still running in Japan and Asia; the Global (Crunchyroll) server closed on April 30, 2023.",
       "officialSite": "https://priconne-redive.jp",
       "storeLinks": {
@@ -3710,6 +4211,16 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/Y9yBy-25QmwMeWPWMQWislfKJFKl5hZJHdqTuZkRR8gI9iVzRmxHPOx4z2RC7rx62C9AWeVuD7T4AfBvdIvAvQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/4td1UlnmVZkRoUqp9HthS3Kkz5DK20JdXPre6SFQ11XE5yd4Pw7xPJ3fEQT14g0Cz--4iidmL9huKOX69Ec",
+        "https://play-lh.googleusercontent.com/daUBaRCpfEs31V_0sbebzyb4YmGZ_m3eXkpnjBWeY3LkxEJIc1GxDtXmNuPhDTsX0UMhAilgXydtbSwOXLk9FQ",
+        "https://play-lh.googleusercontent.com/AM-MAIVULO04mj9CbsPFZBYBW1E3m-69vkJBb68Hs2MF6m7HvVeeDc8pmf0msMMZj91_GMawLGv__o1AgyIRMA",
+        "https://play-lh.googleusercontent.com/ZuU85ADJo33cFhenalnFfU14PIqhmn5isT8ghTpt91AhLvPqclmROZ6Zevpsq7SCuUFtmzb3-l18pK67mwW7Ew",
+        "https://play-lh.googleusercontent.com/D3dBeNgXYW2PgTcmZZg372HEQgcjrE0TdGkuOsvfGWdGAlDRbqnLBpyShiew43cKbHMY1ZM29LoyuMZvgPUXaw",
+        "https://play-lh.googleusercontent.com/wu8fUudJaLyIgNJtFnC8bNzDqQOuu9KdjOdDRC-lwSdOczY6RITS-MGUg0QJVoU4W_2qjDPhYQ-KdvlHOcYfVL0",
+        "https://play-lh.googleusercontent.com/f9fFpN785YaTBlWsXn7nfXWlcoRfE03P19daTbAzgUcWqtkruO-DmcTrzdtQyd7nPKs22y8xIZqGu2om54ryveU"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=DYiEMVN4Twg",
       "description": "Rhythm game starring Hatsune Miku and original bands. Known in Japan as Project SEKAI.",
       "officialSite": "https://www.colorfulstage.com",
       "storeLinks": {
@@ -3774,6 +4285,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/YWC3LT98lQ2INdjSE-zEEorezgBedT0N5G1lc8QEX-qpUqqJ2zOEnFOSWYQp8NBGwpo6Yp3HAgkwU8fWBW24DA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/331wmRKipSRiTYBSsgfJkB4etXYuezjGI0twbjOjiAzPG0LzQIIa9IemlrDMNeEjndiYkOhqWdkh1fcM6ZgpOMA",
+        "https://play-lh.googleusercontent.com/kSLXN2wievbus0g96xkYoUtIajkqB0tmBfwYQnxW7P4Q8OxsYk-hC0Zt-XVAUddrDCRbzu2jTRz0bJEz9NK0lg",
+        "https://play-lh.googleusercontent.com/0B9kinWly7muxYHOHveLGFvdj1s4VIegQd03hRgc9cSSy17B6Q73yxLCpEa0y_hXkTdSBO9nqTtMOqvmmOZi-mg",
+        "https://play-lh.googleusercontent.com/2_6semijbqRshxPwvQH1ZS-6ZUCagtusLMTxQkR2S8uiMByj1amQtpjWbpKavBXY6ZUgzA9wWjHRipcgOzLBXA",
+        "https://play-lh.googleusercontent.com/cHpgDNSD7LmkRd61sKzhJRU_NC2yIpm6hckNM3YuWx2opsi9RciXRJ7T87JHfjhoBgVACYJifu8LoOnHaCUjvA",
+        "https://play-lh.googleusercontent.com/EwARpRpOyf3BMAP_5R6ennXPNO0jdNgDMU6Cz8BAm0Nw5lyro7m9mECu-KRgxJ94y2G2M8H432vCQ911zz_XZVA",
+        "https://play-lh.googleusercontent.com/_IHT1oUH5GxxulaueP5x9U3DqEjmJXLi44HphFWGuzxcCaWtDpfys5tG50PhksB4USwX9io2fDKq8v2_CK6QTQ"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=vYaot28HVr0",
       "description": "Stylish sci-fi action game. Command a squad of Constructs to retake Earth from the Punishing Virus using an orb-matching combat system.",
       "officialSite": "https://pgr.kurogames.com",
       "storeLinks": {
@@ -3836,6 +4357,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/NX9uRjU-7KCGoD8-tCtVyo4Bqh6s17OX06LaGEOysZK1n_rMZP-nVXadHV6v0yuARu5aPmwGjXbaW2uMqQLU=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/I6EnvPs__U5TQ42ejjs1Utc9ryiGSSZsN9UXiyXPj4xeF_ZfQyE_yjAF2DTVyJUD8iPtxlApjouQrm45hvxu",
+        "https://play-lh.googleusercontent.com/qupS8tAP2CeTJj5LoA7ABRTkeYxeGelUvcUupEk8OiafYsc5P4zfdwPiIM8IZck7a-8rUz6ftvZdIYyb98Ed",
+        "https://play-lh.googleusercontent.com/H_uaDZIPMWDy9rnBj8tilRk3OcME3v4JTUZMsUxB1JU3bzHNRnVrmFA9g57Jrnj4zZ6HqNROqEhZMbmhAWr2lGs",
+        "https://play-lh.googleusercontent.com/C8nS5anP-nPFwmRa1vuawNH0KlutqeJeDhFneDVNY6l8sBtoO-_WFFTDRpkMiZG7H0pW6qxvDx8aTSLBv3usoA",
+        "https://play-lh.googleusercontent.com/9d4wI44VQuOGrEJVpjjFsnkLW1gGqVmLtuYnrEFI9ltZ-kDbE6pDYIFSo4YORn9MhznLaFjXS6QnJC__Nwu0yQ",
+        "https://play-lh.googleusercontent.com/CNdIRnxgF_Kmb-yrOg3Og_y-zwm4cnhR_2zg9OiMGVE4V441d4lRoSNWMyivdc7_JLCSTZ4eJhKvRaPX43q8rg",
+        "https://play-lh.googleusercontent.com/ayNZHl9Oo07azxls3WhOAVDz9d2Qy-G9CKRB-JK1PcJB0rZvbM0J41y29qOxMlmH30-9Oc4efJqnbwwFLGCj",
+        "https://play-lh.googleusercontent.com/4D1RPNseJ-CzHybEX54yJtCOn7igm8TVcdkBrTyvGcru9WonKLUanr7yf-Jl6XrJVrqJQUUkodsEtWafMmqXtw"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=VKKoD05OVtU",
       "description": "The match-three orb puzzle RPG that defined the Japanese mobile gacha market. Global here means the North American version.",
       "officialSite": "",
       "storeLinks": {
@@ -3900,6 +4432,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/Uv8KIWsfsXZJDk2ypWzrc_MCMGY32MvieP8hH9pujaBGwKRr4z88FpLwNuC8e5UxjioOHx9PcZU3XchZNZ4JjQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/IX-JnMS84GYbUzx83DJLUX__uRIB5iSx63uAd712n8VCl_8N9KAJovnC3gOQoXGlARtttmjWYhwODKkzOgKXhh0",
+        "https://play-lh.googleusercontent.com/9jAeZRabhsfKOgTFziuyyi0x346pN3fbnxnFaNgoMyiIZor_GiPR6cGJZWykIcjVdNjU1HIRuk3m-2xY5xmIaQ",
+        "https://play-lh.googleusercontent.com/pKG_cBw1aOkShwUP_0621-ThZzED50H7gN8XhlgFtLmeyVsSI3PXR9tiKD-2kv6z6ThIoTk6ISVXVTI-h2YCLPA",
+        "https://play-lh.googleusercontent.com/nY3KwEgPGRaMMu40JaveCHD_zlPYQLnITefcxbI1GaEjF0W5UvLWbxvRWu6VNq6Q6-yPnJ6QHGtpWoKxSwOVe00",
+        "https://play-lh.googleusercontent.com/epzDd2Gie8-WBhp7v7imdTD3kS6ypWbPtl8cnafLoa0q36mnTF-CokxSqF-jwlX0--VSlIr1UHljXdSjCeQBOBM",
+        "https://play-lh.googleusercontent.com/m1sGYPwnl1PpItYmAtlLMtUYbE6oi1KB2IiB4yq9ipZHZqtkqTO9qup2e5HACpJ45eXoffYOSD50EaWPbVrIfQ",
+        "https://play-lh.googleusercontent.com/JYhiC46tUhNNPU-IleqPJo-82z6ZVp4zsBa7v4O05-n9xJu3EYWM1oBLcFCjJSh5CD-ljFYsi_igBKgbLFARVA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=WzV2BD4c5zs",
       "description": "Dark-fantasy hero collector with realistic 3D champions, clan bosses and arena PvP.",
       "officialSite": "https://raidshadowlegends.com",
       "storeLinks": {
@@ -3964,6 +4506,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/35wW4EuYqdU1ItNGOcXQc7elbbEIgk1LCE693GOJrIyc2NLC8dGeMs1fchPepzZim_Sif-Q-aFJhyDqr1JEx=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QwVntrVCl1jnU7ry-zPI-9KAriEEtZkib2gdZ7Z3XVv9RM1XIrAB8h6srx2N3w53jfKKvkVJmFCySAR3n0GJ",
+        "https://play-lh.googleusercontent.com/Y6HF6-85Rg_Vhxy6DGlJdL5_QJw4iZYWazb7u19deyKg8mFAf-ZFOBi-L9N3vMdNYSD9_uQReDhREhrNQltb",
+        "https://play-lh.googleusercontent.com/M5NLlIaJDxoakopWH6c-A6WUNYdMCCzoTgEIlh9nLYnNLRvPeI6LZnqgDpypYKs-RHFY5duoZIC7GYL_RYmjWA",
+        "https://play-lh.googleusercontent.com/QbzFXvkSJv88T3xqjlTsQ5lIH4R7oXT-7euXLB81f00811-EHZqFUHsZauKF6xzuxuEo7Du9v_erJFwTwf8Lhg",
+        "https://play-lh.googleusercontent.com/h3YakQuj1C__xIcVpbxH9aBxQMmcQjzYa814Z7KXJw4lgeRlwMO-_SbqUyj_VAa_4YW-_u_o7CZksVTfysUHy34",
+        "https://play-lh.googleusercontent.com/7MLEgsljDHWbChN5lq9e_wnIxBWLa7KgLzJ-8WKJT3TJ4CBFKAxqWL9KM7JCMAS5PUqlTVCemaJg1_E3VK_2Cg",
+        "https://play-lh.googleusercontent.com/KgBm0_m5T_k42K-jcNwv5prCeZ8IOgccczb2PHNEzHXkrAdVP2vyeHhZrtDBHgcOdnUNq60FRnWcmtAz4jHMqA",
+        "https://play-lh.googleusercontent.com/eA8zAT0YnqzTORM6FEBXzQpCl1Ws7JEJE5PeoZsA_QJA7xVew3jVHbUkYG2kBJthaEA_MPiCW8rpbfxtunTp"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=bFHjKEVMeN8",
       "description": "Time-travel RPG with a painterly 20th-century style and full English voice acting. Combat merges and upgrades incantation cards.",
       "officialSite": "https://re1999.bluepoch.com",
       "storeLinks": {
@@ -4028,6 +4581,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/lar367tZF_JA5j4LKOfZ9zZRUXcNJUFPi60iIiZhBt54aOkfUxlXw1vCh6hP3HVN01-ZdWPpgaPFw_NggOpPdrA=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/KPoGgR0cIu4GUwAl5xVuiA7eibYH_LHBNbDTXmEZr37xLnRXGimKWXQ33Ilhk2HOdPMtgV9dODPzK5UAenU1Ehw",
+        "https://play-lh.googleusercontent.com/wzqzFT-hoLq1DaJSOqn6jPjhYEjEqTdTfBO80HOI_ZFkB0SBC1QpajqwBenyYk5idKY9kbrHYfnjhzjwQwbw1w",
+        "https://play-lh.googleusercontent.com/2N6fKBWNHNGAsyUnyaefLVCGaUQS_RZYNDhvhTvmb-BDD08DT82h4QU3Nm0KnM5z3a2xQPMaZNJm_2bOHLBukw",
+        "https://play-lh.googleusercontent.com/A1VfFIeIbpfm4Gr6huQaNrzT7LFbK_L1EbS1Ms4wMGi5oS--7cYlMB3CsY3AZIWNb3PsRrQTSguGWqg_LSE1",
+        "https://play-lh.googleusercontent.com/lK875lfEl58jTwLDHtIDXZq7q4zh_43PYwnROxXx4dEDG2UTLGryhBpBpCjnR5wl4xZi7SsKWCJ1481vtPoIyQ",
+        "https://play-lh.googleusercontent.com/no9ZhLabaHKXfKT1DPXRObOVzXbK0eJAQWWUP1RUYoy_CknuZ_BCccmaGXlOTc06WJ7Z89CRZ0cMBvOBW2Ti",
+        "https://play-lh.googleusercontent.com/QkjIPLPCY_9lhAgTS8yamRCcuZF6uFPvK6CMi5wnuy6-enFsqMVREPcbTodEXRE1kZH3lomFwfwcPaNNfpbHdA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=h9YneaGP0Fg",
       "description": "Sequel to the Shadowverse digital card game, adding Super-Evolution and a social lobby. Cards come from random packs.",
       "officialSite": "https://shadowverse-wb.com",
       "storeLinks": {
@@ -4092,6 +4655,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/MtgEUppacG78tdQOmd8BfkKCNmK0XsMjO1BNU-cD4hfbbBU1vnfK0Iqieblr8n6eHoG4Ipmls4pUrL1_rQFxYw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/d9uz0kZzvQ0xOSlGrwa0hAxkhByoKPw6nToQqQsa7rtCHLP-ugvKpRjfopHTZPfn4rNuOdrOKt6NFwrJTmOfOhU",
+        "https://play-lh.googleusercontent.com/OCzoU1mLBylNdbK_wBwvmjqjHRsLsBi_SMhqj53A7bgiffcKdR3zXslmKMVx-t1kzhWODgEkQkuj7iGRMXc7Nw",
+        "https://play-lh.googleusercontent.com/b5PMMz81vI986e0H77NWhyVujKwUXW3uz-kCv_qJfBSkEOW8mN3I3QOXDXNuc2VRvnxgDy5aCcHOe6IYnveFCA",
+        "https://play-lh.googleusercontent.com/StpAlMcljPz0DMxTQDqgoRFmJ2F1QIOg9S2EkLjXox3XuOII2Uso7fqYrqJqol6JFCBEpzBrbbw-y6XlovbY5p0",
+        "https://play-lh.googleusercontent.com/nN3wEwHxLwmOBMVg_CbnLEzoDLh02znZJiVY5UtbJvqbg8yOwFNlQiDOyzD_knONScxhVur4LwfCT5PLzfFS",
+        "https://play-lh.googleusercontent.com/y_PSN3pd2cmtabqIiOvsv7fg6JwC9WVOS8M6_jOBw9rJwbDnHA99_kL_pAoorc0S80339U5SAlNajcx4K6ES",
+        "https://play-lh.googleusercontent.com/tA8QBTSdwwELq43wY8Qz5bLKqzn_MHZQ-1_7knAbaJBibNOM5B_T2kMKv2DEK6y4iYWpcPcwUi_ps0KzfSVA"
+      ],
+      "trailer": "",
       "description": "Victorian-style detective action RPG set in the city of Silvernia, with real-time team combat and case investigation.",
       "officialSite": "",
       "storeLinks": {
@@ -4157,6 +4730,17 @@
         "PC"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/library_600x900.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/b318f3e0ef09d95d3afd2d5980340eef4584f903/ss_b318f3e0ef09d95d3afd2d5980340eef4584f903.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/f55ade628ce86272ab1000b5a7efa872754008ca/ss_f55ade628ce86272ab1000b5a7efa872754008ca.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/1c2d3aeaafc31f24a8ef26fc486d0c8b99154304/ss_1c2d3aeaafc31f24a8ef26fc486d0c8b99154304.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/1365a66cb18596520c9827ec386f3fe5474a5cb3/ss_1365a66cb18596520c9827ec386f3fe5474a5cb3.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/7e5116d35612a54f7029f74bd71909aa67f84541/ss_7e5116d35612a54f7029f74bd71909aa67f84541.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/26d791c53b22ef0e72ceafd81a9103a033ea7346/ss_26d791c53b22ef0e72ceafd81a9103a033ea7346.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/70b188ac915584882a892fa78066883e39ebd190/ss_70b188ac915584882a892fa78066883e39ebd190.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668080/35150d93bee5c54042dd9d585397165266c6d5bd/ss_35150d93bee5c54042dd9d585397165266c6d5bd.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "Third-person sci-fi shooter RPG. Fight Titans as the Adjutant alongside a squad of Manifestation operatives.",
       "officialSite": "https://snowbreak.amazingseasun.com",
       "storeLinks": {
@@ -4221,6 +4805,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/HFAS7l2186tgRJUiK6PsXa7rrYI0i4JnaG7-be_vXMOJVxYSc5rGW91EG08vYMH6V5WAYivnwsi9VyhrkBnf=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/VUZN-7rPKiBFRtiCARSLK1XOBp-GIjV6oa9zJ2usGbH-AJTEVsqG31jIOUqvEWSLw_Kivc0LuQpnUoqPn0_5dA",
+        "https://play-lh.googleusercontent.com/NW7ycXTos-usZfXL2DowK5PKSSQBk3p2d990BOwGXkqDHBoKefACHl4brodmJxRnYAjsGlAaOy4-CEP6VN6X",
+        "https://play-lh.googleusercontent.com/jm0Tau8abvLUKPGIDajow_Tjtg_dQR1MOOGZLGVmVjLC_scPQq6lOBiAyfwq8pwMDnOlvefAT6Ok9ZdNPGI2KA",
+        "https://play-lh.googleusercontent.com/zNxQrjiQLx_yO_eSpMX1SUjgqPDzyhQel6xXrXIP36VBm8TbGAZvQ6RkiCOf7-0ANRFvsAsHIeKLcPJh2lX6-g",
+        "https://play-lh.googleusercontent.com/HR1umxgZyrzN8kaeSKBT45s6twQ6bpzriI9vZUSwqdcqKdKIXTwextLplgnXzQH8aPcsUWHL00t9lwwkWxZUUg",
+        "https://play-lh.googleusercontent.com/mkVxOVzUxJa_pQvUY7DVU9_XvVQPISURHMTWpJPY_a83n0S9SwMe9_MBamMJys5QhoOtqg1vl3w30DvmM5QRng",
+        "https://play-lh.googleusercontent.com/FFWPdLFIaW3-qmqFUpRgvfclfMu8uQSPyMvKPsGdaPG7vEnsT8QpeWc4UP_X6TulIvWYCjpOsk_6x40IA3gY5w",
+        "https://play-lh.googleusercontent.com/3cU4M9g_aZA7fYhP5eNg0Ti0JsjOAwPB4PvLI3qhJ2rXhUj1x8mv0nv_8v70i12yFGCohNASfi0jAgAFJbDbEg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=GnMApwU3U-0",
       "description": "Action RPG adaptation of the Solo Leveling web novel. Play as Sung Jinwoo and build a shadow army.",
       "officialSite": "https://sololeveling.netmarble.com",
       "storeLinks": {
@@ -4285,6 +4880,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/RXUeJn7Eas8mkAf8KxMxR9NF9zUwWWb5W6u5KntDZUlTND31x6yusb9tGJ4aV40JwU1HxeSA_fHqwxndiRU2Bg=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/p_cGTgpC-ZigXTUhr5KyGum3IVOJ7dbRbC1Oi_BbmlzvbWcnh-3N4OWEtIU3I2OVFfXaayZSGj9jJ79YnfDlLg",
+        "https://play-lh.googleusercontent.com/uM8fNf3avXvB4PPP7huQz0ds7H-X7wD54z_P4d7cjm-gcoCwPtHwZ4Zs8qyyc4jicfqUsAhd0liTuCBTSvJAgw",
+        "https://play-lh.googleusercontent.com/-srKK7VEiydiqf3dYjFJAd2xEEcbmNajR86UHmh5oT64ms6vfvhPA6PNoeh5Z516It0tk4vqfLk7bv7u28TaQQ",
+        "https://play-lh.googleusercontent.com/XumPbgX3H82ce29ygKDBzjTeRgkk3HVBRS8u0FGLyzHNt8BQx3X-3CFd1EW9eTlqtgMKHYRTY7ssosK4KD7L",
+        "https://play-lh.googleusercontent.com/pNd-EDE-70pcFoySJzChZslTeCQez5xv3mBQGShDk-HWvzKEOU6p5NtI5GKttxg-SGj_QnEaFZ-lr_NbXEbJBA",
+        "https://play-lh.googleusercontent.com/5QsCxREZ5zLZRNYHipoWL4kGBOMFoImhhOv-TTQMcVCa1WheFRZAtcJoQSqb02UkU6svaJg2ajriufGm38K2eA",
+        "https://play-lh.googleusercontent.com/qe6FVWut3mm6VF10G-k9uM5XzvnHU762c8QapwIsie2rCyeJpiCcHq8dWyCZkPsCnuTLShFpujvko3ULWP4eS9I",
+        "https://play-lh.googleusercontent.com/DKuwm4ttDuRK-ZgNGoNFBMNUoPKBQtv-oXZBDVYaEIufjvmRPeUelmIs_y6o7kWEOJxD2FQS3rD7vX5aTv_UwA"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=eonjTwWNp9E",
       "description": "Collect characters and ships from every Star Wars era for turn-based squad battles and guild events.",
       "officialSite": "https://www.ea.com/games/starwars/galaxy-of-heroes",
       "storeLinks": {
@@ -4350,6 +4956,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/_Or4TdlnY_3gKuR04BEs_DS99kKeVnyEcdOF1Pf9GvWxSnp0Mb8aDqy8YVyqjAZoQ3aW8evgVeOzFKvCyI6e7tM=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/693CZXAX_wYKgPIPOtnm53pjNRvmSYiR8pRT-EqKZ_1hwJmZN1mCPw2CVbWhBx4PX6xg7mkyNpaz8_fZ_q6rPg",
+        "https://play-lh.googleusercontent.com/0NaDYW77KX1Je5lh4W5tz5Db7Ku6L1upr23-u-vkCJgfOecIpv5mj3EjkQSM-oa2EruAOGLTbGLe_gK5AzCyQg",
+        "https://play-lh.googleusercontent.com/8T5NV_0fkqbwlCoE7X8FlRZJs86lMa8N0ETLf2Tqg27_uFdlJDJq5HpS8kCJy1O74c0ghaSclQePg6T9n2UY5w",
+        "https://play-lh.googleusercontent.com/OAu9PNT9wGbxVXVImZn8oYrthDVP8Enf6_tAEZhljBfGhP5Fi0acrvajJ-jI4wpQduxSPW64Z8pZJmG7p_CrCw",
+        "https://play-lh.googleusercontent.com/LgEJDjSZhh_KrTU0aMPh_jz5WkCBKaazcHd7wjYLlFp__Z7wYHaGYZNEH1OQtgyIhNwSugwQTNW68QR7u1VbCg",
+        "https://play-lh.googleusercontent.com/RRRvPNMmiGdqSbl1mD193sWCqGMBD2LBPWafjaWW8DpgS7taGCkVtzPoWIjUM1PYeGmuqRTVbgr7az80UAJYjg",
+        "https://play-lh.googleusercontent.com/baGbsW1H2xpgeJqREs0RK4W0Xeo8enxISjHhXkjzLoL8snVZnRbf4f6e9aR4IOPj1O6y9U5OTsPhtjD3Mm6Qy4s",
+        "https://play-lh.googleusercontent.com/zCZzMu7PBlLHmB9MWJADz8it3EG5pfajbpnEvxMRkaEQxtCNka6m4Ki1c6VNuX-xZuvYJicezJaG88Wt8VVh"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=N79RCgjnJRM",
       "description": "Top-down action adventure with roguelite tower runs. Play as the Tyrant travelling the land of Nova with a party of Trekkers.",
       "officialSite": "https://stellasora.global",
       "storeLinks": {
@@ -4414,6 +5031,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/MUCpc9V1KmbWYb2Cv6p3aSVyzBo-uuG_iMPWY0vZSRh9cpDadSM07vaWHJXE6Yrpxj-wH1y55mO6Bo6B3_2k=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/RzfFRnq-U69GmZWb6dQfRZK9N_6QgZ71WNUNahkf3jktzOmOw1qo9FMdv0o09jhT70IuQIolzhSJ-3SHv32SCw",
+        "https://play-lh.googleusercontent.com/EnHCg8tV8IJRp21qg3I9TRkiOT1h66qoOevUY6Dmz7__6HpLmEbCps0LGgP28Z2P5Ie6__5fH4_gK_7hWqAiPEc",
+        "https://play-lh.googleusercontent.com/atf_E3EoFbW5T1IX9Blkl65gl50Qy-VCDYkHnJ3syAxhD8FHmXH8_jn7AO1F7v0R4u2jXwd-TShx4IW7p6yK-Q",
+        "https://play-lh.googleusercontent.com/41wVmEYyxObigK0IReLhkVtEoi7hD5P2MBxIonC1MLmYsFv-5tStwZIu25nTo6mnUN3P4CBKOX2q5aTYoDmP",
+        "https://play-lh.googleusercontent.com/xhztmJPzUleYiICd3s9XApgzTZvXTxXB0zdS7p1NiRuTtUqgQEDXY11MLCoHYe_rj5p8mpKmI9tBi4clycouCw",
+        "https://play-lh.googleusercontent.com/EGiI487kUpK5-0DqjIqo-INA9wEyrFLbV8vSCwNXynx1nQuj0FYezZzP5fCzTEcUgJAJvQZ-Jt5l7sHSvU8aVA",
+        "https://play-lh.googleusercontent.com/pegyiFSV5Ic4zeYYyQqeIP08XNCBYw4RYgTTBqW00QTZbs_DGdHxOQ3tRtwOF3DQbXXh0KyhcXnUMqSmHGuPbA"
+      ],
+      "trailer": "",
       "description": "Monster-collecting RPG built around rune builds and arena PvP. One of the longest-running global gacha hits.",
       "officialSite": "https://summonerswar.com",
       "storeLinks": {
@@ -4478,6 +5105,17 @@
         "PC"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/library_600x900.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_4fce1eec92dafb574cf4c6561d82c8c0986eebe2.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_94f02aae09f4e833ad19766d4e448ecee4f9187d.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_eedcc2204b34943894adf1cf24c6a9a96d349c65.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_d0c1989e26ff9f6681c7ea7463a5f141b8a7e2a3.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_fac6051c8733c6f1ae0e3034fda7c8638f05de37.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_5d5a82cabf3654f68bd108d7fc6267504e3a73c3.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_265bc3967a8302ea2a0e38a93baddad7cc7853c0.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526380/ss_60b16c005ea4662ef6a98729b6f13fc40cfc5831.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "Pixel-art tactical RPG with a roguelite single-player campaign (Spiral of Destinies) alongside its gacha mode.",
       "officialSite": "https://soc.xd.com",
       "storeLinks": {
@@ -4542,6 +5180,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Adult RPG set in the Taimanin universe of demon-hunting ninja. Distributed outside the mainstream app stores.",
       "officialSite": "",
       "storeLinks": {},
@@ -4604,6 +5244,17 @@
         "iOS"
       ],
       "cover": "https://play-lh.googleusercontent.com/oFdZQzPmxdYqTUWdokShvvTem2UIdTBmRViB1yyy6grCZTxS8JrmwV6W5KnL5ThkAxD8jZcztD7bekM41VoR=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/fzvcbH3S54k4jSwB8j-T-g9JAeAhOMbUvx1wO4ytHdHzn0-lYBqLtfxzaEmLKzBkEiUdzC_nWa4To6DN2JPsEA",
+        "https://play-lh.googleusercontent.com/T-C5RBERbnjAS2tNbWKV0T7iWqONd3uvWn1yv5xubobyUXM2PSuWoCGlieekEuAfhi6MdBRKMuF-REr8rvn9k1I",
+        "https://play-lh.googleusercontent.com/jT0lCy35n4wPqlkvIgLMAS8XoWs5Cgxs6BtiRM4XdqVOOKM0Ve_K1Np7-CydmP6XU0l3ZFZdAe790s1OV0a_kow",
+        "https://play-lh.googleusercontent.com/VyV5KbED4Ypil-gGzlnoNQ9hK3enJFO7iniPHSFrEy8u2yPtFnugOvgJXbHnjbdjKn463_iPo55xIZuJaBCA",
+        "https://play-lh.googleusercontent.com/T7yUlM7gGZJ0FN9WrDgOdWLScIcTv3Z6gwWvkl4O5mgHQEzm9_6NRypjMxM53WhddZ1GHAGH-9Z4d6RMzNI",
+        "https://play-lh.googleusercontent.com/np2arqB6ndk9banU_qRBRF2C68gx51NgmQB20d9C8UFoj9zKfp6UHG255El_p7GAblhqyY-NJtrlNSfFOqdH4WE",
+        "https://play-lh.googleusercontent.com/0iOwhxmtUtwNLtX-CrEKPCWI3vqrX7Xr_h8f5Y14pbDk377F7vUToIL3Iv6TnjqzvG1zl7IQ0kc59vFUgkmb",
+        "https://play-lh.googleusercontent.com/T31E9lBG0nvKVCM8t5LIh7XxKvzFn93XlHc9qFRw4kGcFuXkYzpqY2PDrYOgWwiLj9EaF7WtvW_toYBLfc04KQ"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=DItPAbFZRkw",
       "description": "Romance detective game. Investigate cases as a rookie attorney and win courtroom debates with collectible cards.",
       "officialSite": "https://tot.hoyoverse.com",
       "storeLinks": {
@@ -4668,6 +5319,16 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/8cU1H9WV1NXBsOEtSfHcfXlyHwvOxPprBWggiuAgKGJpiXioX7j7uQuMlNPD1yMhleNm77_uKwyhigzg7hAR9A=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/hyTRCHXAZ0u4NgE4_oo9uj7fCR3MCTPt8se0333oDzHTtxe_yUS1cH9UofzWvPfxVp5S73Sjb-hfRsKx6luh",
+        "https://play-lh.googleusercontent.com/AZpjiqkIP9u9qJPatzJCb6amhkgxoHiGzm13HB9oVbyfSL8P5wsGFMFvljLvr7uCU6QQOJyebnqn_Xebjyft",
+        "https://play-lh.googleusercontent.com/G9RcmQNw4YapYDBpMgO0pwFCKC7Khil2ifJuBWS-PLDZ-RHkw3gJusGJbBmgV10uPleZ0kcWgS8XhguMqDU8bQ",
+        "https://play-lh.googleusercontent.com/BR0Yis3LjyEAn_p5oCPWdHI8HNHiml3Z2D4oenCq36Za4uLsEnjjgueqWYRnR8ij7Zlq3ZBYObhaCtzerLFy2w",
+        "https://play-lh.googleusercontent.com/xt8c0kVco-Nmu2BAezDgJt6ffobt5xNVj8WPMFqqXT_j8ZfH4HRGUsguCUyhug6mL4hQsqvLuvAXz0gRMnWB6Q",
+        "https://play-lh.googleusercontent.com/6X9yM9WOzAVGuZcyLStdP46XyHkkXihef6fmxVlvA6fZmKikatE3IsrQajkyAUjC6VF7ktpvWqlS_b-z6NG-H3M",
+        "https://play-lh.googleusercontent.com/LecguL2G0u75FDFJF_YgCHYSGos0ff_lyLLemDoM1218yy-68eV4F4-0s4YPacwvDgi1U2Bdc1TnPenA1rPrRg"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=68SRgDAfi7w",
       "description": "Cinematic card-combat RPG that retells the Seven Deadly Sins anime with fully animated cutscenes.",
       "officialSite": "https://7dsgc.netmarble.com",
       "storeLinks": {
@@ -4734,6 +5395,16 @@
         "PS5"
       ],
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/86b4734355e3e43b8323426e69d127ce79bab888/header.jpg",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/53373b98ce2cec50ffdf76f7cd072aa8f6eda7d2/ss_53373b98ce2cec50ffdf76f7cd072aa8f6eda7d2.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/33059da9c5bc2e3a9b4335700d7453970cba7700/ss_33059da9c5bc2e3a9b4335700d7453970cba7700.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/58fc82c529edeaa16fbdf16b6bdd329cae8b80d7/ss_58fc82c529edeaa16fbdf16b6bdd329cae8b80d7.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/ec066430e514ec4ac7a6c7c92e4c7dc932be6cdb/ss_ec066430e514ec4ac7a6c7c92e4c7dc932be6cdb.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/92f269d3d2b376d6207c080e235417b878225c83/ss_92f269d3d2b376d6207c080e235417b878225c83.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/7786cedb73c01e249d332358a54bcb5e43988752/ss_7786cedb73c01e249d332358a54bcb5e43988752.600x338.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679080/b1c06d7bb6010b6b6f8c70d097f28090d06e4824/ss_b1c06d7bb6010b6b6f8c70d097f28090d06e4824.600x338.jpg"
+      ],
+      "trailer": "",
       "description": "Open-world action RPG set in Britannia with an original multiverse story starring Tristan. Launched on PS5 and Steam on March 16, 2026, a week before mobile.",
       "officialSite": "https://7origin.netmarble.com",
       "storeLinks": {
@@ -4800,6 +5471,16 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/yUk1ryEDzmGl8hVDAzN3I6ZnbxTHH_HMM1ueLjBUcMF7s0a1goUV8CpCfVOjrWM2BwGUkBY404SGEZg5fRaQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/qO5r4UKPzasWdhAX6glH4pAvWAj0seixZLpmKZjdOJ1E05Z6QdaXrI6B7nlLrf8A_ijsBxtv6FZuNDwNpwuFFWw",
+        "https://play-lh.googleusercontent.com/QjMxPg689pUFfvrr-_BaY7bIGC6sH1VVygnsjbYy_4CXt0_0mjujny9tSYxCkIDtVQCisizsPiSThVYiz0OqOQ",
+        "https://play-lh.googleusercontent.com/IbWWaTsa0m7SLI-pecNJ_TZ_Z9cMdRnS_D1wcwT5AjgF_cw6qzHb0D-6KxsYeP3K_8MsVrN_3aV7kbTWen0W",
+        "https://play-lh.googleusercontent.com/VmHeQ0PhosKGEqwPVjZ18sJfYmatWsWgX5czyA4OHTBx7tlGC6vPJNWtPW8fNwx74sjxZeox1STAP7eUQGIVsQ",
+        "https://play-lh.googleusercontent.com/6kQwqqmdTTifnvYYXyYUyy1aFbPA8MU-CABU7daFIK6eeraf-yD5TuLl12IXxn1gdanlLwBlOwINVuss_Ve7Ig",
+        "https://play-lh.googleusercontent.com/3QRbbNp1mt2EbAuJpb26SA7XdXKD2anz478xQnTOrr3I60gN1oCyLxZXoXYXErNByVTJX7UBNa5m51orqksOGw",
+        "https://play-lh.googleusercontent.com/b9OwOqekz1B7tXMBo5J_gmTVwAVnDyCO1eMi3VhV7mFycjZAxum_bh-tEsUTLmpwyi0YnwrQtiMyj99SfcnWq_Q"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=G8aXPvY6GGk",
       "description": "Shared open-world sci-fi RPG on the planet Aida, with weapon-based gacha and MMO-style group content.",
       "officialSite": "https://www.toweroffantasy-global.com",
       "storeLinks": {
@@ -4864,6 +5545,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Action RPG set in a dystopian Neo Tokyo from Danganronpa creator Kazutaka Kodaka. Service ended in November 2025, about nine months after launch.",
       "officialSite": "",
       "storeLinks": {},
@@ -4927,6 +5610,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/yN6cCSP7UB_2bsvlCxrtv-FUpEt1IvEFwr0Ucb3wr39QsAd5PLsueSVXuCinDbE4rifhMlX4YNtpLpkGnpsLhCQ=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/5YHyozOPt5frh4ZlAvWBhsd_3BRPGedFFHtwXEBqon591EDtV0YqNbhTUPVM_QaJ3s99ZHJhIBCssEHrHVWeSg",
+        "https://play-lh.googleusercontent.com/wdW9CuM6AgoKgprR-j-Lz57gu-ZUMT6tkkwWgvqWiLpRYuo3mC07lZMxTBImBcFg4SGb1IrldvxPzxd7QBVtCQ",
+        "https://play-lh.googleusercontent.com/faPG2Sn3vbEvThZNzdRb7lf7vBygASsQdV7OoIGziIkTOfuhO0h74kBL3RnDLMDLubhE4halBlsSNoB_zNo7",
+        "https://play-lh.googleusercontent.com/QOGf8TC5nOo1ymsJArBn0hx-iBla2Lb5fuADgNtGF8IL0YvVFTNUx6QmICur6i_w5XqHPT1C4lsua85fKxSXdyw",
+        "https://play-lh.googleusercontent.com/ntKHB9dI_tEPd9MIBbNrS_vRxyLRkHp-my1YHyduLTp2yjbkqGmmfNqSEi8qrn-fOnNHMWWyQfGVFnvuckHsOZ8",
+        "https://play-lh.googleusercontent.com/uKcASJQaLxvHNfpmTaKkWivmBOhUIJfHZAYFEzHF-eX7JX5DmuA35Ud5Jm9Ih6ChNMMiNGHeKRoW49qQKWcMc18",
+        "https://play-lh.googleusercontent.com/WAdM9LuaW3vHW0xeg18VlB_fer-xvGQ9V3CcD072SCfDLFvjD2_Qfaz1FuR3_EbydLhmhrKzsSCZIOwUE1iM6is",
+        "https://play-lh.googleusercontent.com/oW3yVSYiUU6k33jQhgZlQbiLfVoZgw96hbkbMPvQuoiIo64gRjWZR1fwkb82zsLuh9c6sl1nxbydqOTs0M8VxQ"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=vFXb5lE6tEg",
       "description": "Training sim where racehorses are reborn as horse girls. Coach a trainee through a career of races using Support Cards drawn from the gacha.",
       "officialSite": "https://umamusume.com",
       "storeLinks": {
@@ -4990,6 +5684,8 @@
         "PC"
       ],
       "cover": "",
+      "screenshots": [],
+      "trailer": "",
       "description": "Urban supernatural action RPG revealed by HoYoverse in November 2025 with a long gameplay demo. No release date or final platform list yet.",
       "officialSite": "",
       "storeLinks": {},
@@ -5053,6 +5749,17 @@
         "PC"
       ],
       "cover": "https://play-lh.googleusercontent.com/zHq6ZKQhVsI5DTjy05zsWTggWgQfNZ7Qg5PJk5Kv3Rhctyt2HgfYYXHjEhS6k_6Y5NzwKvf2ZpQiXCWfc9htnw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/B3g0aJCPPEnrqiHe22l9B8ayXrpDeah-pXxDgYhqOXhM9fdRxZfqmIu5yGiZYtkJbgMQUUQ8Quowm18fZLyq9w",
+        "https://play-lh.googleusercontent.com/J9WLvsmVzUKO69ZFrPA9pmOdBRcxjklSwpl52CCTSiz4G5bpSggqVW2zfrb9YTtTIRXs87kW8B8ggUSKFxcx9A",
+        "https://play-lh.googleusercontent.com/32FMiLWKPf7zD5OMzpoR2zo60pLj73TuG58ZIgVp0icMAb1Rl0hl6OoWZcgfoFNJRwcOmzknX_fw2uKTvJWO",
+        "https://play-lh.googleusercontent.com/SvVgTPIfQS3NtwnAiL1eVMa_QgSjVXHSw_OlY0rS-fPFaGC0nsJHnVm-pp5eWVtNUWERdih-KgrYmB5JQgjj",
+        "https://play-lh.googleusercontent.com/w_YH-3GgN-dP7RcC0rsYeH8-jGts-TQfxTYQgHNH3Z0BKsflR_DM09m3WlRyqA7A7D0-_L0EhWwvatbR0-q-fg",
+        "https://play-lh.googleusercontent.com/_ouLIhDQT-LZYfv3s3bElLnJmj7UL73r6z8V3f3wOv90Qpa5xl6oDTZSXVHwGV5pFfP6_wBkxqMaXadu1PsJFw",
+        "https://play-lh.googleusercontent.com/YqWynv2-0hOkUAE00z74d7LeUtyOBV2oK-u-rDTTy6FG8HEya4ygnTGafMIzDUJVNhLU3XfCnpcdH8TPVgMggCI",
+        "https://play-lh.googleusercontent.com/lLBFs3wpuA2qNw9gh3GEwLn7f4zbqKm3AVYW8YEbPF1iL8gt5r1XcydH5TGy5JdwJphqODNtHKjt6_ZFy_5Yyg"
+      ],
+      "trailer": "",
       "description": "3D dungeon-crawling RPG in the classic Wizardry line, with permadeath risk and a time-rewinding story.",
       "officialSite": "https://wizardry.info/daphne",
       "storeLinks": {
@@ -5119,6 +5826,17 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/S4HjezIFmL17FpPu7Z8VzxZvFMABYUjfLkcrDSEKxpjCYIL3tWLQK76_16SDOTiZlVHm_KeoMawvC7BPcyW_=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ChI2hRkG-EY_w5oCgIz4PpvvxlhE9teoWqvEZEE-8kVeB1aSOIAlzv-pmQQb4qw08ZEz0fNiphp6LyJZ29P1",
+        "https://play-lh.googleusercontent.com/A61tL913faGr0YGAa0wCUuBBsLUOr94lxLnHEzSolEK2bx2lHe25e9DEZoH2hsZORtBgVU00JmksKURhGUx-f5s",
+        "https://play-lh.googleusercontent.com/1EhvW61Dc5UUVo3_SIG_u2aRvUaqcrCuoPtgvE97QMtMPO1_YyWXUtpeedla6tEbTG2RUJhEG6XAeQRI02Wyi9k",
+        "https://play-lh.googleusercontent.com/JxEyBnZU9ClFtRM2h2etqXz-16TcbDAF5tb25S1FkrSWgnxs-hlsnjzNolDSsAY-hVOh2Ner8wnj8qs96ffAQ1I",
+        "https://play-lh.googleusercontent.com/Nf2ytNayczyyIxLWhP7HEaOTm3tYX_8DCNPLWKG5Mri2PA3ERhzLzwFYOJscUj9H9ECHBLvjBHwV-jzYb2caRw",
+        "https://play-lh.googleusercontent.com/JywazfJeh7Hxfg1CORSV2e6FlwzkUvJXsBuougFnsrnKQWpWEhFIIyzB5AJKKNDfw1-we7sO6dg9NP3iRuMb_g",
+        "https://play-lh.googleusercontent.com/3VmV9euaJQONtHeXRSpmSGS-IWdS1g5DAiryckQRI5CDDyTKtG2zfaRfWM0VXLJ_dvEd5dE3plc5QilM9xSEDw",
+        "https://play-lh.googleusercontent.com/OGm42V6IU4kmN6qGbMzaNmuXfDh0gLnf0W_51hs2nLdFIylF_d-zN9WUUs4M0h1zkTOHeGpR-F51cBQAOjcd"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=ixKaHlUXdxU",
       "description": "Open-world action RPG with fast, combo-driven combat. Play as Rover, absorb Echoes from defeated enemies and explore Solaris-3.",
       "officialSite": "https://wutheringwaves.kurogames.com",
       "storeLinks": {
@@ -5184,6 +5902,16 @@
         "PS5"
       ],
       "cover": "https://play-lh.googleusercontent.com/N8j-t_IXvDvqFzN3U_19OJPIyAHHgljwVa7TMyCYpdRXRykalU3HKq9u9oPnzDXEkUOX1yyuX16yuWNDrUC_Uw=s0-br30",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/ctl_5Ti0LGXPf8ng85xUrubvOb8kxT9NHUXuf_wYyQZiGfiVt4KReoXV-eHAwbvobk9fsXb1AeXRq5qsS2tK",
+        "https://play-lh.googleusercontent.com/G2JiN8wko8nrRYKksiTYjt1LIVzaFz60m4uwhs4x21t-fMzwpP92fsMJqclR3SU2wlHJXl0rfk95z7kMr8TFmQ",
+        "https://play-lh.googleusercontent.com/vW6LlEUExJLDEpCdot_hUhqh21tWU4q6ilfnC-4LlSx6-2sbanelHSJczqL2IE260tEu-M4iibjso0xXIIz2G2I",
+        "https://play-lh.googleusercontent.com/qNaSJJXjaMb5zwlOz11ksju6Co-Z5OG7AK-ap_KE84SXr1bIJKZYU4iiKOXJVVH5Qn5oXGtaAffUPTK7uHo",
+        "https://play-lh.googleusercontent.com/OSIeh0lIG7OY3ai91LwWtQTir6g6vcgqtqLZH0jSaLpcjpJm2pkj278mkAGhgaR9xh7ZhhN9rD3tyZt_iDd5gQ",
+        "https://play-lh.googleusercontent.com/9k272i6QGBeuIt6OnBfo4-2KcoI8VGfVxvihkSDMCLYca4AljK80XDNukGFdso6BjaR27O_7R5DHBc7w7hzG",
+        "https://play-lh.googleusercontent.com/ZukZToKkbyw713RQmFKGy7jDVzR-kHR-sjex6auhQslgk_cvwD48nl7TxAVbMk-if_5fvWRqA2rRpMvPC63ndQ"
+      ],
+      "trailer": "https://www.youtube.com/watch?v=GsHik_RiByE",
       "description": "Urban-fantasy action game set in New Eridu. Fast three-agent tag combat inside the Hollows, with a slice-of-life city hub.",
       "officialSite": "https://zenless.hoyoverse.com",
       "storeLinks": {

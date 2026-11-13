@@ -20,6 +20,7 @@ enum class Season(val label: String, val quarter: Int) {
  * A release date with honest precision. [start]..[end] is the window the date can fall in;
  * both are null for TBA.
  */
+@androidx.compose.runtime.Immutable
 data class ReleaseDate(
     val precision: Precision,
     val start: LocalDate? = null,
@@ -114,6 +115,7 @@ data class ReleaseDate(
     }
 }
 
+@androidx.compose.runtime.Immutable
 data class RegionDate(val region: Region, val date: ReleaseDate, val confirmed: Boolean)
 
 fun Game.release(region: Region): RegionDate {
@@ -149,3 +151,10 @@ fun parseIsoDate(s: String?): LocalDate? = try {
 } catch (_: Exception) {
     null
 }
+
+/** The announced end-of-service date, or null when none is recorded. */
+fun Game.eosDate(): ReleaseDate? = ReleaseDate.parse(endOfService).takeIf { !it.isTba }
+
+/** Developer and publisher names as separate studios ("A / B" lists both). */
+fun Game.studios(): Set<String> =
+    (developer.split('/') + publisher.split('/')).map { it.trim() }.filter { it.isNotBlank() }.toSet()

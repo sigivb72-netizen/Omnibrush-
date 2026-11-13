@@ -101,6 +101,9 @@ minutes for GitHub to serve the new file).
 | `popularity` | 0–100, only used for sorting |
 | `added` | Date the entry was created; orders "Recently announced" |
 | `adult` | `true` hides the game unless the 18+ setting is on |
+| `screenshots` | List of image links. The scraper fills this from the Google Play page when it is empty. |
+| `trailer` | Link to a trailer video (filled from Google Play when empty) |
+| `endOfService` | Shutdown date, e.g. `2026-10-06`. A future date shows the game under "Shutting down" with a countdown. |
 
 Only `id` and `title` are required. **If you are not sure of a date, write `TBA`** or a coarser
 date such as the year.
@@ -166,10 +169,10 @@ Only headlines and links are stored, never article text.
 
 | Screen | What it shows |
 | --- | --- |
-| Home | Releasing soon, Just launched, Recently announced, latest headlines |
+| Home | Releasing soon, Just launched, Recently announced, Shutting down, latest headlines |
 | Seasonal | Games by season or month (plus a TBA tab), filtered by region, platform, genre, status |
 | Search | Text search with filters, sorted by popularity, release date or title |
-| Game page | Cover, info table, synopsis, per-region release table, countdown, links, related news |
+| Game page | Cover, screenshots, video links, info table, synopsis, per-region release table, countdown, site and store links, more from the same studio, related news |
 | My List | Playing, Completed, On Hold, Dropped, Plan to Play; score, dates, region/server, play time, spending, notes |
 | Profile | Counts per status, mean score, days played, spending, score distribution, genre breakdown |
 | Settings | Default region, theme, notifications, 18+ toggle, export/import of your list |
@@ -192,6 +195,10 @@ data/overrides.json     corrections that always win
 scraper/                Python scraper, data validator and their tests
 .github/workflows/      build.yml (APK on every push) and scrape.yml (every 6 hours)
 ```
+
+The installable APK is the optimised release build. After building it, a second job installs it
+on an Android emulator and taps through the main screens, so a build that would crash on a phone
+shows a red X.
 
 Tests run in the build workflow: the JSON parser and date logic, the scraper's merge logic,
 a validator for the data files, and a walkthrough that drives the real app through every

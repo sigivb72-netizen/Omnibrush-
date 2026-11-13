@@ -77,8 +77,16 @@ def test_lead_detection_and_relevance():
 
 
 def test_store_page_parsing():
-    live = '<meta property="og:image" content="https://play-lh.googleusercontent.com/abc=w600"><meta property="og:title" content="My Game - Apps on Google Play"><button><span>Install</span></button>'
-    assert stores.parse_play_page(live) == {"state": "available", "cover": "https://play-lh.googleusercontent.com/abc=w600", "title": "My Game"}
+    live = ('<meta property="og:image" content="https://play-lh.googleusercontent.com/abc=w600"><meta property="og:title" content="My Game - Apps on Google Play">'
+            '<img src="https://play-lh.googleusercontent.com/abc=w240-h480"><img src="https://play-lh.googleusercontent.com/abc=s48">'
+            '<img src="https://play-lh.googleusercontent.com/shot1=w526-h296"><img src="https://play-lh.googleusercontent.com/shot1=w526-h296">'
+            '<img src="https://play-lh.googleusercontent.com/tiny=w48-h16"><img src="https://play-lh.googleusercontent.com/shot2=w296-h526">'
+            '<button data-trailer-url="https://www.youtube.com/embed/H3Q2BN86So8?vq=large"></button><button><span>Install</span></button>')
+    assert stores.parse_play_page(live) == {
+        "state": "available", "cover": "https://play-lh.googleusercontent.com/abc=w600", "title": "My Game",
+        "screenshots": ["https://play-lh.googleusercontent.com/shot1", "https://play-lh.googleusercontent.com/shot2"],
+        "trailer": "https://www.youtube.com/watch?v=H3Q2BN86So8",
+    }
     pre = '<meta property="og:image" content="https://x/y"><button><span>Pre-register</span></button><div>Coming soon</div>'
     assert stores.parse_play_page(pre)["state"] == "pre-registration"
     assert stores.parse_play_page("<html></html>")["state"] == "unknown"

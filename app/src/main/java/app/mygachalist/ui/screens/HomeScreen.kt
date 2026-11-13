@@ -52,6 +52,8 @@ fun HomeScreen(
     val soon = remember(games, region) {
         games.asSequence()
             .filter { it.gameStatus != GameStatus.END_OF_SERVICE }
+            // A game that is already out only belongs here if it is still coming to *your* region.
+            .filter { it.gameStatus != GameStatus.RELEASED || it.release(region).date.isUpcoming(today) }
             // Soonest upcoming launch in any region (the card names the region); ties go to the default region.
             .mapNotNull { g ->
                 g.allReleases().filter { it.date.isUpcoming(today) }
@@ -76,6 +78,16 @@ fun HomeScreen(
             .sortedWith(compareByDescending<Game> { it.added }.thenByDescending { it.popularity })
             .take(8)
     }
+
+    // Games with an announced closing date that is still ahead, or that closed within the last year.
+    val closing = remember(games) {
+        val floor = today.minusDays(365)
+        games.mapNotNull { g -> g.eosDate()?.let { g to it } }
+            .filter { it.second.end!!.isAfter(floor) }
+            .sortedWith(compareBy<Pair<Game, ReleaseDate>>({ !it.second.isUpcoming(today) }, { if (it.second.isUpcoming(today)) it.second.start!!.toEpochDay() else -it.second.start!!.toEpochDay() }))
+            .take(8)
+    }
+    val shutdownNews = remember(news) { news.filter { it.isShutdownNews }.take(6) }
 
     Column(Modifier.fillMaxSize()) {
         AppTopBar("MyGachaList") {
@@ -118,15 +130,32 @@ fun HomeScreen(
                 }
                 if (launched.isNotEmpty()) {
                     item(key = "h-launched") { SectionHeader("Just launched") }
-                    items(launched, key = { "l-" + it.first.id }) { (g, d) ->
+                    items(launched, key = { "l-" + it.first.id }, contentType = { "game" }) { (g, d) ->
                         GameRow(g, entries[g.id], d, g.id in revealed, { onGame(g.id) }, showRegion = true)
                         RowDivider()
                     }
                 }
                 if (announced.isNotEmpty()) {
                     item(key = "h-announced") { SectionHeader("Recently announced", "Browse", onSearch) }
-                    items(announced, key = { "a-" + it.id }) { g ->
+                    items(announced, key = { "a-" + it.id }, contentType = { "game" }) { g ->
                         GameRow(g, entries[g.id], g.primaryRelease(region), g.id in revealed, { onGame(g.id) }, showRegion = true)
+                        RowDivider()
+                    }
+                }
+                if (closing.isNotEmpty() || shutdownNews.isNotEmpty()) {
+                    item(key = "h-closing", contentType = "header") { SectionHeader("Shutting down") }
+                    items(closing, key = { "c-" + it.first.id }, contentType = { "game" }) { (g, d) ->
+                        val days = d.daysUntil(today)
+                        val note = when {
+                            days != null -> "Service ends in $days days · ${d.display()}"
+                            d.isUpcoming(today) -> "Service ends ${d.display()}"
+                            else -> "Service ended ${d.display()}"
+                        }
+                        GameRow(g, entries[g.id], null, g.id in revealed, { onGame(g.id) }, note = note)
+                        RowDivider()
+                    }
+                    items(shutdownNews, key = { "cn-" + it.id }, contentType = { "news" }) { n ->
+                        NewsRow(n, gamesById) { openLink(n.url) }
                         RowDivider()
                     }
                 }
@@ -139,7 +168,7 @@ fun HomeScreen(
                         )
                     }
                 } else {
-                    items(news.take(15), key = { "n-" + it.id }) { n ->
+                    items(news.take(15), key = { "n-" + it.id }, contentType = { "news" }) { n ->
                         NewsRow(n, gamesById) { openLink(n.url) }
                         RowDivider()
                     }

@@ -72,7 +72,7 @@ fun MyListScreen(vm: MainViewModel, onGame: (String) -> Unit, onEdit: (String) -
             }
             HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
             LazyColumn(Modifier.fillMaxSize()) {
-                items(rows, key = { it.gameId }) { e ->
+                items(rows, key = { it.gameId }, contentType = { "entry" }) { e ->
                     ListRow(e, gamesById[e.gameId], e.gameId in revealed, onOpen = { onGame(e.gameId) }, onEdit = { onEdit(e.gameId) })
                     RowDivider()
                 }
@@ -85,7 +85,7 @@ fun MyListScreen(vm: MainViewModel, onGame: (String) -> Unit, onEdit: (String) -
 private fun ListRow(entry: ListEntry, game: Game?, revealed: Boolean, onOpen: () -> Unit, onEdit: () -> Unit) {
     Row(
         // A game can vanish from the database (or be hidden by the 18+ setting); the entry stays editable.
-        Modifier.fillMaxWidth().clickable(onClick = if (game != null) onOpen else onEdit).height(IntrinsicSize.Min),
+        Modifier.fillMaxWidth().clickable(onClick = if (game != null) onOpen else onEdit).height(78.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         Box(Modifier.width(5.dp).fillMaxHeight().background(entry.listStatus.color()))
