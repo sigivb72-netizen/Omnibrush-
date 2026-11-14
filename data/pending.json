@@ -73,6 +73,18 @@
       "firstSeen": "2026-11-13",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-776f8fbac6f93f8e",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "カジュアルなスマホ向け麻雀ゲーム「雀皇麻雀2」，特典がもらえる事前登録受付開始",
+      "url": "https://www.4gamer.net/games/058/G105838/20261114003/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-14",
+      "approved": false,
+      "game": {}
     }
   ]
 }
