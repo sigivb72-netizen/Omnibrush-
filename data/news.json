@@ -1,6 +1,74 @@
 {
-  "updated": "2026-11-16T06:29:08Z",
+  "updated": "2026-11-16T22:01:44Z",
   "items": [
+    {
+      "id": "8bc2cab65d5befc2",
+      "title": "소녀전선 신작 '블루 코버넌트' AGF 2026 참가 확정",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323431",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-16T12:22:34Z",
+      "gameIds": [
+        "girls-frontline"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "a5563c9a54e9c68f",
+      "title": "「三國志 戦棋版」，日本を含む8つの地域で12月1日に正式サービスを開始。「FFタクティクス - イヴァリースクロニクルズ」とのコラボ内容も明らかに",
+      "url": "https://www.4gamer.net/games/045/G104580/20261116023/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-16T10:04:26Z",
+      "gameIds": [],
+      "kind": ""
+    },
+    {
+      "id": "a255add1b4841b3d",
+      "title": "「ハリー・ポッター：魔法の覚醒」，2027年3月3日をもってサービス終了",
+      "url": "https://www.4gamer.net/games/509/G050907/20261116020/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-16T09:46:52Z",
+      "gameIds": [],
+      "kind": "end-of-service"
+    },
+    {
+      "id": "e2e6b045dd94bcf2",
+      "title": "에픽세븐 e스포츠 'E7WC 2026' 결승전 예매 시작",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323428",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-16T08:40:54Z",
+      "gameIds": [
+        "epic-seven"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "d34ed84fb5944ac3",
+      "title": "스마일게이트 ‘에픽세븐’, ‘E7WC 2026’ 수퍼플렉스관 선예매 오늘(16일) 저녁 8시 시작",
+      "url": "https://bbs.ruliweb.com/news/read/231983",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-16T08:27:20Z",
+      "gameIds": [
+        "epic-seven"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "5a9f4ee88dfaa3b8",
+      "title": "Blue Archive tier list - The definitive ranking of every student in class",
+      "url": "https://www.pocketgamer.com/blue-archive/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-16T06:00:00Z",
+      "gameIds": [
+        "blue-archive"
+      ],
+      "kind": ""
+    },
     {
       "id": "f4a9074157ab9fdc",
       "title": "그라비티, 라그나로크 기반 캐주얼 'RO Lite - Match' 정식 출시",
