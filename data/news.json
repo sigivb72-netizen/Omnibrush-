@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-16T22:01:44Z",
+  "updated": "2026-11-17T07:54:20Z",
   "items": [
+    {
+      "id": "5c6af01e6d694b1b",
+      "title": "PongorianGames, 1비트 인크리멘털 액션 ‘Elecade’오늘(17일) Steam 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232028",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-17T04:17:23Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "c9cf1df4da41ab6a",
+      "title": "㈜네오위즈 자회사 파우게임즈 ‘킹덤2: 타오르는 전장’, 오늘(17일) 대만·홍콩·마카오 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232025",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-17T04:00:23Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "9d15082b50249192",
+      "title": "Etheria Restart tier list and a reroll guide",
+      "url": "https://www.pocketgamer.com/etheria-restart/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-17T03:29:00Z",
+      "gameIds": [
+        "etheria-restart"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "6e9e2b8e7794c356",
+      "title": "「勝利の女神：NIKKE」，新SSRニケ「スカイ」が11月19日に登場。熱気球に乗りたい少女との物語を描く新イベントも開催",
+      "url": "https://www.4gamer.net/games/456/G045622/20261117001/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-17T02:03:28Z",
+      "gameIds": [
+        "goddess-of-victory-nikke"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "8040e1b99db436f1",
+      "title": "「ゼンレスゾーンゼロ」のVer.3.4「ついには長き、日の終わり」予告番組は11月20日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20261116028/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-16T23:00:00Z",
+      "gameIds": [
+        "zenless-zone-zero"
+      ],
+      "kind": ""
+    },
     {
       "id": "8bc2cab65d5befc2",
       "title": "소녀전선 신작 '블루 코버넌트' AGF 2026 참가 확정",

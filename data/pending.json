@@ -109,6 +109,30 @@
       "firstSeen": "2026-11-16",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-5c6af01e6d694b1b",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "PongorianGames, 1비트 인크리멘털 액션 ‘Elecade’오늘(17일) Steam 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232028",
+      "source": "Ruliweb News",
+      "firstSeen": "2026-11-17",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-c9cf1df4da41ab6a",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "㈜네오위즈 자회사 파우게임즈 ‘킹덤2: 타오르는 전장’, 오늘(17일) 대만·홍콩·마카오 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232025",
+      "source": "Ruliweb News",
+      "firstSeen": "2026-11-17",
+      "approved": false,
+      "game": {}
     }
   ]
 }
