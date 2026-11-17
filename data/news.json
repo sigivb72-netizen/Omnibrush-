@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-17T07:54:20Z",
+  "updated": "2026-11-17T20:54:53Z",
   "items": [
+    {
+      "id": "6608ba05f6d04f84",
+      "title": "Tree of Savior M, the upcoming multiplatform MMORPG from IMC Games, opens pre-registration",
+      "url": "https://www.pocketgamer.com/tree-of-savior-m/pre-registration-now-open/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-17T13:14:00Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "964307169fdccccf",
+      "title": "SoulSeoul, 국산 로그라이트 '서울 좀비 시티' 11월 25일 스팀 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232043",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-17T10:20:56Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "c9f708e852ac4f7f",
+      "title": "Girls Frontline 2 tier list - Version 3.0 with Welrlod",
+      "url": "https://www.pocketgamer.com/gfl2-exilium/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-17T05:30:00Z",
+      "gameIds": [
+        "girls-frontline-2-exilium"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "6928ed56c3042abb",
+      "title": "Guardian Tales tier list of every character",
+      "url": "https://www.pocketgamer.com/guardian-tales/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-17T05:14:00Z",
+      "gameIds": [
+        "guardian-tales"
+      ],
+      "kind": ""
+    },
     {
       "id": "5c6af01e6d694b1b",
       "title": "PongorianGames, 1비트 인크리멘털 액션 ‘Elecade’오늘(17일) Steam 정식 출시",

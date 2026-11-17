@@ -133,6 +133,30 @@
       "firstSeen": "2026-11-17",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-6608ba05f6d04f84",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "Tree of Savior M, the upcoming multiplatform MMORPG from IMC Games, opens pre-registration",
+      "url": "https://www.pocketgamer.com/tree-of-savior-m/pre-registration-now-open/",
+      "source": "Pocket Gamer",
+      "firstSeen": "2026-11-17",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-964307169fdccccf",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "SoulSeoul, 국산 로그라이트 '서울 좀비 시티' 11월 25일 스팀 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232043",
+      "source": "Ruliweb News",
+      "firstSeen": "2026-11-17",
+      "approved": false,
+      "game": {}
     }
   ]
 }
