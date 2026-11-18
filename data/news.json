@@ -1,6 +1,72 @@
 {
-  "updated": "2026-11-17T20:54:53Z",
+  "updated": "2026-11-18T07:28:49Z",
   "items": [
+    {
+      "id": "805b1e91ee041b73",
+      "title": "위메이드커넥트, 로스트 소드 일본 사전예약 시작",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323530",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-18T07:18:12Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "79b2123640aee7f5",
+      "title": "쿠키런: 킹덤, 종언의 천사 업데이트 진행",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323529",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-18T07:17:49Z",
+      "gameIds": [
+        "cookie-run-kingdom"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "0d5b351aa2e3fed3",
+      "title": "젠가(JENGA), 액션 RPG ‘너랑나랑 레벨업’ 12월 1일 글로벌 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232100",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-18T07:01:17Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "81d01c63fadf3754",
+      "title": "일곱 개의 대죄: Origin, 메라스큘라 추가",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323512",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-18T07:01:08Z",
+      "gameIds": [
+        "the-seven-deadly-sins-origin"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "48bd696cf5b30731",
+      "title": "디컴퍼니, 7대7 축구 전략 게임 '사커워즈(Soccerwarz)', 오늘(18일) 전 세계 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232098",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-18T05:55:22Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "03672fbd9fe99323",
+      "title": "넷마블 '페이트/그랜드 오더', 한국 서비스 9주년 기념 캠페인 오는 19일(목) 실시",
+      "url": "https://bbs.ruliweb.com/news/read/232090",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-18T04:00:17Z",
+      "gameIds": [
+        "fate-grand-order"
+      ],
+      "kind": ""
+    },
     {
       "id": "6608ba05f6d04f84",
       "title": "Tree of Savior M, the upcoming multiplatform MMORPG from IMC Games, opens pre-registration",

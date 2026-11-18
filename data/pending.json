@@ -157,6 +157,42 @@
       "firstSeen": "2026-11-17",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-0d5b351aa2e3fed3",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "젠가(JENGA), 액션 RPG ‘너랑나랑 레벨업’ 12월 1일 글로벌 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232100",
+      "source": "Ruliweb News",
+      "firstSeen": "2026-11-18",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-48bd696cf5b30731",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "디컴퍼니, 7대7 축구 전략 게임 '사커워즈(Soccerwarz)', 오늘(18일) 전 세계 정식 출시",
+      "url": "https://bbs.ruliweb.com/news/read/232098",
+      "source": "Ruliweb News",
+      "firstSeen": "2026-11-18",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-805b1e91ee041b73",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "위메이드커넥트, 로스트 소드 일본 사전예약 시작",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323530",
+      "source": "Inven",
+      "firstSeen": "2026-11-18",
+      "approved": false,
+      "game": {}
     }
   ]
 }
