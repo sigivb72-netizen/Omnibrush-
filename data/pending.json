@@ -193,6 +193,42 @@
       "firstSeen": "2026-11-18",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-cccfcdac7aba76a0",
+      "type": "news",
+      "detected": "beta",
+      "gameId": "",
+      "title": "Interview: Astrae Oratio's game director offers new insights into the upcoming RPG's combat after closed beta",
+      "url": "https://www.pocketgamer.com/astrae-oratio/closed-beta-test-combat-reactions/",
+      "source": "Pocket Gamer",
+      "firstSeen": "2026-11-18",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-a2c44e063e57095c",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "Dragon Ruins II offers you bare-bones, rock-hard dungeon-crawling action, now in pre-registration on Android",
+      "url": "https://www.pocketgamer.com/dragon-ruins-ii/now-in-pre-registration-on-android/",
+      "source": "Pocket Gamer",
+      "firstSeen": "2026-11-18",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-0f55616db719f8f8",
+      "type": "news",
+      "detected": "end-of-service",
+      "gameId": "",
+      "title": "スマートフォン向けMMORPG「晴空物語 もふもふランド」，2027年1月19日15：00をもってサービス終了",
+      "url": "https://www.4gamer.net/games/784/G078439/20261118044/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-18",
+      "approved": false,
+      "game": {}
     }
   ]
 }

@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-18T07:28:49Z",
+  "updated": "2026-11-18T20:30:20Z",
   "items": [
+    {
+      "id": "cccfcdac7aba76a0",
+      "title": "Interview: Astrae Oratio's game director offers new insights into the upcoming RPG's combat after closed beta",
+      "url": "https://www.pocketgamer.com/astrae-oratio/closed-beta-test-combat-reactions/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T17:38:00Z",
+      "gameIds": [],
+      "kind": "beta"
+    },
+    {
+      "id": "a2c44e063e57095c",
+      "title": "Dragon Ruins II offers you bare-bones, rock-hard dungeon-crawling action, now in pre-registration on Android",
+      "url": "https://www.pocketgamer.com/dragon-ruins-ii/now-in-pre-registration-on-android/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T13:32:00Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "4ff28b576a59be46",
+      "title": "30 Days: Outbreak is the new zombie extraction shooter from Raid: Shadow Legends' Plarium",
+      "url": "https://www.pocketgamer.com/30-days-outbreak/now-in-soft-launch-for-poland-and-ukraine/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T12:58:00Z",
+      "gameIds": [
+        "raid-shadow-legends"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "3323004d641459ee",
+      "title": "The Game Awards reveals its 2026 nominees for mobile with NTE, Arknights and Where Winds Meet",
+      "url": "https://www.pocketgamer.com/the-game-awards/2026-mobile-nominees-unveiled/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T11:47:00Z",
+      "gameIds": [
+        "arknights"
+      ],
+      "kind": "announcement"
+    },
+    {
+      "id": "0f55616db719f8f8",
+      "title": "スマートフォン向けMMORPG「晴空物語 もふもふランド」，2027年1月19日15：00をもってサービス終了",
+      "url": "https://www.4gamer.net/games/784/G078439/20261118044/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-18T11:19:34Z",
+      "gameIds": [],
+      "kind": "end-of-service"
+    },
+    {
+      "id": "7329762ca6bbd754",
+      "title": "Cookie Run Kingdom: Boucheael Cookie Toppings and Beascuits guide",
+      "url": "https://www.pocketgamer.com/cookie-run-kingdom/boucheael-cookie-toppings-beascuits/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T09:04:00Z",
+      "gameIds": [
+        "cookie-run-kingdom"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "c560b8a69b2192d1",
+      "title": "Pokémon Masters EX tier list - The best sync pairs to use",
+      "url": "https://www.pocketgamer.com/pokemon-masters-ex/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T08:00:00Z",
+      "gameIds": [
+        "pokemon-masters-ex"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "ada25a8ab003d8d8",
+      "title": "Path to Nowhere tier list - All characters ranked",
+      "url": "https://www.pocketgamer.com/path-to-nowhere/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T07:57:00Z",
+      "gameIds": [
+        "path-to-nowhere"
+      ],
+      "kind": ""
+    },
     {
       "id": "805b1e91ee041b73",
       "title": "위메이드커넥트, 로스트 소드 일본 사전예약 시작",
@@ -42,6 +132,18 @@
       "published": "2026-11-18T07:01:08Z",
       "gameIds": [
         "the-seven-deadly-sins-origin"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "eeab013e86e71d29",
+      "title": "Wizardry Variants Daphne tier list and a reroll guide",
+      "url": "https://www.pocketgamer.com/wizardry-variants-daphne/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T06:26:00Z",
+      "gameIds": [
+        "wizardry-variants-daphne"
       ],
       "kind": ""
     },
