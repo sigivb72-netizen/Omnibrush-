@@ -1,6 +1,96 @@
 {
-  "updated": "2026-11-18T20:30:20Z",
+  "updated": "2026-11-19T07:24:38Z",
   "items": [
+    {
+      "id": "bae92036530b91d7",
+      "title": "「App Store Awards 2026」ファイナリスト45作品を発表。「デイヴ・ザ・ダイバー」「アークナイツ：エンドフィールド」「紅の砂漠 Enhanced」などが選出",
+      "url": "https://www.4gamer.net/games/059/G105976/20261119020/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-19T07:10:08Z",
+      "gameIds": [
+        "arknights-endfield"
+      ],
+      "kind": "announcement"
+    },
+    {
+      "id": "235a719074b74ed3",
+      "title": "MMO戦略シミュレーション「太閤立志伝 乱世立身録」，事前登録の受付をApp StoreとGoogle Playで開始",
+      "url": "https://www.4gamer.net/games/059/G105971/20261119021/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-19T06:46:50Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "eba652dbba981c4b",
+      "title": "Girls’ Frontline: The Lunasia Covenant launches in 2027",
+      "url": "https://www.gematsu.com/2026/11/girls-frontline-the-lunasia-covenant-launches-in-2027",
+      "source": "Gematsu",
+      "lang": "en",
+      "published": "2026-11-19T05:15:51Z",
+      "gameIds": [
+        "girls-frontline"
+      ],
+      "kind": "release-date"
+    },
+    {
+      "id": "66ebb34f94e412b6",
+      "title": "[인터뷰] 조나단 로저스, \"'PoE2' 정식 출시 목표는 이용자 100만 명\"",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323597",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-19T04:22:55Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "0b7f2ad5fe78ed78",
+      "title": "[패치] 메이플x블루 아카이브 콜라보! 11월 19일 업데이트 한눈에 보기",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323585",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-19T02:43:56Z",
+      "gameIds": [
+        "blue-archive"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "0a6ec73fba117fdb",
+      "title": "승리의 여신: 니케, 신규 SSR 니케 '스카이' 합류",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323580",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-19T01:46:03Z",
+      "gameIds": [
+        "goddess-of-victory-nikke"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "6fd7c821a2fa81a3",
+      "title": "ストラテジーディフェンスゲーム「Gate of Gates」，スマートフォン＆PC向けクローズドβテストを12月中に開催。参加者を募集中",
+      "url": "https://www.4gamer.net/games/956/G095600/20261117040/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-19T01:00:00Z",
+      "gameIds": [],
+      "kind": "beta"
+    },
+    {
+      "id": "90e23a347ed57906",
+      "title": "スマホゲームのセルラン分析（2026年11月5日〜11月11日）。今週も1位は「勝利の女神：NIKKE」。7月〜9月に登場した新作の国内ランキングも",
+      "url": "https://www.4gamer.net/games/456/G045622/20261116002/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-19T00:00:00Z",
+      "gameIds": [
+        "goddess-of-victory-nikke"
+      ],
+      "kind": ""
+    },
     {
       "id": "cccfcdac7aba76a0",
       "title": "Interview: Astrae Oratio's game director offers new insights into the upcoming RPG's combat after closed beta",
@@ -80,6 +170,18 @@
       "kind": ""
     },
     {
+      "id": "18418594927c4af3",
+      "title": "Tower of Fantasy tier list - Best weapons and characters for PVE and PVP",
+      "url": "https://www.pocketgamer.com/tower-of-fantasy/tier-list/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-18T08:00:00Z",
+      "gameIds": [
+        "tower-of-fantasy"
+      ],
+      "kind": ""
+    },
+    {
       "id": "ada25a8ab003d8d8",
       "title": "Path to Nowhere tier list - All characters ranked",
       "url": "https://www.pocketgamer.com/path-to-nowhere/tier-list/",
@@ -110,6 +212,18 @@
       "published": "2026-11-18T07:17:49Z",
       "gameIds": [
         "cookie-run-kingdom"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "3746b319687568ca",
+      "title": "「The Game Awards 2026」公開各獎項提名作品！《Grand Theft Auto VI》入圍8大獎，《明日方舟：終末地》《異環》角逐最佳手機遊戲！",
+      "url": "https://news.qoo-app.com/post/449775/the-game-awards-2026-nominees",
+      "source": "QooApp News",
+      "lang": "zh",
+      "published": "2026-11-18T07:11:00Z",
+      "gameIds": [
+        "arknights"
       ],
       "kind": ""
     },

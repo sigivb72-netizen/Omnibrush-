@@ -229,6 +229,42 @@
       "firstSeen": "2026-11-18",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-235a719074b74ed3",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "MMO戦略シミュレーション「太閤立志伝 乱世立身録」，事前登録の受付をApp StoreとGoogle Playで開始",
+      "url": "https://www.4gamer.net/games/059/G105971/20261119021/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-19",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-6fd7c821a2fa81a3",
+      "type": "news",
+      "detected": "beta",
+      "gameId": "",
+      "title": "ストラテジーディフェンスゲーム「Gate of Gates」，スマートフォン＆PC向けクローズドβテストを12月中に開催。参加者を募集中",
+      "url": "https://www.4gamer.net/games/956/G095600/20261117040/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-19",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-66ebb34f94e412b6",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "[인터뷰] 조나단 로저스, \"'PoE2' 정식 출시 목표는 이용자 100만 명\"",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323597",
+      "source": "Inven",
+      "firstSeen": "2026-11-19",
+      "approved": false,
+      "game": {}
     }
   ]
 }
