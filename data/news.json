@@ -1,6 +1,42 @@
 {
-  "updated": "2026-11-19T07:24:38Z",
+  "updated": "2026-11-19T20:36:48Z",
   "items": [
+    {
+      "id": "a64c5a8811d1be25",
+      "title": "Girls' Frontline: The Lunasia Covenant, reveals 2027 release date in new trailer",
+      "url": "https://www.pocketgamer.com/girls-frontline-blue-butterfly-contract/lunasia-covenant-release-date-reveal/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-19T16:16:00Z",
+      "gameIds": [
+        "girls-frontline"
+      ],
+      "kind": "release-date"
+    },
+    {
+      "id": "a5924fa3b1de1956",
+      "title": "「アークナイツ：エンドフィールド 1st Anniversary Festival」，2027年1月10日，11日に幕張メッセで開催",
+      "url": "https://www.4gamer.net/games/622/G062211/20261119026/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-19T09:02:13Z",
+      "gameIds": [
+        "arknights"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "d1326a9fccfea966",
+      "title": "㈜카카오게임즈 ‘우마무스메 프리티 더비’ 신규 스토리 이벤트 ‘서머 데이즈 『You』 그라피티’ 오늘(19일) 개최",
+      "url": "https://bbs.ruliweb.com/news/read/232160",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-19T07:27:55Z",
+      "gameIds": [
+        "umamusume-pretty-derby"
+      ],
+      "kind": ""
+    },
     {
       "id": "bae92036530b91d7",
       "title": "「App Store Awards 2026」ファイナリスト45作品を発表。「デイヴ・ザ・ダイバー」「アークナイツ：エンドフィールド」「紅の砂漠 Enhanced」などが選出",
