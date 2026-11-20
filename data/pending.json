@@ -265,6 +265,18 @@
       "firstSeen": "2026-11-19",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-0bb017fd29c88f51",
+      "type": "news",
+      "detected": "beta",
+      "gameId": "",
+      "title": "「シーオブレムナンツ」，12月4日にスタートするクローズドβテスト「ドーンブレイカー号テスト」の参加者募集を開始",
+      "url": "https://www.4gamer.net/games/915/G091599/20261120015/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-20",
+      "approved": false,
+      "game": {}
     }
   ]
 }

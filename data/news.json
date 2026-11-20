@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-19T20:36:48Z",
+  "updated": "2026-11-20T07:14:37Z",
   "items": [
+    {
+      "id": "b08ec21a64afb693",
+      "title": "그라비티 네오싸이언 ‘퍼즐앤드래곤’, 애니메이션 ‘블리치 천년혈전편’과 콜라보레이션 오늘(20일) 시작",
+      "url": "https://bbs.ruliweb.com/news/read/232222",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-20T05:22:51Z",
+      "gameIds": [
+        "puzzle-and-dragons"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "0bb017fd29c88f51",
+      "title": "「シーオブレムナンツ」，12月4日にスタートするクローズドβテスト「ドーンブレイカー号テスト」の参加者募集を開始",
+      "url": "https://www.4gamer.net/games/915/G091599/20261120015/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-20T05:21:32Z",
+      "gameIds": [],
+      "kind": "beta"
+    },
+    {
+      "id": "eafe6d1da4421ec3",
+      "title": "Wuthering Waves, Azur Lane, Chaos Zero Nightmare - We've Gacha Covered",
+      "url": "https://www.pocketgamer.com/weve-gacha-covered/november-20th-2026/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-20T04:00:00Z",
+      "gameIds": [
+        "chaos-zero-nightmare",
+        "wuthering-waves",
+        "azur-lane"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "f485d594a14634c7",
+      "title": "나 혼자만 레벨업:어라이즈, 탈리아 데 로시 추가",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323635",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-20T00:34:50Z",
+      "gameIds": [
+        "solo-leveling-arise"
+      ],
+      "kind": ""
+    },
     {
       "id": "a64c5a8811d1be25",
       "title": "Girls' Frontline: The Lunasia Covenant, reveals 2027 release date in new trailer",
