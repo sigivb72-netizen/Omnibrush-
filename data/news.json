@@ -1,6 +1,77 @@
 {
-  "updated": "2026-11-20T07:14:37Z",
+  "updated": "2026-11-20T20:17:41Z",
   "items": [
+    {
+      "id": "c61487837892e647",
+      "title": "Mixcity Swap is an upcoming card battler that promises you it's the anti gacha",
+      "url": "https://www.pocketgamer.com/mixcity-swap/coming-soon-to-mobile/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-20T17:49:00Z",
+      "gameIds": [],
+      "kind": ""
+    },
+    {
+      "id": "cde1cd3383d8a215",
+      "title": "「アズールプロミリア」，限定キャラクターの「塗山小玉」「源千代」やリリース記念のオフラインイベントなど，ゲーム内外の情報が明らかに",
+      "url": "https://www.4gamer.net/games/784/G078489/20261120023/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-20T13:35:27Z",
+      "gameIds": [
+        "azur-promilia"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "f2fe306f844adc96",
+      "title": "Zenless Zone Zero version 3.4 update ‘The Finality of the Day’ launches December 2",
+      "url": "https://www.gematsu.com/2026/11/zenless-zone-zero-version-3-4-update-the-finality-of-the-day-launches-december-2",
+      "source": "Gematsu",
+      "lang": "en",
+      "published": "2026-11-20T13:05:15Z",
+      "gameIds": [
+        "zenless-zone-zero"
+      ],
+      "kind": "release-date"
+    },
+    {
+      "id": "d93ad1a95601055b",
+      "title": "「崩壊：スターレイル」とのコラボも開催。「ゼンレスゾーンゼロ」，Ver.3.4“ついには長き，日の終わり”を12月2日にリリース決定",
+      "url": "https://www.4gamer.net/games/630/G063081/20261120048/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-20T12:39:46Z",
+      "gameIds": [
+        "honkai-star-rail",
+        "zenless-zone-zero"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "991af004e3f20517",
+      "title": "Chasing Kaleidorider closed ‘Doki Test’ begins December 17",
+      "url": "https://www.gematsu.com/2026/11/chasing-kaleidorider-closed-doki-test-begins-december-17",
+      "source": "Gematsu",
+      "lang": "en",
+      "published": "2026-11-20T12:00:13Z",
+      "gameIds": [
+        "chasing-kaleidorider"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "abb36192f5b2e75f",
+      "title": "「崩壊：スターレイル」×モバイルSuica，タイアップ企画を11月23日から実施。限定カードフェイスが抽選でもらえる",
+      "url": "https://www.4gamer.net/games/599/G059954/20261120036/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-20T11:02:26Z",
+      "gameIds": [
+        "honkai-star-rail"
+      ],
+      "kind": ""
+    },
     {
       "id": "b08ec21a64afb693",
       "title": "그라비티 네오싸이언 ‘퍼즐앤드래곤’, 애니메이션 ‘블리치 천년혈전편’과 콜라보레이션 오늘(20일) 시작",
@@ -51,7 +122,7 @@
     },
     {
       "id": "a64c5a8811d1be25",
-      "title": "Girls' Frontline: The Lunasia Covenant, reveals 2027 release date in new trailer",
+      "title": "Girls' Frontline: The Lunasia Covenant reveals 2027 release date in new trailer",
       "url": "https://www.pocketgamer.com/girls-frontline-blue-butterfly-contract/lunasia-covenant-release-date-reveal/",
       "source": "Pocket Gamer",
       "lang": "en",
