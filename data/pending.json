@@ -277,6 +277,18 @@
       "firstSeen": "2026-11-20",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-03b9f7e4a253abb6",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "「三国志:九州覇業」日本向けAndroid版クローズドβテストがスタート。事前登録も開始され，武将「趙雲」や最大390連分のガチャなどの特典が明らかに",
+      "url": "https://www.4gamer.net/games/060/G106031/20261121001/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-21",
+      "approved": false,
+      "game": {}
     }
   ]
 }
