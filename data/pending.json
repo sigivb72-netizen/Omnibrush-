@@ -289,6 +289,30 @@
       "firstSeen": "2026-11-21",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-2bba187b437d16c0",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "신규 캐릭터와 콘텐츠 추가, '보이드 다이버' 내년 1월 20일 정식 출시 확정",
+      "url": "https://bbs.ruliweb.com/news/read/232277",
+      "source": "Ruliweb News",
+      "firstSeen": "2026-11-23",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-2c294415fe93ff15",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "'보이드 다이버', 2027년 1월 20일 스팀 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323720",
+      "source": "Inven",
+      "firstSeen": "2026-11-23",
+      "approved": false,
+      "game": {}
     }
   ]
 }

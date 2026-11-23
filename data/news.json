@@ -1,6 +1,98 @@
 {
-  "updated": "2026-11-22T19:39:24Z",
+  "updated": "2026-11-23T07:37:43Z",
   "items": [
+    {
+      "id": "9fbaa7a8a06a27e5",
+      "title": "페이트/그랜드 오더, AGF 부스·프로그램 공개",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323728",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-23T06:34:56Z",
+      "gameIds": [
+        "fate-grand-order"
+      ],
+      "kind": "announcement"
+    },
+    {
+      "id": "9fb57b1779e41207",
+      "title": "넷마블 ‘페이트/그랜드 오더’, ‘AGF 2026’ 부스 조감도 및 프로그램 공개",
+      "url": "https://bbs.ruliweb.com/news/read/232280",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-23T06:34:54Z",
+      "gameIds": [
+        "fate-grand-order"
+      ],
+      "kind": "announcement"
+    },
+    {
+      "id": "2bba187b437d16c0",
+      "title": "신규 캐릭터와 콘텐츠 추가, '보이드 다이버' 내년 1월 20일 정식 출시 확정",
+      "url": "https://bbs.ruliweb.com/news/read/232277",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-23T05:00:00Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "2c294415fe93ff15",
+      "title": "'보이드 다이버', 2027년 1월 20일 스팀 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323720",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-23T03:31:55Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "7e7d280ceb0cb3e7",
+      "title": "컴투스 ‘서머너즈 워: 천공의 아레나’, 블랙 프라이데이 이벤트 오늘(23일) 시작",
+      "url": "https://bbs.ruliweb.com/news/read/232270",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-23T02:49:22Z",
+      "gameIds": [
+        "summoners-war"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "889e8e371d5de561",
+      "title": "This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise: The Stellar Angel, more",
+      "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more",
+      "source": "Gematsu",
+      "lang": "en",
+      "published": "2026-11-23T02:36:01Z",
+      "gameIds": [
+        "azur-promilia"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "202707a9de647a32",
+      "title": "소녀전선: 블루 코버넌트, AGF 2026 참가",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323708",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-23T01:48:26Z",
+      "gameIds": [
+        "girls-frontline"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "f1f8c7e798ceb616",
+      "title": "명일방주: 엔드필드, 25일 버섯 동산 모험 공개",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323706",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-23T01:41:44Z",
+      "gameIds": [
+        "arknights"
+      ],
+      "kind": "announcement"
+    },
     {
       "id": "16411f1fbdf95502",
       "title": "Solo Leveling Arise codes (November 2026)",
@@ -89,8 +181,8 @@
       "lang": "ja",
       "published": "2026-11-20T12:39:46Z",
       "gameIds": [
-        "honkai-star-rail",
-        "zenless-zone-zero"
+        "zenless-zone-zero",
+        "honkai-star-rail"
       ],
       "kind": ""
     },
