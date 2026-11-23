@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-23T07:37:43Z",
+  "updated": "2026-11-23T23:52:47Z",
   "items": [
+    {
+      "id": "acca496886d4c70f",
+      "title": "Raid: Shadow Legends lets you know what is best in life with its Conan the Barbarian collaboration",
+      "url": "https://www.pocketgamer.com/raid-shadow-legends/conan-the-barbarian-collab/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-23T17:43:00Z",
+      "gameIds": [
+        "raid-shadow-legends"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "42e5213ea1cec486",
+      "title": "Arknights: Endfield gets trippy in the World O'Shrooms update",
+      "url": "https://www.pocketgamer.com/arknights-endfield/world-oshrooms-update/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-23T12:30:00Z",
+      "gameIds": [
+        "arknights-endfield"
+      ],
+      "kind": ""
+    },
     {
       "id": "9fbaa7a8a06a27e5",
       "title": "페이트/그랜드 오더, AGF 부스·프로그램 공개",
@@ -181,8 +205,8 @@
       "lang": "ja",
       "published": "2026-11-20T12:39:46Z",
       "gameIds": [
-        "zenless-zone-zero",
-        "honkai-star-rail"
+        "honkai-star-rail",
+        "zenless-zone-zero"
       ],
       "kind": ""
     },
