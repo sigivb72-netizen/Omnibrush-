@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-24T09:53:41Z",
+  "updated": "2026-11-24T22:26:10Z",
   "items": [
+    {
+      "id": "fc69c2fd0e89317a",
+      "title": "「アークナイツ：エンドフィールド」と「ピザーラ」のコラボが12月3日にスタート。ペリカなどのグッズが付属するコラボセットを販売",
+      "url": "https://www.4gamer.net/games/622/G062211/20261124044/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-24T11:39:07Z",
+      "gameIds": [
+        "arknights-endfield"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "bc350233801bf881",
+      "title": "「モンスターストライク」が世界累計DL数6000万，累計収益115億ドルを突破。パズルRPGの月間アクティブユーザー数は世界トップに",
+      "url": "https://www.4gamer.net/games/236/G023612/20261124038/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-24T11:03:00Z",
+      "gameIds": [
+        "monster-strike"
+      ],
+      "kind": ""
+    },
     {
       "id": "046145b8ee17cedb",
       "title": "「鳴潮」，Ver.4.0「永遠に灯る残り火」の実機プレビュー映像が公開。「アンナ」「ルシェル」の姿やメカ形態への変形に注目",
