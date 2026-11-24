@@ -313,6 +313,66 @@
       "firstSeen": "2026-11-23",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-a7f2d25e9bca78ca",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "엠게임, 무협 방치형 RPG 귀혼키우기 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323771",
+      "source": "Inven",
+      "firstSeen": "2026-11-24",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "store-azur-promilia-googlePlay-global-available-",
+      "type": "store",
+      "detected": "available",
+      "gameId": "azur-promilia",
+      "title": "Azur Promilia (global): Store page looks live; check whether the game has released in this region",
+      "url": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP&hl=en&gl=US",
+      "source": "googlePlay",
+      "firstSeen": "2026-11-24",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "store-azur-promilia-googlePlay-jp-available-",
+      "type": "store",
+      "detected": "available",
+      "gameId": "azur-promilia",
+      "title": "Azur Promilia (jp): Store page looks live; check whether the game has released in this region",
+      "url": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP&hl=en&gl=JP",
+      "source": "googlePlay",
+      "firstSeen": "2026-11-24",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "store-azur-promilia-googlePlay-kr-available-",
+      "type": "store",
+      "detected": "available",
+      "gameId": "azur-promilia",
+      "title": "Azur Promilia (kr): Store page looks live; check whether the game has released in this region",
+      "url": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP&hl=en&gl=KR",
+      "source": "googlePlay",
+      "firstSeen": "2026-11-24",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "store-azur-promilia-googlePlay-tw_sea-available-",
+      "type": "store",
+      "detected": "available",
+      "gameId": "azur-promilia",
+      "title": "Azur Promilia (tw_sea): Store page looks live; check whether the game has released in this region",
+      "url": "https://play.google.com/store/apps/details?id=com.Yostar.AzurpromiliaJP&hl=en&gl=TW",
+      "source": "googlePlay",
+      "firstSeen": "2026-11-24",
+      "approved": false,
+      "game": {}
     }
   ]
 }

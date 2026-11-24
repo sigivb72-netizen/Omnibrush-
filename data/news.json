@@ -1,6 +1,28 @@
 {
-  "updated": "2026-11-23T23:52:47Z",
+  "updated": "2026-11-24T09:53:41Z",
   "items": [
+    {
+      "id": "046145b8ee17cedb",
+      "title": "「鳴潮」，Ver.4.0「永遠に灯る残り火」の実機プレビュー映像が公開。「アンナ」「ルシェル」の姿やメカ形態への変形に注目",
+      "url": "https://www.4gamer.net/games/634/G063420/20261124030/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-24T09:31:38Z",
+      "gameIds": [
+        "wuthering-waves"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "a7f2d25e9bca78ca",
+      "title": "엠게임, 무협 방치형 RPG 귀혼키우기 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323771",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-24T04:08:46Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
     {
       "id": "acca496886d4c70f",
       "title": "Raid: Shadow Legends lets you know what is best in life with its Conan the Barbarian collaboration",
@@ -205,8 +227,8 @@
       "lang": "ja",
       "published": "2026-11-20T12:39:46Z",
       "gameIds": [
-        "honkai-star-rail",
-        "zenless-zone-zero"
+        "zenless-zone-zero",
+        "honkai-star-rail"
       ],
       "kind": ""
     },
