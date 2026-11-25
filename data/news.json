@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-24T22:26:10Z",
+  "updated": "2026-11-25T08:33:04Z",
   "items": [
+    {
+      "id": "9610be5da062ada6",
+      "title": "엑조프라이멀, 2027년 9월부로 서비스 종료",
+      "url": "https://bbs.ruliweb.com/news/read/232404",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-25T08:30:00Z",
+      "gameIds": [],
+      "kind": "end-of-service"
+    },
+    {
+      "id": "c32f0eddfb344fd8",
+      "title": "하이브로, 삼국지 GO! 국내·글로벌 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323839",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-25T07:22:21Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "3179a069b60f2968",
+      "title": "크래프톤, 자체 개발 LLM '라온-1 미니' 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323828",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-25T05:09:20Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "41863b0ce3669046",
+      "title": "ホロライブのタレントが37人登場する新作ゲーム「ホロライブ麻雀 -ホロじゃん-」，正式サービスを開始。記念番組は11月27日に配信",
+      "url": "https://www.4gamer.net/games/049/G104900/20261125011/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-25T04:39:57Z",
+      "gameIds": [],
+      "kind": ""
+    },
+    {
+      "id": "73fe9ccecb514203",
+      "title": "캡콤, 메카닉 슈트VS공룡 슈터 '엑조프라이멀' 2027년 9월 서비스 종료",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323813",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-25T02:20:45Z",
+      "gameIds": [],
+      "kind": "end-of-service"
+    },
     {
       "id": "fc69c2fd0e89317a",
       "title": "「アークナイツ：エンドフィールド」と「ピザーラ」のコラボが12月3日にスタート。ペリカなどのグッズが付属するコラボセットを販売",
