@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-25T08:33:04Z",
+  "updated": "2026-11-25T21:41:26Z",
   "items": [
+    {
+      "id": "9608565c7e254a8b",
+      "title": "Shard Squad combines Vampire Survivors and Pokémon in a fast-paced roguelike, now in pre-registration",
+      "url": "https://www.pocketgamer.com/shard-squad/pre-registration-android-now-open/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-25T17:26:00Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "a184c8dd32e3aa16",
+      "title": "オンラインカードゲーム「デジモンアリシオン」，スマートフォン向けに配信開始。事前登録の特典で希少なカードを受け取れる",
+      "url": "https://www.4gamer.net/games/893/G089331/20261125056/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-25T11:21:37Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "0bd3d3438cb2926c",
+      "title": "The Pocket Gamer Podcast Episode 104 - Saints Row, Neverness to Everness, and much ado about GTA VI",
+      "url": "https://www.pocketgamer.com/podcast/pocket-gamer-podcast-episode-104/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-25T09:01:00Z",
+      "gameIds": [
+        "neverness-to-everness"
+      ],
+      "kind": ""
+    },
     {
       "id": "9610be5da062ada6",
       "title": "엑조프라이멀, 2027년 9월부로 서비스 종료",

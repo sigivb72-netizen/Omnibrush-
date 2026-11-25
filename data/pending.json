@@ -421,6 +421,30 @@
       "firstSeen": "2026-11-25",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-9608565c7e254a8b",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "Shard Squad combines Vampire Survivors and Pokémon in a fast-paced roguelike, now in pre-registration",
+      "url": "https://www.pocketgamer.com/shard-squad/pre-registration-android-now-open/",
+      "source": "Pocket Gamer",
+      "firstSeen": "2026-11-25",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-a184c8dd32e3aa16",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "オンラインカードゲーム「デジモンアリシオン」，スマートフォン向けに配信開始。事前登録の特典で希少なカードを受け取れる",
+      "url": "https://www.4gamer.net/games/893/G089331/20261125056/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-25",
+      "approved": false,
+      "game": {}
     }
   ]
 }
