@@ -457,6 +457,30 @@
       "firstSeen": "2026-11-26",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-10e6abac2430fef4",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "Monster Must Die is a new roguelike tower defence from Habby, now in pre-registration on Android",
+      "url": "https://www.pocketgamer.com/monster-must-die/now-in-pre-registration-for-android/",
+      "source": "Pocket Gamer",
+      "firstSeen": "2026-11-26",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-3f07e2404ba88d54",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "草薙 京や不知火 舞らSNK作品のキャラクターたちが集結する「SNKクロスオーバー」，事前登録をApp StoreとGoogle Playで開始",
+      "url": "https://www.4gamer.net/games/061/G106184/20261126032/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-26",
+      "approved": false,
+      "game": {}
     }
   ]
 }

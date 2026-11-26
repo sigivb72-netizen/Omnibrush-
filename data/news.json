@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-26T08:16:54Z",
+  "updated": "2026-11-26T21:30:36Z",
   "items": [
+    {
+      "id": "a67d592227ad656d",
+      "title": "Azur Promilia, Manju Games' creature-collecting RPG, is out now in Korea",
+      "url": "https://www.pocketgamer.com/azur-promilia/out-now-in-korea/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-26T13:33:00Z",
+      "gameIds": [
+        "azur-promilia"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "10e6abac2430fef4",
+      "title": "Monster Must Die is a new roguelike tower defence from Habby, now in pre-registration on Android",
+      "url": "https://www.pocketgamer.com/monster-must-die/now-in-pre-registration-for-android/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-26T13:29:00Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "3f07e2404ba88d54",
+      "title": "草薙 京や不知火 舞らSNK作品のキャラクターたちが集結する「SNKクロスオーバー」，事前登録をApp StoreとGoogle Playで開始",
+      "url": "https://www.4gamer.net/games/061/G106184/20261126032/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-26T09:30:06Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
     {
       "id": "af7f94d661fc3ff7",
       "title": "幻想的な生きもの「キボ」と旅するRPG「アズールプロミリア」，正式サービスを開始。リリース記念イベントも多数開催",
