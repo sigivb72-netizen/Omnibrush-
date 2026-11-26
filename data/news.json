@@ -1,6 +1,52 @@
 {
-  "updated": "2026-11-25T21:41:26Z",
+  "updated": "2026-11-26T08:16:54Z",
   "items": [
+    {
+      "id": "af7f94d661fc3ff7",
+      "title": "幻想的な生きもの「キボ」と旅するRPG「アズールプロミリア」，正式サービスを開始。リリース記念イベントも多数開催",
+      "url": "https://www.4gamer.net/games/784/G078489/20261126013/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-26T03:59:21Z",
+      "gameIds": [
+        "azur-promilia"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "b6a14495cda2895c",
+      "title": "「アズールプロミリア」かわいい美少女×かわいいキボで，かわいいの爆盛り！ 遊びの要素が多すぎて一生終わる気がしない大冒険へ【PR】",
+      "url": "https://www.4gamer.net/games/784/G078487/20261106032/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-26T03:43:37Z",
+      "gameIds": [
+        "azur-promilia"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "7b1a3682feb5a88b",
+      "title": "「Chill with You : Lo-Fi Story」，ストーリーを本編に追加する無料大型アップデート「君と見る夢」を配信開始。DLCは発売延期",
+      "url": "https://www.4gamer.net/games/906/G090607/20261126006/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-26T03:21:07Z",
+      "gameIds": [],
+      "kind": "release-date"
+    },
+    {
+      "id": "22980ed0b533a74f",
+      "title": "「ファイアーエムブレム ヒーローズ」，英雄総選挙 シャドウズ杯1位のディミトリ，エーデルガルトが参戦。響心英雄のアルヴィングも同時実装",
+      "url": "https://www.4gamer.net/games/369/G036904/20261125022/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-26T03:00:00Z",
+      "gameIds": [
+        "fire-emblem-heroes"
+      ],
+      "kind": ""
+    },
     {
       "id": "9608565c7e254a8b",
       "title": "Shard Squad combines Vampire Survivors and Pokémon in a fast-paced roguelike, now in pre-registration",

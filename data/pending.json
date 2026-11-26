@@ -445,6 +445,18 @@
       "firstSeen": "2026-11-25",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-7b1a3682feb5a88b",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "「Chill with You : Lo-Fi Story」，ストーリーを本編に追加する無料大型アップデート「君と見る夢」を配信開始。DLCは発売延期",
+      "url": "https://www.4gamer.net/games/906/G090607/20261126006/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-26",
+      "approved": false,
+      "game": {}
     }
   ]
 }
