@@ -481,6 +481,78 @@
       "firstSeen": "2026-11-26",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-89a7a91b28d9e26f",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "MMORPG《救世者之樹：新世界》感恩公測開啟！《超人力霸王系列》聯動同步登場",
+      "url": "https://news.qoo-app.com/post/450525/tosn-ultraman-collab-obt",
+      "source": "QooApp News",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-3f422c98c83070cb",
+      "type": "news",
+      "detected": "end-of-service",
+      "gameId": "",
+      "title": "「學園文豪ストレイドッグス」，2027年1月25日13：00をもってサービス終了",
+      "url": "https://www.4gamer.net/games/697/G069746/20261127022/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-07f64e5bd512df59",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "리니지2 레볼루션, 10주년 업데이트 사전예약",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323951",
+      "source": "Inven",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-36143bf0d474c684",
+      "type": "news",
+      "detected": "release-date",
+      "gameId": "",
+      "title": "세시소프트, 천상비M2 12월 8일 정식 출시",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323942",
+      "source": "Inven",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-3571436b7883289e",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "뱀피르, 신규 서버 ONE 사전등록…12월 9일 오픈",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323938",
+      "source": "Inven",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
+    },
+    {
+      "id": "news-d99ad6be2407f56b",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "사전예약 30만 돌파! 일랜시아 모바일, 캐릭터 사전 생성 시작",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323924",
+      "source": "Inven",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
     }
   ]
 }
