@@ -1,6 +1,29 @@
 {
-  "updated": "2026-11-27T08:31:31Z",
+  "updated": "2026-11-27T21:16:26Z",
   "items": [
+    {
+      "id": "25b43d5b8c3a4c65",
+      "title": "「なめこ」シリーズの最新作「冒険宿 なめこ亭」，App Storeで事前登録受付を開始。料理で冒険者をもてなす宿づくりゲーム",
+      "url": "https://www.4gamer.net/games/062/G106227/20261127055/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-27T13:03:00Z",
+      "gameIds": [],
+      "kind": "pre-registration"
+    },
+    {
+      "id": "485ec45dc043e1f2",
+      "title": "Solo Leveling: Arise, Zenless Zone Zero, Tower of God: New World - We've Gacha Covered",
+      "url": "https://www.pocketgamer.com/weve-gacha-covered/november-27th-2026/",
+      "source": "Pocket Gamer",
+      "lang": "en",
+      "published": "2026-11-27T09:40:00Z",
+      "gameIds": [
+        "solo-leveling-arise",
+        "zenless-zone-zero"
+      ],
+      "kind": ""
+    },
     {
       "id": "07f64e5bd512df59",
       "title": "리니지2 레볼루션, 10주년 업데이트 사전예약",
@@ -18,6 +41,18 @@
       "source": "Inven",
       "lang": "ko",
       "published": "2026-11-27T07:31:00Z",
+      "gameIds": [
+        "epic-seven"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "ce0f0223b5a55b84",
+      "title": "스마일게이트 ‘에픽세븐’, 글로벌 e스포츠 축제 ‘E7WC 2026’ 결승전 개최 예고",
+      "url": "https://bbs.ruliweb.com/news/read/232530",
+      "source": "Ruliweb News",
+      "lang": "ko",
+      "published": "2026-11-27T06:33:17Z",
       "gameIds": [
         "epic-seven"
       ],

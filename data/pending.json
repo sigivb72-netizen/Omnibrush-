@@ -553,6 +553,18 @@
       "firstSeen": "2026-11-27",
       "approved": false,
       "game": {}
+    },
+    {
+      "id": "news-25b43d5b8c3a4c65",
+      "type": "news",
+      "detected": "pre-registration",
+      "gameId": "",
+      "title": "「なめこ」シリーズの最新作「冒険宿 なめこ亭」，App Storeで事前登録受付を開始。料理で冒険者をもてなす宿づくりゲーム",
+      "url": "https://www.4gamer.net/games/062/G106227/20261127055/",
+      "source": "4Gamer (Smartphone)",
+      "firstSeen": "2026-11-27",
+      "approved": false,
+      "game": {}
     }
   ]
 }
