@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-27T21:16:26Z",
+  "updated": "2026-11-28T07:47:37Z",
   "items": [
+    {
+      "id": "dce5d50bd3771ee6",
+      "title": "[풍경기] 잠실 롯데시네마를 물들인 계승자들의 축제, '에픽세븐 월드 챔피언십 2026'",
+      "url": "https://www.inven.co.kr/webzine/news/?news=323958",
+      "source": "Inven",
+      "lang": "ko",
+      "published": "2026-11-28T03:19:49Z",
+      "gameIds": [
+        "epic-seven"
+      ],
+      "kind": ""
+    },
+    {
+      "id": "db6e75cde39fcedd",
+      "title": "デッキ構築型ローグライクRPG「カオスゼロナイトメア」にマルチプレイが実装!? 新コンテンツ“連合作戦 - コアブレイク”を遊んできた［プレイレポ］",
+      "url": "https://www.4gamer.net/games/793/G079350/20261127005/",
+      "source": "4Gamer (Smartphone)",
+      "lang": "ja",
+      "published": "2026-11-28T00:00:00Z",
+      "gameIds": [
+        "chaos-zero-nightmare"
+      ],
+      "kind": ""
+    },
     {
       "id": "25b43d5b8c3a4c65",
       "title": "「なめこ」シリーズの最新作「冒険宿 なめこ亭」，App Storeで事前登録受付を開始。料理で冒険者をもてなす宿づくりゲーム",
